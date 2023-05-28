@@ -1,0 +1,220 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>AgriStats</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="keywords" content="agristats, agriculture, farming, smart, beekeeping, react native, farmer, farmers, husbandry, apiculture, earth observation, GNSS, IoT, Internet of Things, satellite, SENTINEL, BeeLive, AgriStats, Wine Routes, wine, wine lover, winemaking, wine tasting">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101173631-3"></script>
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-101173631-1');
+			function buildTable(data){
+				console.log(data);
+				var keys = [];
+				myhtml = '<table border==\"1\" style="width:100%">';
+				for (var i = 0; i < data.length; i++) {
+					myhtml = myhtml + '<tr><td><a style="font-size: 80%;" href='+ data[i]["url"] + '>'+ data[i]["subject"] + '</a></td></tr>';
+				}
+				myhtml = myhtml + "</table>";
+				return myhtml
+			}
+			function getData(category){
+				var url="https://app.agristats.eu/getLastDecisions?category="+category;
+				$.getJSON(url, function(t) {
+					document.getElementById("tablegg").innerHTML = buildTable(t);
+				});
+			}
+			$(document).ready(function(){
+				getData("processing");
+			});
+		</script>
+		<style>
+			.vertical-menu {
+				width: 15vw;
+			  	height: 700px;
+			  	overflow-y: auto;
+			  	display:inline-block;
+			}
+			.vertical-menu a {
+			  	background-color: transparent;
+			  	color: white;
+			  	display: block;
+			  	padding: 12px;
+			  	text-decoration: none;
+			  	font-size: 80%;
+			}
+			.vertical-menu a:hover {
+			  	background-color: #ccc;
+			}
+			.vertical-menu a.active {
+			  	background-color: white;
+			  	color: black;
+			}
+			.content-base {
+			  	display: flex;
+			}
+		</style>
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><img src="favicon.ico"/><a href="index.html"> AgriStats</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a >Projects</a>
+								<ul>
+									<li><a href="beelive.html">BeeLive</a></li>
+									<li><a href="wineroutes.html">Wine Routes</a></li>
+									<!-- <li><a href="greekgeography.html">Κουίζ Γεωγραφίας</a></li> -->
+									<li><a href="webmap.html">Maps</a></li>
+									<li><a href="charts.html">Charts</a></li>
+									<!-- <li>
+									<li>
+										<a >Web Apps</a>
+										<ul>
+											<li><a href="webmap.html">Maps</a></li>
+											<li><a href="charts.html">Charts</a></li>
+											<li><a href="eufunds.html">EU Funds</a></li>
+											<li><a href="prices.html">Agri Prices</a></li>
+										</ul>
+									</li> -->
+								</ul>
+							</li>
+							<li><a href="#footer">Contact</a></li>
+							<li><a href="#five" class="button primary">Subscribe</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<div id="main" class="wrapper style1">
+					<div class="flex-container">
+						<div style="display:inline-block">
+							<!-- Begin Mailchimp Signup Form -->
+							<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
+							<style type="text/css">
+								#mc_embed_signup{background:transparent; clear:left; font:14px Helvetica,Arial,sans-serif;  width:24vw;}
+								/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+								   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+							</style>
+							<div id="mc_embed_signup">
+							<form action="https://agristats.us17.list-manage.com/subscribe/post?u=fd2590e4dff83e84068e1cbf9&amp;id=bec57b688f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+							    <div id="mc_embed_signup_scroll">
+								<h2>Εγγραφή στην εβδομαδιαία ενημέρωση</h2>
+								<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+								<div class="mc-field-group">
+									<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+									</label>
+									<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+								</div>
+								<div class="mc-field-group input-group">
+								    <strong>Επιλέξτε ένα ή περισσότερους τομείς</strong>
+								    <ul>
+								    	<li><input type="checkbox" value="1" name="group[255498][1]" id="mce-group[255498]-255498-0"><label for="mce-group[255498]-255498-0">Μεταποίηση</label></li>
+										<li><input type="checkbox" value="2" name="group[255498][2]" id="mce-group[255498]-255498-1"><label for="mce-group[255498]-255498-1">Σχέδια βελτίωσης</label></li>
+										<li><input type="checkbox" value="4" name="group[255498][4]" id="mce-group[255498]-255498-2"><label for="mce-group[255498]-255498-2">Νέοι Γεωργοί</label></li>
+										<li><input type="checkbox" value="8" name="group[255498][8]" id="mce-group[255498]-255498-3"><label for="mce-group[255498]-255498-3">CLLD/LEADER</label></li>
+										<li><input type="checkbox" value="16" name="group[255498][16]" id="mce-group[255498]-255498-4"><label for="mce-group[255498]-255498-4">Γεωργοπεριβαλλοντικά</label></li>
+										<li><input type="checkbox" value="32" name="group[255498][32]" id="mce-group[255498]-255498-5"><label for="mce-group[255498]-255498-5">Βιολογικά</label></li>
+										<li><input type="checkbox" value="64" name="group[255498][64]" id="mce-group[255498]-255498-6"><label for="mce-group[255498]-255498-6">Οργανώσεις/ομάδες παραγωγών</label></li>
+										<li><input type="checkbox" value="128" name="group[255498][128]" id="mce-group[255498]-255498-7"><label for="mce-group[255498]-255498-7">Δημόσια έργα</label></li>
+										<li><input type="checkbox" value="256" name="group[255498][256]" id="mce-group[255498]-255498-8"><label for="mce-group[255498]-255498-8">Μελισσοκομία</label></li>
+										<li><input type="checkbox" value="512" name="group[255498][512]" id="mce-group[255498]-255498-9"><label for="mce-group[255498]-255498-9">Δασικά</label></li>
+										<li><input type="checkbox" value="1024" name="group[255498][1024]" id="mce-group[255498]-255498-10"><label for="mce-group[255498]-255498-10">Γεωργικές συμβουλές</label></li>
+										<li><input type="checkbox" value="2048" name="group[255498][2048]" id="mce-group[255498]-255498-11"><label for="mce-group[255498]-255498-11">Αντιχαλαζικά</label></li>
+										<li><input type="checkbox" value="4096" name="group[255498][4096]" id="mce-group[255498]-255498-12"><label for="mce-group[255498]-255498-12">Εξισωτική</label></li>
+										<li><input type="checkbox" value="524288" name="group[255498][524288]" id="mce-group[255498]-255498-13"><label for="mce-group[255498]-255498-13">Αλιεία</label></li>
+										<li><input type="checkbox" value="8192" name="group[255498][8192]" id="mce-group[255498]-255498-14"><label for="mce-group[255498]-255498-14">Συνεργασία και καινοτομία</label></li>
+										<li><input type="checkbox" value="16384" name="group[255498][16384]" id="mce-group[255498]-255498-15"><label for="mce-group[255498]-255498-15">Πρόωρη συνταξιοδότηση</label></li>
+										<li><input type="checkbox" value="262144" name="group[255498][262144]" id="mce-group[255498]-255498-16"><label for="mce-group[255498]-255498-16">Άμεσες ενισχύσεις</label></li>
+										<li><input type="checkbox" value="32768" name="group[255498][32768]" id="mce-group[255498]-255498-17"><label for="mce-group[255498]-255498-17">De minimis</label></li>
+										<li><input type="checkbox" value="65536" name="group[255498][65536]" id="mce-group[255498]-255498-18"><label for="mce-group[255498]-255498-18">Συνδεδεμένες</label></li>
+										<li><input type="checkbox" value="131072" name="group[255498][131072]" id="mce-group[255498]-255498-19"><label for="mce-group[255498]-255498-19">Οίνος</label></li>
+									</ul>
+								</div>
+								<div id="mce-responses" class="clear foot">
+									<div class="response" id="mce-error-response" style="display:none"></div>
+									<div class="response" id="mce-success-response" style="display:none"></div>
+								</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+							    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fd2590e4dff83e84068e1cbf9_bec57b688f" tabindex="-1" value=""></div>
+							        <div class="optionalParent">
+							            <div class="clear foot">
+							                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+							                <p class="brandingLogo"><a href="http://eepurl.com/hGFToD" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+							            </div>
+							        </div>
+							    </div>
+							</form>
+							</div>
+							<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+							<!--End mc_embed_signup-->
+						</div>
+						<div class="vertical-menu">
+						  <a id="option1" class="active" onclick='$(".active").removeClass("active");document.getElementById("option1").classList.toggle("active");getData("processing");'>Μεταποίηση</a>
+						  <a id="option2" onclick='$(".active").removeClass("active");document.getElementById("option2").classList.toggle("active");getData("svel");'>Σχέδια βελτίωσης</a>
+						  <a id="option3" onclick='$(".active").removeClass("active");document.getElementById("option3").classList.toggle("active");getData("farmer");'>Νέοι γεωργοί</a>
+						  <a id="option4" onclick='$(".active").removeClass("active");document.getElementById("option4").classList.toggle("active");getData("local");'>CLLD/LEADER</a>
+						  <a id="option5" onclick='$(".active").removeClass("active");document.getElementById("option5").classList.toggle("active");getData("environ");'>Γεωργοπεριβαλλοντικά</a>
+						  <a id="option6" onclick='$(".active").removeClass("active");document.getElementById("option6").classList.toggle("active");getData("organic");'>Βιολογικά</a>
+						  <a id="option7" onclick='$(".active").removeClass("active");document.getElementById("option7").classList.toggle("active");getData("groups");'>Οργανώσεις/ομάδες παραγωγών</a>
+						  <a id="option8" onclick='$(".active").removeClass("active");document.getElementById("option8").classList.toggle("active");getData("dhmosia");'>Δημόσια έργα</a>
+						  <a id="option9" onclick='$(".active").removeClass("active");document.getElementById("option9").classList.toggle("active");getData("bee");'>Μελισσοκομία</a>
+						  <a id="option10" onclick='$(".active").removeClass("active");document.getElementById("option10").classList.toggle("active");getData("forest");'>Δασικά</a>
+						  <a id="option11" onclick='$(".active").removeClass("active");document.getElementById("option11").classList.toggle("active");getData("advisor");'>Γεωργικές συμβουλές</a>
+						  <a id="option12" onclick='$(".active").removeClass("active");document.getElementById("option12").classList.toggle("active");getData("risk");'>Αντιχαλαζικά</a>
+						  <a id="option13" onclick='$(".active").removeClass("active");document.getElementById("option13").classList.toggle("active");getData("equal");'>Εξισωτική</a>
+						  <a id="option14" onclick='$(".active").removeClass("active");document.getElementById("option14").classList.toggle("active");getData("fish");'>Αλιεία</a>
+						  <a id="option15" onclick='$(".active").removeClass("active");document.getElementById("option15").classList.toggle("active");getData("innov");'>Συνεργασία και καινοτομία</a>
+						  <a id="option16" onclick='$(".active").removeClass("active");document.getElementById("option16").classList.toggle("active");getData("retirement");'>Πρόωρη συνταξιοδότηση</a>
+						  <a id="option17" onclick='$(".active").removeClass("active");document.getElementById("option17").classList.toggle("active");getData("directaid");'>Άμεσες ενισχύσεις</a>
+						  <a id="option18" onclick='$(".active").removeClass("active");document.getElementById("option18").classList.toggle("active");getData("deminimis");'>De minimis</a>
+						  <a id="option19" onclick='$(".active").removeClass("active");document.getElementById("option19").classList.toggle("active");getData("linked");'>Συνδεδεμένες</a>
+						  <a id="option20" onclick='$(".active").removeClass("active");document.getElementById("option20").classList.toggle("active");getData("wine");'>Οίνος</a>
+						</div>
+						<div style='display:inline-block;width:55vw'><p id="tablegg"></p></div>
+					</div>
+				</div>
+			
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://twitter.com/agristatseu" target="_blank" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/agristatseu/" target="_blank" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.linkedin.com/company/agristats" target="_blank" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://agristatseu.tumblr.com" target="_blank" class="icon brands alt fa-tumblr"><span class="label">Tumblr</span></a></li>
+						<li><a href="https://gr.pinterest.com/agristatseu/_saved/" target="_blank" class="icon brands alt fa-pinterest"><span class="label">Pinterest</span></a></li>
+						<li><a  class="icon solid alt fa-envelope"><span target="_blank" class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; AgriStats. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+	</body>
+</html>

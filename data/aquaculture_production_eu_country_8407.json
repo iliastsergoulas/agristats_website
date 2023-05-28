@@ -1,0 +1,8822 @@
+[
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2007,
+    "value": 2008
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2007,
+    "value": 2539
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BA",
+    "year": 2007,
+    "value": 7620
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2007,
+    "value": 188
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2007,
+    "value": 4433
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2007,
+    "value": 1217
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2007,
+    "value": 3200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2007,
+    "value": 20447
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2007,
+    "value": 21646
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2007,
+    "value": 44999
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2007,
+    "value": 31369
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2007,
+    "value": 779
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2007,
+    "value": 2036397
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2007,
+    "value": 2126244
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2007,
+    "value": 2140991
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2007,
+    "value": 836230
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2007,
+    "value": 113259
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2007,
+    "value": 283747
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2007,
+    "value": 1200699
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2007,
+    "value": 1291231
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2007,
+    "value": 1305978
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2007,
+    "value": 16708
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2007,
+    "value": 13031
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2007,
+    "value": 29954
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2007,
+    "value": 237663
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2007,
+    "value": 12884
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2007,
+    "value": 15922
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2007,
+    "value": 52504
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2007,
+    "value": 4823
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2007,
+    "value": 180991
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2007,
+    "value": 3377
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2007,
+    "value": 728
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ME",
+    "year": 2007,
+    "value": 11
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2007,
+    "value": 1096
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2007,
+    "value": 8598
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2007,
+    "value": 53371
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2007,
+    "value": 830190
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2007,
+    "value": 34928
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2007,
+    "value": 7473
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2007,
+    "value": 10314
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS",
+    "year": 2007,
+    "value": 6528
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2007,
+    "value": 5365
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2007,
+    "value": 1354
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2007,
+    "value": 1199
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2007,
+    "value": 140021
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2007,
+    "value": 174200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2006,
+    "value": 1970
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2006,
+    "value": 2503
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BA",
+    "year": 2006,
+    "value": 7621
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2006,
+    "value": 188
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2006,
+    "value": 3257
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2006,
+    "value": 1214
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2006,
+    "value": 3607
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2006,
+    "value": 20431
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2006,
+    "value": 21693
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2006,
+    "value": 37681
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2006,
+    "value": 27906
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2006,
+    "value": 703
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2006,
+    "value": 1900580
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2006,
+    "value": 1988600
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2006,
+    "value": 2000966
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2006,
+    "value": 718819
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2006,
+    "value": 113307
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2006,
+    "value": 294048
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2006,
+    "value": 1183115
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2006,
+    "value": 1270996
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2006,
+    "value": 1283362
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2006,
+    "value": 14674
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2006,
+    "value": 12891
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2006,
+    "value": 18574
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2006,
+    "value": 238400
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2006,
+    "value": 13556
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2006,
+    "value": 14686
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2006,
+    "value": 53122
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2006,
+    "value": 8801
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2006,
+    "value": 173579
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2006,
+    "value": 2224
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2006,
+    "value": 567
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ME",
+    "year": 2006,
+    "value": 11
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2006,
+    "value": 646
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2006,
+    "value": 7165
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2006,
+    "value": 42200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2006,
+    "value": 708803
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2006,
+    "value": 35867
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2006,
+    "value": 7894
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2006,
+    "value": 9109
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS",
+    "year": 2006,
+    "value": 4904
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2006,
+    "value": 7549
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2006,
+    "value": 1367
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2006,
+    "value": 1264
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2006,
+    "value": 129025
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2006,
+    "value": 171847
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2005,
+    "value": 1473
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2005,
+    "value": 2420
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BA",
+    "year": 2005,
+    "value": 7070
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2005,
+    "value": 414
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2005,
+    "value": 3145
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2005,
+    "value": 1214
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2005,
+    "value": 2387
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2005,
+    "value": 20455
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2005,
+    "value": 21410
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2005,
+    "value": 44685
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2005,
+    "value": 39012
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2005,
+    "value": 555
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2005,
+    "value": 1839727
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2005,
+    "value": 1926591
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2005,
+    "value": 1937020
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2005,
+    "value": 671350
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2005,
+    "value": 106268
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2005,
+    "value": 221271
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2005,
+    "value": 1171495
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2005,
+    "value": 1256455
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2005,
+    "value": 1266884
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2005,
+    "value": 24942
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2005,
+    "value": 14355
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2005,
+    "value": 23455
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2005,
+    "value": 245160
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 2005,
+    "value": 650
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2005,
+    "value": 11104
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2005,
+    "value": 13661
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2005,
+    "value": 60050
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2005,
+    "value": 8325
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2005,
+    "value": 181101
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2005,
+    "value": 2013
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2005,
+    "value": 542
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2005,
+    "value": 868
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2005,
+    "value": 5126
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2005,
+    "value": 71370
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2005,
+    "value": 661811
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2005,
+    "value": 37920
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2005,
+    "value": 6696
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2005,
+    "value": 7284
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 2005,
+    "value": 4554
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2005,
+    "value": 5880
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2005,
+    "value": 1346
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2005,
+    "value": 955
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2005,
+    "value": 119567
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2005,
+    "value": 172813
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2004,
+    "value": 1569
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2004,
+    "value": 2267
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BA",
+    "year": 2004,
+    "value": 6394
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2004,
+    "value": 739
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2004,
+    "value": 2489
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2004,
+    "value": 1205
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2004,
+    "value": 2175
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2004,
+    "value": 19384
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2004,
+    "value": 20564
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2004,
+    "value": 57233
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2004,
+    "value": 42814
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2004,
+    "value": 252
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2004,
+    "value": 1869878
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2004,
+    "value": 1950310
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2004,
+    "value": 1960936
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2004,
+    "value": 647010
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2004,
+    "value": 97143
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2004,
+    "value": 297204
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2004,
+    "value": 1227958
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2004,
+    "value": 1304505
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2004,
+    "value": 1315131
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2004,
+    "value": 23907
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2004,
+    "value": 12821
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2004,
+    "value": 46077
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2004,
+    "value": 242671
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 2004,
+    "value": 775
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2004,
+    "value": 10367
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2004,
+    "value": 12744
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2004,
+    "value": 58359
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2004,
+    "value": 9003
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2004,
+    "value": 118217
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2004,
+    "value": 2697
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2004,
+    "value": 545
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2004,
+    "value": 959
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2004,
+    "value": 868
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2004,
+    "value": 78598
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2004,
+    "value": 636802
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2004,
+    "value": 35131
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2004,
+    "value": 6700
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2004,
+    "value": 8137
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 2004,
+    "value": 4616
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2004,
+    "value": 5989
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2004,
+    "value": 1571
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2004,
+    "value": 1180
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2004,
+    "value": 94450
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2004,
+    "value": 207203
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2003,
+    "value": 1473
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2003,
+    "value": 2233
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BA",
+    "year": 2003,
+    "value": 6635
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2003,
+    "value": 1261
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2003,
+    "value": 4465
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2003,
+    "value": 1100
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2003,
+    "value": 1821
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2003,
+    "value": 19670
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2003,
+    "value": 20551
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2003,
+    "value": 74280
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2003,
+    "value": 37772
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2003,
+    "value": 372
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2003,
+    "value": 1845141
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2003,
+    "value": 1923964
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2003,
+    "value": 1937471
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2003,
+    "value": 591737
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2003,
+    "value": 101434
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2003,
+    "value": 271741
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2003,
+    "value": 1258044
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2003,
+    "value": 1333327
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2003,
+    "value": 1346834
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2003,
+    "value": 20479
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2003,
+    "value": 12558
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2003,
+    "value": 62746
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2003,
+    "value": 239620
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 2003,
+    "value": 684
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2003,
+    "value": 8387
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2003,
+    "value": 11870
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2003,
+    "value": 62516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2003,
+    "value": 6214
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2003,
+    "value": 191884
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2003,
+    "value": 2356
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2003,
+    "value": 637
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2003,
+    "value": 910
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2003,
+    "value": 887
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2003,
+    "value": 66540
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2003,
+    "value": 584423
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2003,
+    "value": 35436
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2003,
+    "value": 8033
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2003,
+    "value": 9042
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 2003,
+    "value": 3194
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2003,
+    "value": 6334
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2003,
+    "value": 1353
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2003,
+    "value": 881
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2003,
+    "value": 79943
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2003,
+    "value": 181838
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2002,
+    "value": 860
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2002,
+    "value": 2333
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BA",
+    "year": 2002,
+    "value": 4685
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2002,
+    "value": 1834
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2002,
+    "value": 2308
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2002,
+    "value": 1135
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2002,
+    "value": 1862
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2002,
+    "value": 19210
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2002,
+    "value": 20039
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2002,
+    "value": 49852
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2002,
+    "value": 32026
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2002,
+    "value": 257
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2002,
+    "value": 1744707
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2002,
+    "value": 1819529
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2002,
+    "value": 1831085
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2002,
+    "value": 556017
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2002,
+    "value": 87928
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2002,
+    "value": 258522
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2002,
+    "value": 1193621
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2002,
+    "value": 1264647
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2002,
+    "value": 1276203
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2002,
+    "value": 19174
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2002,
+    "value": 15132
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2002,
+    "value": 56102
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2002,
+    "value": 251770
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 2002,
+    "value": 580
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2002,
+    "value": 8991
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2002,
+    "value": 11574
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2002,
+    "value": 62568
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2002,
+    "value": 3585
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2002,
+    "value": 184285
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2002,
+    "value": 1750
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2002,
+    "value": 430
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2002,
+    "value": 883
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2002,
+    "value": 1116
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2002,
+    "value": 54429
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2002,
+    "value": 551297
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2002,
+    "value": 32709
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2002,
+    "value": 8288
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2002,
+    "value": 9248
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 2002,
+    "value": 3326
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2002,
+    "value": 5618
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2002,
+    "value": 1289
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2002,
+    "value": 829
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2002,
+    "value": 61165
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2002,
+    "value": 179036
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2001,
+    "value": 286
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2001,
+    "value": 2393
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2001,
+    "value": 1830
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2001,
+    "value": 2938
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2001,
+    "value": 1135
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2001,
+    "value": 1883
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2001,
+    "value": 20098
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2001,
+    "value": 21097
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2001,
+    "value": 53409
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2001,
+    "value": 41573
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2001,
+    "value": 467
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2001,
+    "value": 1809955
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2001,
+    "value": 1886879
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2001,
+    "value": 1900635
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2001,
+    "value": 516254
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2001,
+    "value": 97512
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2001,
+    "value": 308915
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2001,
+    "value": 1294836
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2001,
+    "value": 1371760
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2001,
+    "value": 1385516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2001,
+    "value": 16319
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2001,
+    "value": 15739
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2001,
+    "value": 49167
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2001,
+    "value": 251655
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 2001,
+    "value": 487
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2001,
+    "value": 10468
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2001,
+    "value": 13056
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2001,
+    "value": 60940
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2001,
+    "value": 4371
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2001,
+    "value": 218330
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2001,
+    "value": 2001
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2001,
+    "value": 463
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2001,
+    "value": 1053
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2001,
+    "value": 1235
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2001,
+    "value": 57042
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2001,
+    "value": 510748
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2001,
+    "value": 35460
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2001,
+    "value": 8209
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2001,
+    "value": 10818
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 2001,
+    "value": 3536
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2001,
+    "value": 6773
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2001,
+    "value": 1262
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2001,
+    "value": 999
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2001,
+    "value": 67244
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2001,
+    "value": 170516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 2000,
+    "value": 307
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 2000,
+    "value": 2847
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 2000,
+    "value": 1871
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 2000,
+    "value": 3654
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 2000,
+    "value": 1100
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 2000,
+    "value": 1878
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 2000,
+    "value": 19475
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 2000,
+    "value": 20362
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 2000,
+    "value": 65891
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 2000,
+    "value": 43609
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 2000,
+    "value": 225
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 2000,
+    "value": 1803684
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 2000,
+    "value": 1880078
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 2000,
+    "value": 1893459
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 2000,
+    "value": 496052
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 2000,
+    "value": 95418
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 2000,
+    "value": 309035
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 2000,
+    "value": 1308732
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 2000,
+    "value": 1385126
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 2000,
+    "value": 1398507
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 2000,
+    "value": 13397
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 2000,
+    "value": 15400
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 2000,
+    "value": 34823
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 2000,
+    "value": 266802
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 2000,
+    "value": 390
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 2000,
+    "value": 6876
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 2000,
+    "value": 12886
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 2000,
+    "value": 51247
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 2000,
+    "value": 3623
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 2000,
+    "value": 216525
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 2000,
+    "value": 1996
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 2000,
+    "value": 325
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 2000,
+    "value": 1626
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 2000,
+    "value": 1746
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 2000,
+    "value": 75231
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 2000,
+    "value": 491329
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 2000,
+    "value": 35795
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 2000,
+    "value": 7537
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 2000,
+    "value": 9727
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 2000,
+    "value": 3714
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 2000,
+    "value": 4834
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 2000,
+    "value": 1181
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 2000,
+    "value": 887
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 2000,
+    "value": 79031
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 2000,
+    "value": 152485
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1999,
+    "value": 310
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1999,
+    "value": 3067
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1999,
+    "value": 1597
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1999,
+    "value": 7780
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1999,
+    "value": 1135
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1999,
+    "value": 1422
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1999,
+    "value": 18775
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1999,
+    "value": 19647
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1999,
+    "value": 79567
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1999,
+    "value": 42670
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1999,
+    "value": 200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1999,
+    "value": 1819551
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1999,
+    "value": 1891804
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1999,
+    "value": 1908582
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1999,
+    "value": 480964
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1999,
+    "value": 84274
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1999,
+    "value": 318185
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1999,
+    "value": 1339722
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1999,
+    "value": 1411975
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1999,
+    "value": 1428753
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1999,
+    "value": 13594
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1999,
+    "value": 15449
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1999,
+    "value": 42544
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1999,
+    "value": 264857
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1999,
+    "value": 249
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1999,
+    "value": 6313
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1999,
+    "value": 11947
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1999,
+    "value": 43856
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1999,
+    "value": 3897
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1999,
+    "value": 210368
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1999,
+    "value": 1650
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1999,
+    "value": 468
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1999,
+    "value": 1669
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1999,
+    "value": 2002
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1999,
+    "value": 108760
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1999,
+    "value": 475932
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1999,
+    "value": 33711
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1999,
+    "value": 6268
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1999,
+    "value": 8998
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1999,
+    "value": 4406
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1999,
+    "value": 6004
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1999,
+    "value": 1206
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1999,
+    "value": 872
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1999,
+    "value": 63000
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1999,
+    "value": 154800
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1998,
+    "value": 124
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1998,
+    "value": 2909
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1998,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1998,
+    "value": 4252
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1998,
+    "value": 1150
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1998,
+    "value": 1178
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1998,
+    "value": 17231
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1998,
+    "value": 17879
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1998,
+    "value": 73020
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1998,
+    "value": 42368
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1998,
+    "value": 260
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1998,
+    "value": 1712792
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1998,
+    "value": 1776922
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1998,
+    "value": 1790788
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1998,
+    "value": 415775
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1998,
+    "value": 59926
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1998,
+    "value": 313697
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1998,
+    "value": 1298167
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1998,
+    "value": 1362297
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1998,
+    "value": 1376163
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1998,
+    "value": 16474
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1998,
+    "value": 16024
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1998,
+    "value": 20436
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1998,
+    "value": 267850
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1998,
+    "value": 196
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1998,
+    "value": 5989
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1998,
+    "value": 10222
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1998,
+    "value": 42375
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1998,
+    "value": 3868
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1998,
+    "value": 208625
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1998,
+    "value": 1516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1998,
+    "value": 425
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1998,
+    "value": 1257
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1998,
+    "value": 1950
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1998,
+    "value": 120094
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1998,
+    "value": 410757
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1998,
+    "value": 29791
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1998,
+    "value": 7536
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1998,
+    "value": 9614
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1998,
+    "value": 8319
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1998,
+    "value": 5476
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1998,
+    "value": 909
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1998,
+    "value": 648
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1998,
+    "value": 56700
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1998,
+    "value": 137421
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1997,
+    "value": 97
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1997,
+    "value": 3018
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1997,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1997,
+    "value": 5437
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1997,
+    "value": 1150
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1997,
+    "value": 969
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1997,
+    "value": 17560
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1997,
+    "value": 18814
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1997,
+    "value": 65433
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1997,
+    "value": 39697
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1997,
+    "value": 260
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1997,
+    "value": 1546316
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1997,
+    "value": 1608951
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1997,
+    "value": 1625556
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1997,
+    "value": 372430
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1997,
+    "value": 48838
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1997,
+    "value": 239169
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1997,
+    "value": 1175036
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1997,
+    "value": 1237671
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1997,
+    "value": 1254276
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1997,
+    "value": 8796
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1997,
+    "value": 16426
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1997,
+    "value": 22538
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1997,
+    "value": 287243
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1997,
+    "value": 130
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1997,
+    "value": 3510
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1997,
+    "value": 9334
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1997,
+    "value": 36854
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1997,
+    "value": 3663
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1997,
+    "value": 195719
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1997,
+    "value": 1516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1997,
+    "value": 345
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1997,
+    "value": 879
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1997,
+    "value": 1800
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1997,
+    "value": 98210
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1997,
+    "value": 367617
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1997,
+    "value": 28680
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1997,
+    "value": 7185
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1997,
+    "value": 11168
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1997,
+    "value": 3490
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1997,
+    "value": 6683
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1997,
+    "value": 917
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1997,
+    "value": 1254
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1997,
+    "value": 45450
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1997,
+    "value": 129715
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1996,
+    "value": 323
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1996,
+    "value": 2949
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1996,
+    "value": 946
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1996,
+    "value": 4727
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1996,
+    "value": 1161
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1996,
+    "value": 787
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1996,
+    "value": 18200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1996,
+    "value": 19154
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1996,
+    "value": 83237
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1996,
+    "value": 41924
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1996,
+    "value": 272
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1996,
+    "value": 1476607
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1996,
+    "value": 1536938
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1996,
+    "value": 1555565
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1996,
+    "value": 326364
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1996,
+    "value": 39852
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1996,
+    "value": 231633
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1996,
+    "value": 1151404
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1996,
+    "value": 1211735
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1996,
+    "value": 1230362
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1996,
+    "value": 7532
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1996,
+    "value": 17659
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1996,
+    "value": 17584
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1996,
+    "value": 285526
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1996,
+    "value": 191
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1996,
+    "value": 2889
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1996,
+    "value": 8080
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1996,
+    "value": 34925
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1996,
+    "value": 3687
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1996,
+    "value": 189373
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1996,
+    "value": 1537
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1996,
+    "value": 380
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1996,
+    "value": 911
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1996,
+    "value": 1552
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1996,
+    "value": 99871
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1996,
+    "value": 321516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1996,
+    "value": 27700
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1996,
+    "value": 5364
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1996,
+    "value": 13900
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1996,
+    "value": 2863
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1996,
+    "value": 8244
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1996,
+    "value": 869
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1996,
+    "value": 954
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1996,
+    "value": 33201
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1996,
+    "value": 109901
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1995,
+    "value": 340
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1995,
+    "value": 2918
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1995,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1995,
+    "value": 4615
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1995,
+    "value": 1161
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1995,
+    "value": 452
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1995,
+    "value": 18679
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1995,
+    "value": 20296
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1995,
+    "value": 64096
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1995,
+    "value": 44730
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1995,
+    "value": 315
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1995,
+    "value": 1380832
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1995,
+    "value": 1440298
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1995,
+    "value": 1464743
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1995,
+    "value": 282261
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1995,
+    "value": 32644
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1995,
+    "value": 223965
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1995,
+    "value": 1099732
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1995,
+    "value": 1159198
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1995,
+    "value": 1183643
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1995,
+    "value": 8497
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1995,
+    "value": 17345
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1995,
+    "value": 8611
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1995,
+    "value": 280786
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1995,
+    "value": 114
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1995,
+    "value": 4007
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1995,
+    "value": 9360
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1995,
+    "value": 27366
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1995,
+    "value": 3485
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1995,
+    "value": 214725
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1995,
+    "value": 1714
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1995,
+    "value": 525
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1995,
+    "value": 1297
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1995,
+    "value": 904
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1995,
+    "value": 83938
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1995,
+    "value": 277615
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1995,
+    "value": 25111
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1995,
+    "value": 4981
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1995,
+    "value": 19830
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1995,
+    "value": 2404
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1995,
+    "value": 7554
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1995,
+    "value": 789
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1995,
+    "value": 1617
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1995,
+    "value": 21607
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1995,
+    "value": 93838
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1994,
+    "value": 395
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1994,
+    "value": 3103
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1994,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1994,
+    "value": 6100
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1994,
+    "value": 1235
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1994,
+    "value": 291
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1994,
+    "value": 18655
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1994,
+    "value": 20516
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1994,
+    "value": 48852
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1994,
+    "value": 42892
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1994,
+    "value": 417
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1994,
+    "value": 1240246
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1994,
+    "value": 1299994
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1994,
+    "value": 1326494
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1994,
+    "value": 222943
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1994,
+    "value": 33182
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1994,
+    "value": 177940
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1994,
+    "value": 1018538
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1994,
+    "value": 1078286
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1994,
+    "value": 1104786
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1994,
+    "value": 9345
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1994,
+    "value": 16682
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1994,
+    "value": 15332
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1994,
+    "value": 280954
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1994,
+    "value": 103
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1994,
+    "value": 4941
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1994,
+    "value": 9899
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1994,
+    "value": 28615
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1994,
+    "value": 3222
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1994,
+    "value": 176421
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1994,
+    "value": 1874
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1994,
+    "value": 560
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1994,
+    "value": 1034
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1994,
+    "value": 904
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1994,
+    "value": 109379
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1994,
+    "value": 218486
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1994,
+    "value": 24500
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1994,
+    "value": 6561
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1994,
+    "value": 20400
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1994,
+    "value": 2583
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1994,
+    "value": 7410
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1994,
+    "value": 787
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1994,
+    "value": 1861
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1994,
+    "value": 15998
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1994,
+    "value": 85701
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1993,
+    "value": 389
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1993,
+    "value": 3140
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1993,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1993,
+    "value": 7897
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1993,
+    "value": 1135
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1993,
+    "value": 259
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ",
+    "year": 1993,
+    "value": 20242
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1993,
+    "value": 21830
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1993,
+    "value": 69500
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1993,
+    "value": 39739
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1993,
+    "value": 330
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1993,
+    "value": 1082449
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA28",
+    "year": 1993,
+    "value": 1137583
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA30",
+    "year": 1993,
+    "value": 1166580
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1993,
+    "value": 168551
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1993,
+    "value": 32578
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1993,
+    "value": 126130
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1993,
+    "value": 915033
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU25",
+    "year": 1993,
+    "value": 970167
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU27",
+    "year": 1993,
+    "value": 999164
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1993,
+    "value": 8773
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1993,
+    "value": 17526
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1993,
+    "value": 18752
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1993,
+    "value": 277323
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1993,
+    "value": 81
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1993,
+    "value": 4603
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1993,
+    "value": 9492
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1993,
+    "value": 30158
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1993,
+    "value": 2917
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1993,
+    "value": 166320
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1993,
+    "value": 2907
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1993,
+    "value": 339
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1993,
+    "value": 1071
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1993,
+    "value": 650
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1993,
+    "value": 71125
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1993,
+    "value": 164499
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1993,
+    "value": 18609
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1993,
+    "value": 5970
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1993,
+    "value": 21100
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1993,
+    "value": 2381
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1993,
+    "value": 5904
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1993,
+    "value": 718
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SK",
+    "year": 1993,
+    "value": 1588
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1993,
+    "value": 12438
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1993,
+    "value": 68774
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1992,
+    "value": 397
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1992,
+    "value": 3140
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1992,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1992,
+    "value": 8132
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1992,
+    "value": 1230
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1992,
+    "value": 155
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1992,
+    "value": 24135
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1992,
+    "value": 96654
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1992,
+    "value": 43264
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1992,
+    "value": 693
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1992,
+    "value": 1056742
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1992,
+    "value": 134856
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1992,
+    "value": 20306
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1992,
+    "value": 168759
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1992,
+    "value": 923116
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1992,
+    "value": 10985
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1992,
+    "value": 17909
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1992,
+    "value": 19098
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1992,
+    "value": 250254
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1992,
+    "value": 50
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HR",
+    "year": 1992,
+    "value": 6802
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1992,
+    "value": 14230
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1992,
+    "value": 27157
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1992,
+    "value": 2524
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1992,
+    "value": 170377
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1992,
+    "value": 3899
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1992,
+    "value": 641
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MK",
+    "year": 1992,
+    "value": 1014
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1992,
+    "value": 500
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1992,
+    "value": 54105
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1992,
+    "value": 131102
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1992,
+    "value": 30200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1992,
+    "value": 6402
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1992,
+    "value": 24620
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RS_ME",
+    "year": 1992,
+    "value": 2301
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1992,
+    "value": 7119
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SI",
+    "year": 1992,
+    "value": 868
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1992,
+    "value": 9085
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1992,
+    "value": 56824
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1991,
+    "value": 859
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1991,
+    "value": 3135
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1991,
+    "value": 846
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1991,
+    "value": 7798
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1991,
+    "value": 1230
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1991,
+    "value": 127
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1991,
+    "value": 22046
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1991,
+    "value": 74692
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1991,
+    "value": 42098
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1991,
+    "value": 1337
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1991,
+    "value": 1116038
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1991,
+    "value": 164808
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1991,
+    "value": 12615
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1991,
+    "value": 224971
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1991,
+    "value": 952460
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1991,
+    "value": 6751
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1991,
+    "value": 19271
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1991,
+    "value": 18283
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1991,
+    "value": 245094
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1991,
+    "value": 67
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1991,
+    "value": 14434
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1991,
+    "value": 27749
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1991,
+    "value": 2873
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1991,
+    "value": 175193
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1991,
+    "value": 4792
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1991,
+    "value": 2685
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1991,
+    "value": 200
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1991,
+    "value": 51648
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1991,
+    "value": 160705
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1991,
+    "value": 29500
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1991,
+    "value": 6277
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1991,
+    "value": 29530
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1991,
+    "value": 7984
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1991,
+    "value": 7835
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1991,
+    "value": 60887
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1990,
+    "value": 4961
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1990,
+    "value": 3126
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1990,
+    "value": 675
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1990,
+    "value": 7849
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1990,
+    "value": 1070
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1990,
+    "value": 125
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1990,
+    "value": 22326
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1990,
+    "value": 64435
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1990,
+    "value": 41946
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1990,
+    "value": 936
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1990,
+    "value": 1097636
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1990,
+    "value": 154482
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1990,
+    "value": 9523
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1990,
+    "value": 203766
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1990,
+    "value": 944224
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1990,
+    "value": 12990
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1990,
+    "value": 18550
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1990,
+    "value": 13076
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1990,
+    "value": 256653
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1990,
+    "value": 67
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1990,
+    "value": 17600
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1990,
+    "value": 26673
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1990,
+    "value": 2829
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1990,
+    "value": 153744
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1990,
+    "value": 4666
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1990,
+    "value": 2235
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "MT",
+    "year": 1990,
+    "value": 3
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1990,
+    "value": 100997
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1990,
+    "value": 150583
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1990,
+    "value": 26400
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1990,
+    "value": 4968
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1990,
+    "value": 34950
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1990,
+    "value": 9124
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1990,
+    "value": 5782
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1990,
+    "value": 50044
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1989,
+    "value": 2604
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1989,
+    "value": 4450
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1989,
+    "value": 735
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1989,
+    "value": 11615
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1989,
+    "value": 1180
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1989,
+    "value": 84
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1989,
+    "value": 21266
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1989,
+    "value": 66618
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1989,
+    "value": 33059
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1989,
+    "value": 1232
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1989,
+    "value": 1021480
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1989,
+    "value": 118048
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1989,
+    "value": 4737
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1989,
+    "value": 222924
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1989,
+    "value": 904612
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1989,
+    "value": 11888
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1989,
+    "value": 18550
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1989,
+    "value": 8131
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1989,
+    "value": 225122
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1989,
+    "value": 13
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1989,
+    "value": 20548
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1989,
+    "value": 20790
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1989,
+    "value": 1677
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1989,
+    "value": 132971
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1989,
+    "value": 4580
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1989,
+    "value": 6288
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1989,
+    "value": 108877
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1989,
+    "value": 115191
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1989,
+    "value": 25951
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1989,
+    "value": 8549
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1989,
+    "value": 47260
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1989,
+    "value": 7914
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1989,
+    "value": 4354
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1989,
+    "value": 49316
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1988,
+    "value": 3732
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1988,
+    "value": 4500
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1988,
+    "value": 700
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1988,
+    "value": 12141
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1988,
+    "value": 254
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1988,
+    "value": 59
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1988,
+    "value": 21247
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1988,
+    "value": 72005
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1988,
+    "value": 28659
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EE",
+    "year": 1988,
+    "value": 401
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1988,
+    "value": 998843
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1988,
+    "value": 89731
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1988,
+    "value": 4087
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1988,
+    "value": 271403
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1988,
+    "value": 909366
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1988,
+    "value": 11867
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1988,
+    "value": 16367
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1988,
+    "value": 5260
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1988,
+    "value": 227544
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1988,
+    "value": 13
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1988,
+    "value": 17970
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1988,
+    "value": 18327
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1988,
+    "value": 1209
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1988,
+    "value": 131499
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LT",
+    "year": 1988,
+    "value": 3752
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "LV",
+    "year": 1988,
+    "value": 2926
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1988,
+    "value": 79163
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1988,
+    "value": 88268
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1988,
+    "value": 25951
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1988,
+    "value": 10433
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1988,
+    "value": 50680
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1988,
+    "value": 8287
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1988,
+    "value": 4100
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1988,
+    "value": 36392
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1987,
+    "value": 2368
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1987,
+    "value": 4000
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1987,
+    "value": 600
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1987,
+    "value": 12647
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1987,
+    "value": 252
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1987,
+    "value": 50
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1987,
+    "value": 20736
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1987,
+    "value": 66828
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1987,
+    "value": 25851
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1987,
+    "value": 947970
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1987,
+    "value": 56274
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1987,
+    "value": 2741
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1987,
+    "value": 270734
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1987,
+    "value": 891948
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1987,
+    "value": 11524
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1987,
+    "value": 12689
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1987,
+    "value": 4523
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1987,
+    "value": 231894
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1987,
+    "value": 25
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1987,
+    "value": 17948
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1987,
+    "value": 18693
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1987,
+    "value": 643
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1987,
+    "value": 110616
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1987,
+    "value": 99567
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1987,
+    "value": 55379
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1987,
+    "value": 20472
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1987,
+    "value": 11012
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1987,
+    "value": 40183
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1987,
+    "value": 7288
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1987,
+    "value": 3300
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1987,
+    "value": 29435
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1986,
+    "value": 2165
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1986,
+    "value": 4060
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1986,
+    "value": 530
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1986,
+    "value": 12138
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1986,
+    "value": 271
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1986,
+    "value": 57
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1986,
+    "value": 21234
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1986,
+    "value": 70235
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1986,
+    "value": 24402
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1986,
+    "value": 919371
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1986,
+    "value": 49936
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1986,
+    "value": 2296
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1986,
+    "value": 268449
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1986,
+    "value": 869706
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1986,
+    "value": 11647
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1986,
+    "value": 11006
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1986,
+    "value": 2520
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1986,
+    "value": 243671
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "GG_JE",
+    "year": 1986,
+    "value": 15
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1986,
+    "value": 16997
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1986,
+    "value": 12741
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1986,
+    "value": 273
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1986,
+    "value": 107130
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1986,
+    "value": 86496
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1986,
+    "value": 49392
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1986,
+    "value": 18684
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1986,
+    "value": 10331
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1986,
+    "value": 47544
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1986,
+    "value": 4346
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1986,
+    "value": 3075
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1986,
+    "value": 24013
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1985,
+    "value": 1208
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1985,
+    "value": 4100
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1985,
+    "value": 440
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1985,
+    "value": 10560
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1985,
+    "value": 270
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1985,
+    "value": 56
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1985,
+    "value": 19813
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1985,
+    "value": 61134
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1985,
+    "value": 24244
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1985,
+    "value": 893091
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1985,
+    "value": 34990
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1985,
+    "value": 2377
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1985,
+    "value": 266608
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1985,
+    "value": 858371
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1985,
+    "value": 11086
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1985,
+    "value": 10166
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1985,
+    "value": 1620
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1985,
+    "value": 226903
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1985,
+    "value": 18315
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1985,
+    "value": 11964
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1985,
+    "value": 103
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1985,
+    "value": 104301
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1985,
+    "value": 116547
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1985,
+    "value": 34617
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1985,
+    "value": 20099
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1985,
+    "value": 6402
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1985,
+    "value": 42414
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1985,
+    "value": 3081
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1985,
+    "value": 2700
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1985,
+    "value": 20104
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AL",
+    "year": 1984,
+    "value": 1197
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "AT",
+    "year": 1984,
+    "value": 4000
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BE",
+    "year": 1984,
+    "value": 310
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "BG",
+    "year": 1984,
+    "value": 14571
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CH",
+    "year": 1984,
+    "value": 272
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CY",
+    "year": 1984,
+    "value": 60
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "CZ_SK",
+    "year": 1984,
+    "value": 19488
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DE",
+    "year": 1984,
+    "value": 97785
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "DK",
+    "year": 1984,
+    "value": 23609
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EEA18",
+    "year": 1984,
+    "value": 803115
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EFTA",
+    "year": 1984,
+    "value": 25862
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EL",
+    "year": 1984,
+    "value": 2542
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "ES",
+    "year": 1984,
+    "value": 247426
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EU15",
+    "year": 1984,
+    "value": 777525
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "EX_YU",
+    "year": 1984,
+    "value": 11617
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FI",
+    "year": 1984,
+    "value": 9586
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FO",
+    "year": 1984,
+    "value": 513
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "FR",
+    "year": 1984,
+    "value": 192609
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "HU",
+    "year": 1984,
+    "value": 16473
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IE",
+    "year": 1984,
+    "value": 15322
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IS",
+    "year": 1984,
+    "value": 137
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "IT",
+    "year": 1984,
+    "value": 96900
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NL",
+    "year": 1984,
+    "value": 60319
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "NO",
+    "year": 1984,
+    "value": 25453
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PL",
+    "year": 1984,
+    "value": 20000
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "PT",
+    "year": 1984,
+    "value": 6240
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "RO",
+    "year": 1984,
+    "value": 45116
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "SE",
+    "year": 1984,
+    "value": 3265
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "TR",
+    "year": 1984,
+    "value": 2226
+  },
+  {
+    "species": "F00",
+    "fishreg": 0,
+    "aquaenv": "TOTAL",
+    "unit": "TLW",
+    "country": "UK",
+    "year": 1984,
+    "value": 17612
+  }
+]

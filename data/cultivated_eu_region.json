@@ -1,0 +1,8002 @@
+[
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT11",
+    "time": 2013,
+    "values": 181970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT12",
+    "time": 2013,
+    "values": 908850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT13",
+    "time": 2013,
+    "values": 8020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT21",
+    "time": 2013,
+    "values": 220340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT22",
+    "time": 2013,
+    "values": 375180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT31",
+    "time": 2013,
+    "values": 517350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT32",
+    "time": 2013,
+    "values": 178390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT33",
+    "time": 2013,
+    "values": 259010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT34",
+    "time": 2013,
+    "values": 77780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE10",
+    "time": 2013,
+    "values": 2150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE21",
+    "time": 2013,
+    "values": 92510
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE22",
+    "time": 2013,
+    "values": 83320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE23",
+    "time": 2013,
+    "values": 148700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE24",
+    "time": 2013,
+    "values": 85170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE25",
+    "time": 2013,
+    "values": 203490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE31",
+    "time": 2013,
+    "values": 59480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE32",
+    "time": 2013,
+    "values": 203180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE33",
+    "time": 2013,
+    "values": 151280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE34",
+    "time": 2013,
+    "values": 134020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE35",
+    "time": 2013,
+    "values": 144610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG31",
+    "time": 2013,
+    "values": 936770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG32",
+    "time": 2013,
+    "values": 793430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG33",
+    "time": 2013,
+    "values": 822230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG34",
+    "time": 2013,
+    "values": 845160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG41",
+    "time": 2013,
+    "values": 554470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG42",
+    "time": 2013,
+    "values": 698880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CY00",
+    "time": 2013,
+    "values": 109330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ01",
+    "time": 2013,
+    "values": 13270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ02",
+    "time": 2013,
+    "values": 553240
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ03",
+    "time": 2013,
+    "values": 731710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ04",
+    "time": 2013,
+    "values": 312350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ05",
+    "time": 2013,
+    "values": 560550
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ06",
+    "time": 2013,
+    "values": 719260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ07",
+    "time": 2013,
+    "values": 393960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ08",
+    "time": 2013,
+    "values": 207130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK01",
+    "time": 2013,
+    "values": 98480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK02",
+    "time": 2013,
+    "values": 470050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK03",
+    "time": 2013,
+    "values": 773600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK04",
+    "time": 2013,
+    "values": 791690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK05",
+    "time": 2013,
+    "values": 485520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EE00",
+    "time": 2013,
+    "values": 957510
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL11",
+    "time": 2013,
+    "values": 432360
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL12",
+    "time": 2013,
+    "values": 783560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL13",
+    "time": 2013,
+    "values": 402840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL14",
+    "time": 2013,
+    "values": 587180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL21",
+    "time": 2013,
+    "values": 177220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL22",
+    "time": 2013,
+    "values": 94570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL23",
+    "time": 2013,
+    "values": 385620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL24",
+    "time": 2013,
+    "values": 401810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL25",
+    "time": 2013,
+    "values": 471700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL30",
+    "time": 2013,
+    "values": 54330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL41",
+    "time": 2013,
+    "values": 245760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL42",
+    "time": 2013,
+    "values": 214010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL43",
+    "time": 2013,
+    "values": 605820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES11",
+    "time": 2013,
+    "values": 655520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES12",
+    "time": 2013,
+    "values": 336310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES13",
+    "time": 2013,
+    "values": 222950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES21",
+    "time": 2013,
+    "values": 187250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES22",
+    "time": 2013,
+    "values": 546890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES23",
+    "time": 2013,
+    "values": 215840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES24",
+    "time": 2013,
+    "values": 2261690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES30",
+    "time": 2013,
+    "values": 304150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES41",
+    "time": 2013,
+    "values": 5295680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES42",
+    "time": 2013,
+    "values": 4045810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES43",
+    "time": 2013,
+    "values": 2491730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES51",
+    "time": 2013,
+    "values": 1125270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES52",
+    "time": 2013,
+    "values": 637750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES53",
+    "time": 2013,
+    "values": 176280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES61",
+    "time": 2013,
+    "values": 4369000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES62",
+    "time": 2013,
+    "values": 375860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES63",
+    "time": 2013,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES64",
+    "time": 2013,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES70",
+    "time": 2013,
+    "values": 52210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI19",
+    "time": 2013,
+    "values": 791180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1B",
+    "time": 2013,
+    "values": 181470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1C",
+    "time": 2013,
+    "values": 618850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1D",
+    "time": 2013,
+    "values": 671350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI20",
+    "time": 2013,
+    "values": 19550
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR10",
+    "time": 2013,
+    "values": 571640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR21",
+    "time": 2013,
+    "values": 1532170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR22",
+    "time": 2013,
+    "values": 1316620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR23",
+    "time": 2013,
+    "values": 764380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR24",
+    "time": 2013,
+    "values": 2302910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR25",
+    "time": 2013,
+    "values": 1229760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR26",
+    "time": 2013,
+    "values": 1745500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR30",
+    "time": 2013,
+    "values": 813380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR41",
+    "time": 2013,
+    "values": 1130340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR42",
+    "time": 2013,
+    "values": 341790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR43",
+    "time": 2013,
+    "values": 669860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR51",
+    "time": 2013,
+    "values": 2092730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR52",
+    "time": 2013,
+    "values": 1643670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR53",
+    "time": 2013,
+    "values": 1721090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR61",
+    "time": 2013,
+    "values": 1454170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR62",
+    "time": 2013,
+    "values": 2543910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR63",
+    "time": 2013,
+    "values": 850390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR71",
+    "time": 2013,
+    "values": 1507770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR72",
+    "time": 2013,
+    "values": 1426760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR81",
+    "time": 2013,
+    "values": 1002670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR82",
+    "time": 2013,
+    "values": 802030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR83",
+    "time": 2013,
+    "values": 159000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR91",
+    "time": 2013,
+    "values": 30960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR92",
+    "time": 2013,
+    "values": 24170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR93",
+    "time": 2013,
+    "values": 19570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR94",
+    "time": 2013,
+    "values": 42200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HR03",
+    "time": 2013,
+    "values": 467420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HR04",
+    "time": 2013,
+    "values": 1103790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU10",
+    "time": 2013,
+    "values": 269810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU21",
+    "time": 2013,
+    "values": 522280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU22",
+    "time": 2013,
+    "values": 512230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU23",
+    "time": 2013,
+    "values": 679470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU31",
+    "time": 2013,
+    "values": 544330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU32",
+    "time": 2013,
+    "values": 1023560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU33",
+    "time": 2013,
+    "values": 1104840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE01",
+    "time": 2013,
+    "values": 2269920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE02",
+    "time": 2013,
+    "values": 2689540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC1",
+    "time": 2013,
+    "values": 948580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC2",
+    "time": 2013,
+    "values": 52490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC3",
+    "time": 2013,
+    "values": 37330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC4",
+    "time": 2013,
+    "values": 922320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF1",
+    "time": 2013,
+    "values": 424160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF2",
+    "time": 2013,
+    "values": 174200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF3",
+    "time": 2013,
+    "values": 509000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF4",
+    "time": 2013,
+    "values": 1184540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF5",
+    "time": 2013,
+    "values": 484630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF6",
+    "time": 2013,
+    "values": 498400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG1",
+    "time": 2013,
+    "values": 1326110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG2",
+    "time": 2013,
+    "values": 1134540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH1",
+    "time": 2013,
+    "values": 227900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH2",
+    "time": 2013,
+    "values": 131410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH3",
+    "time": 2013,
+    "values": 796250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH4",
+    "time": 2013,
+    "values": 211130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH5",
+    "time": 2013,
+    "values": 1034350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI1",
+    "time": 2013,
+    "values": 691340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI2",
+    "time": 2013,
+    "values": 300000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI3",
+    "time": 2013,
+    "values": 442620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI4",
+    "time": 2013,
+    "values": 567590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LT00",
+    "time": 2013,
+    "values": 2861250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LU00",
+    "time": 2013,
+    "values": 131040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LV00",
+    "time": 2013,
+    "values": 1877720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "MT00",
+    "time": 2013,
+    "values": 10880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL11",
+    "time": 2013,
+    "values": 162960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL12",
+    "time": 2013,
+    "values": 226440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL13",
+    "time": 2013,
+    "values": 150220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL21",
+    "time": 2013,
+    "values": 198730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL22",
+    "time": 2013,
+    "values": 232440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL23",
+    "time": 2013,
+    "values": 88600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL31",
+    "time": 2013,
+    "values": 64470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL32",
+    "time": 2013,
+    "values": 128040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL33",
+    "time": 2013,
+    "values": 128640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL34",
+    "time": 2013,
+    "values": 122180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL41",
+    "time": 2013,
+    "values": 246900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL42",
+    "time": 2013,
+    "values": 97940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO01",
+    "time": 2013,
+    "values": 78990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO02",
+    "time": 2013,
+    "values": 208600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO03",
+    "time": 2013,
+    "values": 189890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO04",
+    "time": 2013,
+    "values": 130030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO05",
+    "time": 2013,
+    "values": 138750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO06",
+    "time": 2013,
+    "values": 160630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO07",
+    "time": 2013,
+    "values": 89380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL11",
+    "time": 2013,
+    "values": 968400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL12",
+    "time": 2013,
+    "values": 1842830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL21",
+    "time": 2013,
+    "values": 543640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL22",
+    "time": 2013,
+    "values": 357630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL31",
+    "time": 2013,
+    "values": 1363140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL32",
+    "time": 2013,
+    "values": 561220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL33",
+    "time": 2013,
+    "values": 491470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL34",
+    "time": 2013,
+    "values": 1058850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL41",
+    "time": 2013,
+    "values": 1722960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL42",
+    "time": 2013,
+    "values": 839070
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL43",
+    "time": 2013,
+    "values": 413890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL51",
+    "time": 2013,
+    "values": 910730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL52",
+    "time": 2013,
+    "values": 520990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL61",
+    "time": 2013,
+    "values": 1039610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL62",
+    "time": 2013,
+    "values": 1048740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL63",
+    "time": 2013,
+    "values": 726690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT11",
+    "time": 2013,
+    "values": 646610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT15",
+    "time": 2013,
+    "values": 92230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT16",
+    "time": 2013,
+    "values": 558020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT17",
+    "time": 2013,
+    "values": 74370
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT18",
+    "time": 2013,
+    "values": 2146510
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT20",
+    "time": 2013,
+    "values": 118590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT30",
+    "time": 2013,
+    "values": 5260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO11",
+    "time": 2013,
+    "values": 1783180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO12",
+    "time": 2013,
+    "values": 1693990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO21",
+    "time": 2013,
+    "values": 1937080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO22",
+    "time": 2013,
+    "values": 2092500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO31",
+    "time": 2013,
+    "values": 2250950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO32",
+    "time": 2013,
+    "values": 75570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO41",
+    "time": 2013,
+    "values": 1574200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO42",
+    "time": 2013,
+    "values": 1648380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE11",
+    "time": 2013,
+    "values": 92000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE12",
+    "time": 2013,
+    "values": 786510
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE21",
+    "time": 2013,
+    "values": 502900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE22",
+    "time": 2013,
+    "values": 535970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE23",
+    "time": 2013,
+    "values": 652920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE31",
+    "time": 2013,
+    "values": 254480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE32",
+    "time": 2013,
+    "values": 104450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE33",
+    "time": 2013,
+    "values": 106680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI01",
+    "time": 2013,
+    "values": 342480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI02",
+    "time": 2013,
+    "values": 143270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK01",
+    "time": 2013,
+    "values": 78640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK02",
+    "time": 2013,
+    "values": 817390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK03",
+    "time": 2013,
+    "values": 465740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK04",
+    "time": 2013,
+    "values": 539840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC1",
+    "time": 2013,
+    "values": 219640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC2",
+    "time": 2013,
+    "values": 433050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD1",
+    "time": 2013,
+    "values": 545030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD3",
+    "time": 2013,
+    "values": 40480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD4",
+    "time": 2013,
+    "values": 214500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD6",
+    "time": 2013,
+    "values": 144050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD7",
+    "time": 2013,
+    "values": 18320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE1",
+    "time": 2013,
+    "values": 287950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE2",
+    "time": 2013,
+    "values": 740140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE3",
+    "time": 2013,
+    "values": 85400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE4",
+    "time": 2013,
+    "values": 99160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF1",
+    "time": 2013,
+    "values": 304400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF2",
+    "time": 2013,
+    "values": 363520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF3",
+    "time": 2013,
+    "values": 499190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG1",
+    "time": 2013,
+    "values": 415450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG2",
+    "time": 2013,
+    "values": 431540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG3",
+    "time": 2013,
+    "values": 13180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH1",
+    "time": 2013,
+    "values": 951950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH2",
+    "time": 2013,
+    "values": 174770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH3",
+    "time": 2013,
+    "values": 260520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI1",
+    "time": 2013,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI2",
+    "time": 2013,
+    "values": 11090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ1",
+    "time": 2013,
+    "values": 383600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ2",
+    "time": 2013,
+    "values": 315430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ3",
+    "time": 2013,
+    "values": 261590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ4",
+    "time": 2013,
+    "values": 221520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK1",
+    "time": 2013,
+    "values": 558620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK2",
+    "time": 2013,
+    "values": 494990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK3",
+    "time": 2013,
+    "values": 240720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK4",
+    "time": 2013,
+    "values": 516390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL1",
+    "time": 2013,
+    "values": 1094040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL2",
+    "time": 2013,
+    "values": 651500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM2",
+    "time": 2013,
+    "values": 1247660
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM3",
+    "time": 2013,
+    "values": 798340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM5",
+    "time": 2013,
+    "values": 478770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM6",
+    "time": 2013,
+    "values": 2763560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKN0",
+    "time": 2013,
+    "values": 1046140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT11",
+    "time": 2010,
+    "values": 187890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT12",
+    "time": 2010,
+    "values": 911680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT13",
+    "time": 2010,
+    "values": 7410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT21",
+    "time": 2010,
+    "values": 253570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT22",
+    "time": 2010,
+    "values": 407260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT31",
+    "time": 2010,
+    "values": 529460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT32",
+    "time": 2010,
+    "values": 195110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT33",
+    "time": 2010,
+    "values": 290720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT34",
+    "time": 2010,
+    "values": 95070
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE10",
+    "time": 2010,
+    "values": 270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE21",
+    "time": 2010,
+    "values": 89150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE22",
+    "time": 2010,
+    "values": 83170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE23",
+    "time": 2010,
+    "values": 149050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE24",
+    "time": 2010,
+    "values": 87580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE25",
+    "time": 2010,
+    "values": 207910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE31",
+    "time": 2010,
+    "values": 62970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE32",
+    "time": 2010,
+    "values": 217210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE33",
+    "time": 2010,
+    "values": 159160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE34",
+    "time": 2010,
+    "values": 143830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE35",
+    "time": 2010,
+    "values": 157720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG31",
+    "time": 2010,
+    "values": 881670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG32",
+    "time": 2010,
+    "values": 806130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG33",
+    "time": 2010,
+    "values": 804550
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG34",
+    "time": 2010,
+    "values": 874260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG41",
+    "time": 2010,
+    "values": 480870
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG42",
+    "time": 2010,
+    "values": 628040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH01",
+    "time": 2010,
+    "values": 157670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH02",
+    "time": 2010,
+    "values": 369650
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH03",
+    "time": 2010,
+    "values": 83120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH04",
+    "time": 2010,
+    "values": 73470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH05",
+    "time": 2010,
+    "values": 216820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH06",
+    "time": 2010,
+    "values": 132860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH07",
+    "time": 2010,
+    "values": 14220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CY00",
+    "time": 2010,
+    "values": 118400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ01",
+    "time": 2010,
+    "values": 11100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ02",
+    "time": 2010,
+    "values": 554520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ03",
+    "time": 2010,
+    "values": 732170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ04",
+    "time": 2010,
+    "values": 318850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ05",
+    "time": 2010,
+    "values": 559120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ06",
+    "time": 2010,
+    "values": 714590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ07",
+    "time": 2010,
+    "values": 384990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ08",
+    "time": 2010,
+    "values": 208150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK01",
+    "time": 2010,
+    "values": 98560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK02",
+    "time": 2010,
+    "values": 477770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK03",
+    "time": 2010,
+    "values": 787860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK04",
+    "time": 2010,
+    "values": 791780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK05",
+    "time": 2010,
+    "values": 490900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EE00",
+    "time": 2010,
+    "values": 940930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL11",
+    "time": 2010,
+    "values": 636450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL12",
+    "time": 2010,
+    "values": 966770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL13",
+    "time": 2010,
+    "values": 307890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL14",
+    "time": 2010,
+    "values": 730080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL21",
+    "time": 2010,
+    "values": 207290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL22",
+    "time": 2010,
+    "values": 88450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL23",
+    "time": 2010,
+    "values": 400290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL24",
+    "time": 2010,
+    "values": 565740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL25",
+    "time": 2010,
+    "values": 502470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL30",
+    "time": 2010,
+    "values": 50910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL41",
+    "time": 2010,
+    "values": 168610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL42",
+    "time": 2010,
+    "values": 106080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL43",
+    "time": 2010,
+    "values": 446490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES11",
+    "time": 2010,
+    "values": 647600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES12",
+    "time": 2010,
+    "values": 363180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES13",
+    "time": 2010,
+    "values": 235240
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES21",
+    "time": 2010,
+    "values": 190390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES22",
+    "time": 2010,
+    "values": 545520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES23",
+    "time": 2010,
+    "values": 230220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES24",
+    "time": 2010,
+    "values": 2345700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES30",
+    "time": 2010,
+    "values": 315260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES41",
+    "time": 2010,
+    "values": 5362470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES42",
+    "time": 2010,
+    "values": 4091440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES43",
+    "time": 2010,
+    "values": 2585900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES51",
+    "time": 2010,
+    "values": 1147530
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES52",
+    "time": 2010,
+    "values": 657470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES53",
+    "time": 2010,
+    "values": 182320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES61",
+    "time": 2010,
+    "values": 4402760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES62",
+    "time": 2010,
+    "values": 394540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES63",
+    "time": 2010,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES64",
+    "time": 2010,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES70",
+    "time": 2010,
+    "values": 55070
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI19",
+    "time": 2010,
+    "values": 793380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1B",
+    "time": 2010,
+    "values": 184760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1C",
+    "time": 2010,
+    "values": 627220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1D",
+    "time": 2010,
+    "values": 665990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI20",
+    "time": 2010,
+    "values": 19620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR10",
+    "time": 2010,
+    "values": 568840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR21",
+    "time": 2010,
+    "values": 1536950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR22",
+    "time": 2010,
+    "values": 1328370
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR23",
+    "time": 2010,
+    "values": 774550
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR24",
+    "time": 2010,
+    "values": 2311400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR25",
+    "time": 2010,
+    "values": 1210810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR26",
+    "time": 2010,
+    "values": 1762610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR30",
+    "time": 2010,
+    "values": 817990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR41",
+    "time": 2010,
+    "values": 1138400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR42",
+    "time": 2010,
+    "values": 336770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR43",
+    "time": 2010,
+    "values": 667190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR51",
+    "time": 2010,
+    "values": 2103390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR52",
+    "time": 2010,
+    "values": 1639840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR53",
+    "time": 2010,
+    "values": 1721280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR61",
+    "time": 2010,
+    "values": 1477320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR62",
+    "time": 2010,
+    "values": 2540090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR63",
+    "time": 2010,
+    "values": 838760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR71",
+    "time": 2010,
+    "values": 1516680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR72",
+    "time": 2010,
+    "values": 1469490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR81",
+    "time": 2010,
+    "values": 956590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR82",
+    "time": 2010,
+    "values": 815450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR83",
+    "time": 2010,
+    "values": 179940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR91",
+    "time": 2010,
+    "values": 31420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR92",
+    "time": 2010,
+    "values": 24980
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR93",
+    "time": 2010,
+    "values": 25350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR94",
+    "time": 2010,
+    "values": 42810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HR03",
+    "time": 2010,
+    "values": 220380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HR04",
+    "time": 2010,
+    "values": 1095630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU10",
+    "time": 2010,
+    "values": 259570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU21",
+    "time": 2010,
+    "values": 531170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU22",
+    "time": 2010,
+    "values": 524370
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU23",
+    "time": 2010,
+    "values": 689440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU31",
+    "time": 2010,
+    "values": 523270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU32",
+    "time": 2010,
+    "values": 1051090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU33",
+    "time": 2010,
+    "values": 1107420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE01",
+    "time": 2010,
+    "values": 2297670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE02",
+    "time": 2010,
+    "values": 2693680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IS00",
+    "time": 2010,
+    "values": 1595670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC1",
+    "time": 2010,
+    "values": 1010780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC2",
+    "time": 2010,
+    "values": 55600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC3",
+    "time": 2010,
+    "values": 43780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC4",
+    "time": 2010,
+    "values": 986830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF1",
+    "time": 2010,
+    "values": 453630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF2",
+    "time": 2010,
+    "values": 197520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF3",
+    "time": 2010,
+    "values": 549530
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF4",
+    "time": 2010,
+    "values": 1285290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF5",
+    "time": 2010,
+    "values": 519130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF6",
+    "time": 2010,
+    "values": 549250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG1",
+    "time": 2010,
+    "values": 1387520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG2",
+    "time": 2010,
+    "values": 1153690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH1",
+    "time": 2010,
+    "values": 240540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH2",
+    "time": 2010,
+    "values": 137220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH3",
+    "time": 2010,
+    "values": 811440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH4",
+    "time": 2010,
+    "values": 218440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH5",
+    "time": 2010,
+    "values": 1064210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI1",
+    "time": 2010,
+    "values": 754340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI2",
+    "time": 2010,
+    "values": 326880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI3",
+    "time": 2010,
+    "values": 471830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI4",
+    "time": 2010,
+    "values": 638600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LT00",
+    "time": 2010,
+    "values": 2742560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LU00",
+    "time": 2010,
+    "values": 131110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LV00",
+    "time": 2010,
+    "values": 1796290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ME00",
+    "time": 2010,
+    "values": 221300
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "MT00",
+    "time": 2010,
+    "values": 11450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL11",
+    "time": 2010,
+    "values": 162190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL12",
+    "time": 2010,
+    "values": 229080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL13",
+    "time": 2010,
+    "values": 149940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL21",
+    "time": 2010,
+    "values": 202620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL22",
+    "time": 2010,
+    "values": 238200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL23",
+    "time": 2010,
+    "values": 89310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL31",
+    "time": 2010,
+    "values": 66630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL32",
+    "time": 2010,
+    "values": 130690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL33",
+    "time": 2010,
+    "values": 134190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL34",
+    "time": 2010,
+    "values": 117990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL41",
+    "time": 2010,
+    "values": 251400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL42",
+    "time": 2010,
+    "values": 100100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO01",
+    "time": 2010,
+    "values": 78210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO02",
+    "time": 2010,
+    "values": 208120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO03",
+    "time": 2010,
+    "values": 192310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO04",
+    "time": 2010,
+    "values": 130100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO05",
+    "time": 2010,
+    "values": 143330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO06",
+    "time": 2010,
+    "values": 161960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO07",
+    "time": 2010,
+    "values": 91910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL11",
+    "time": 2010,
+    "values": 957060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL12",
+    "time": 2010,
+    "values": 1834790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL21",
+    "time": 2010,
+    "values": 565200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL22",
+    "time": 2010,
+    "values": 357310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL31",
+    "time": 2010,
+    "values": 1356740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL32",
+    "time": 2010,
+    "values": 569520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL33",
+    "time": 2010,
+    "values": 503000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL34",
+    "time": 2010,
+    "values": 1031750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL41",
+    "time": 2010,
+    "values": 1722000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL42",
+    "time": 2010,
+    "values": 897290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL43",
+    "time": 2010,
+    "values": 417700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL51",
+    "time": 2010,
+    "values": 909470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL52",
+    "time": 2010,
+    "values": 509060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL61",
+    "time": 2010,
+    "values": 1055670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL62",
+    "time": 2010,
+    "values": 1028820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL63",
+    "time": 2010,
+    "values": 731930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT11",
+    "time": 2010,
+    "values": 644030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT15",
+    "time": 2010,
+    "values": 88300
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT16",
+    "time": 2010,
+    "values": 570000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT17",
+    "time": 2010,
+    "values": 87590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT18",
+    "time": 2010,
+    "values": 2152390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT20",
+    "time": 2010,
+    "values": 120410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT30",
+    "time": 2010,
+    "values": 5430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO11",
+    "time": 2010,
+    "values": 1808350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO12",
+    "time": 2010,
+    "values": 1627290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO21",
+    "time": 2010,
+    "values": 1940160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO22",
+    "time": 2010,
+    "values": 2194370
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO31",
+    "time": 2010,
+    "values": 2333680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO32",
+    "time": 2010,
+    "values": 62450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO41",
+    "time": 2010,
+    "values": 1608410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO42",
+    "time": 2010,
+    "values": 1731410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE11",
+    "time": 2010,
+    "values": 94840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE12",
+    "time": 2010,
+    "values": 789860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE21",
+    "time": 2010,
+    "values": 502800
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE22",
+    "time": 2010,
+    "values": 545800
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE23",
+    "time": 2010,
+    "values": 655380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE31",
+    "time": 2010,
+    "values": 261230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE32",
+    "time": 2010,
+    "values": 106400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE33",
+    "time": 2010,
+    "values": 110000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI01",
+    "time": 2010,
+    "values": 343520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI02",
+    "time": 2010,
+    "values": 139130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK01",
+    "time": 2010,
+    "values": 75810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK02",
+    "time": 2010,
+    "values": 812180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK03",
+    "time": 2010,
+    "values": 466030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK04",
+    "time": 2010,
+    "values": 541480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC1",
+    "time": 2010,
+    "values": 205130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC2",
+    "time": 2010,
+    "values": 382920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD1",
+    "time": 2010,
+    "values": 554930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD3",
+    "time": 2010,
+    "values": 40720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD4",
+    "time": 2010,
+    "values": 210630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD6",
+    "time": 2010,
+    "values": 158500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD7",
+    "time": 2010,
+    "values": 17970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE1",
+    "time": 2010,
+    "values": 263640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE2",
+    "time": 2010,
+    "values": 674350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE3",
+    "time": 2010,
+    "values": 78930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE4",
+    "time": 2010,
+    "values": 101890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF1",
+    "time": 2010,
+    "values": 309770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF2",
+    "time": 2010,
+    "values": 357990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF3",
+    "time": 2010,
+    "values": 466680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG1",
+    "time": 2010,
+    "values": 421480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG2",
+    "time": 2010,
+    "values": 449120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG3",
+    "time": 2010,
+    "values": 14330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH1",
+    "time": 2010,
+    "values": 894570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH2",
+    "time": 2010,
+    "values": 169330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH3",
+    "time": 2010,
+    "values": 241880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI2",
+    "time": 2010,
+    "values": 11270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ1",
+    "time": 2010,
+    "values": 354640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ2",
+    "time": 2010,
+    "values": 273590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ3",
+    "time": 2010,
+    "values": 231000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ4",
+    "time": 2010,
+    "values": 215050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK1",
+    "time": 2010,
+    "values": 516110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK2",
+    "time": 2010,
+    "values": 448790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK3",
+    "time": 2010,
+    "values": 260970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK4",
+    "time": 2010,
+    "values": 504410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL1",
+    "time": 2010,
+    "values": 990050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL2",
+    "time": 2010,
+    "values": 609600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM2",
+    "time": 2010,
+    "values": 1288230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM3",
+    "time": 2010,
+    "values": 813210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM5",
+    "time": 2010,
+    "values": 454640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM6",
+    "time": 2010,
+    "values": 2880860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKN0",
+    "time": 2010,
+    "values": 1013650
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT11",
+    "time": 2007,
+    "values": 188430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT12",
+    "time": 2007,
+    "values": 918360
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT13",
+    "time": 2007,
+    "values": 7990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT21",
+    "time": 2007,
+    "values": 290370
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT22",
+    "time": 2007,
+    "values": 457020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT31",
+    "time": 2007,
+    "values": 556720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT32",
+    "time": 2007,
+    "values": 236520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT33",
+    "time": 2007,
+    "values": 435380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT34",
+    "time": 2007,
+    "values": 98330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE10",
+    "time": 2007,
+    "values": 310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE21",
+    "time": 2007,
+    "values": 89880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE22",
+    "time": 2007,
+    "values": 84590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE23",
+    "time": 2007,
+    "values": 151550
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE24",
+    "time": 2007,
+    "values": 87680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE25",
+    "time": 2007,
+    "values": 210100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE31",
+    "time": 2007,
+    "values": 64690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE32",
+    "time": 2007,
+    "values": 219070
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE33",
+    "time": 2007,
+    "values": 159820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE34",
+    "time": 2007,
+    "values": 146200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE35",
+    "time": 2007,
+    "values": 160560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG31",
+    "time": 2007,
+    "values": 614290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG32",
+    "time": 2007,
+    "values": 661130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG33",
+    "time": 2007,
+    "values": 655260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG34",
+    "time": 2007,
+    "values": 561280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG41",
+    "time": 2007,
+    "values": 193350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG42",
+    "time": 2007,
+    "values": 365420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH01",
+    "time": 2007,
+    "values": 158500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH02",
+    "time": 2007,
+    "values": 372930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH03",
+    "time": 2007,
+    "values": 83800
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH04",
+    "time": 2007,
+    "values": 74180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH05",
+    "time": 2007,
+    "values": 218960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH06",
+    "time": 2007,
+    "values": 134330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH07",
+    "time": 2007,
+    "values": 13990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CY00",
+    "time": 2007,
+    "values": 146000
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ01",
+    "time": 2007,
+    "values": 32140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ02",
+    "time": 2007,
+    "values": 547530
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ03",
+    "time": 2007,
+    "values": 734840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ04",
+    "time": 2007,
+    "values": 309750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ05",
+    "time": 2007,
+    "values": 554610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ06",
+    "time": 2007,
+    "values": 735350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ07",
+    "time": 2007,
+    "values": 393040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ08",
+    "time": 2007,
+    "values": 210810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DE3_5_6",
+    "time": 2007,
+    "values": 24760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK01",
+    "time": 2007,
+    "values": 98570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK02",
+    "time": 2007,
+    "values": 480810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK03",
+    "time": 2007,
+    "values": 792320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK04",
+    "time": 2007,
+    "values": 801190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK05",
+    "time": 2007,
+    "values": 489700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EE00",
+    "time": 2007,
+    "values": 906830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL11",
+    "time": 2007,
+    "values": 408870
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL12",
+    "time": 2007,
+    "values": 732960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL13",
+    "time": 2007,
+    "values": 261050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL14",
+    "time": 2007,
+    "values": 456300
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL21",
+    "time": 2007,
+    "values": 143600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL22",
+    "time": 2007,
+    "values": 94230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL23",
+    "time": 2007,
+    "values": 370580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL24",
+    "time": 2007,
+    "values": 377180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL25",
+    "time": 2007,
+    "values": 409670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL30",
+    "time": 2007,
+    "values": 51260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL41",
+    "time": 2007,
+    "values": 200120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL42",
+    "time": 2007,
+    "values": 120990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL43",
+    "time": 2007,
+    "values": 449410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES11",
+    "time": 2007,
+    "values": 748660
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES12",
+    "time": 2007,
+    "values": 385060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES13",
+    "time": 2007,
+    "values": 285730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES21",
+    "time": 2007,
+    "values": 242780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES22",
+    "time": 2007,
+    "values": 588350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES23",
+    "time": 2007,
+    "values": 244760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES24",
+    "time": 2007,
+    "values": 2398270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES30",
+    "time": 2007,
+    "values": 343190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES41",
+    "time": 2007,
+    "values": 5471310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES42",
+    "time": 2007,
+    "values": 4468990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES43",
+    "time": 2007,
+    "values": 2700730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES51",
+    "time": 2007,
+    "values": 1166540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES52",
+    "time": 2007,
+    "values": 686570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES53",
+    "time": 2007,
+    "values": 194260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES61",
+    "time": 2007,
+    "values": 4508820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES62",
+    "time": 2007,
+    "values": 400220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES63",
+    "time": 2007,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES64",
+    "time": 2007,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES70",
+    "time": 2007,
+    "values": 58240
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI13",
+    "time": 2007,
+    "values": 339500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI18",
+    "time": 2007,
+    "values": 813740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI19",
+    "time": 2007,
+    "values": 793230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1A",
+    "time": 2007,
+    "values": 325880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1B",
+    "time": 2007,
+    "values": 186810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1C",
+    "time": 2007,
+    "values": 626930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1D",
+    "time": 2007,
+    "values": 665380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI20",
+    "time": 2007,
+    "values": 19930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR10",
+    "time": 2007,
+    "values": 562470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR21",
+    "time": 2007,
+    "values": 1569030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR22",
+    "time": 2007,
+    "values": 1318030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR23",
+    "time": 2007,
+    "values": 787990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR24",
+    "time": 2007,
+    "values": 2296180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR25",
+    "time": 2007,
+    "values": 1224990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR26",
+    "time": 2007,
+    "values": 1758210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR30",
+    "time": 2007,
+    "values": 818700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR41",
+    "time": 2007,
+    "values": 1128060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR42",
+    "time": 2007,
+    "values": 332540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR43",
+    "time": 2007,
+    "values": 663440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR51",
+    "time": 2007,
+    "values": 2174460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR52",
+    "time": 2007,
+    "values": 1658100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR53",
+    "time": 2007,
+    "values": 1722340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR61",
+    "time": 2007,
+    "values": 1411170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR62",
+    "time": 2007,
+    "values": 2343860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR63",
+    "time": 2007,
+    "values": 856230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR71",
+    "time": 2007,
+    "values": 1482890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR72",
+    "time": 2007,
+    "values": 1499120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR81",
+    "time": 2007,
+    "values": 942970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR82",
+    "time": 2007,
+    "values": 656020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR83",
+    "time": 2007,
+    "values": 149030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR91",
+    "time": 2007,
+    "values": 34790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR92",
+    "time": 2007,
+    "values": 25330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR93",
+    "time": 2007,
+    "values": 16940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR94",
+    "time": 2007,
+    "values": 44030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HR03",
+    "time": 2007,
+    "values": 114720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HR04",
+    "time": 2007,
+    "values": 863960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU10",
+    "time": 2007,
+    "values": 303010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU21",
+    "time": 2007,
+    "values": 491960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU22",
+    "time": 2007,
+    "values": 472210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU23",
+    "time": 2007,
+    "values": 623570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU31",
+    "time": 2007,
+    "values": 433590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU32",
+    "time": 2007,
+    "values": 946620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU33",
+    "time": 2007,
+    "values": 957620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE01",
+    "time": 2007,
+    "values": 1819440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE02",
+    "time": 2007,
+    "values": 2319800
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC1",
+    "time": 2007,
+    "values": 1040180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC2",
+    "time": 2007,
+    "values": 67880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC3",
+    "time": 2007,
+    "values": 49410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC4",
+    "time": 2007,
+    "values": 995320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD1",
+    "time": 2007,
+    "values": 258010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD2",
+    "time": 2007,
+    "values": 141130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD3",
+    "time": 2007,
+    "values": 820200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD4",
+    "time": 2007,
+    "values": 228060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD5",
+    "time": 2007,
+    "values": 1052590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE1",
+    "time": 2007,
+    "values": 806430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE2",
+    "time": 2007,
+    "values": 339400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE3",
+    "time": 2007,
+    "values": 496420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE4",
+    "time": 2007,
+    "values": 674010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF1",
+    "time": 2007,
+    "values": 434010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF2",
+    "time": 2007,
+    "values": 200260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF3",
+    "time": 2007,
+    "values": 562880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF4",
+    "time": 2007,
+    "values": 1197380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF5",
+    "time": 2007,
+    "values": 542260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF6",
+    "time": 2007,
+    "values": 514050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG1",
+    "time": 2007,
+    "values": 1251850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG2",
+    "time": 2007,
+    "values": 1072470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH1",
+    "time": 2007,
+    "values": 258010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH2",
+    "time": 2007,
+    "values": 141130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH3",
+    "time": 2007,
+    "values": 820200
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH4",
+    "time": 2007,
+    "values": 228060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITH5",
+    "time": 2007,
+    "values": 1065170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI1",
+    "time": 2007,
+    "values": 806430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI2",
+    "time": 2007,
+    "values": 339400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI3",
+    "time": 2007,
+    "values": 483830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITI4",
+    "time": 2007,
+    "values": 674010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LT00",
+    "time": 2007,
+    "values": 2648950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LU00",
+    "time": 2007,
+    "values": 130880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LV00",
+    "time": 2007,
+    "values": 1773840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "MT00",
+    "time": 2007,
+    "values": 10330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL11",
+    "time": 2007,
+    "values": 162180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL12",
+    "time": 2007,
+    "values": 234180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL13",
+    "time": 2007,
+    "values": 152170
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL21",
+    "time": 2007,
+    "values": 209660
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL22",
+    "time": 2007,
+    "values": 242940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL23",
+    "time": 2007,
+    "values": 90820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL31",
+    "time": 2007,
+    "values": 69950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL32",
+    "time": 2007,
+    "values": 132160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL33",
+    "time": 2007,
+    "values": 140880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL34",
+    "time": 2007,
+    "values": 120020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL41",
+    "time": 2007,
+    "values": 256850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL42",
+    "time": 2007,
+    "values": 102510
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO01",
+    "time": 2007,
+    "values": 79620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO02",
+    "time": 2007,
+    "values": 212190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO03",
+    "time": 2007,
+    "values": 196940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO04",
+    "time": 2007,
+    "values": 132180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO05",
+    "time": 2007,
+    "values": 147940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO06",
+    "time": 2007,
+    "values": 165910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO07",
+    "time": 2007,
+    "values": 97210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL11",
+    "time": 2007,
+    "values": 1075090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL12",
+    "time": 2007,
+    "values": 2029600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL21",
+    "time": 2007,
+    "values": 661730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL22",
+    "time": 2007,
+    "values": 404260
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL31",
+    "time": 2007,
+    "values": 1530840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL32",
+    "time": 2007,
+    "values": 712630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL33",
+    "time": 2007,
+    "values": 558980
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL34",
+    "time": 2007,
+    "values": 1093270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL41",
+    "time": 2007,
+    "values": 1746110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL42",
+    "time": 2007,
+    "values": 916010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL43",
+    "time": 2007,
+    "values": 457290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL51",
+    "time": 2007,
+    "values": 1007900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL52",
+    "time": 2007,
+    "values": 552730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL61",
+    "time": 2007,
+    "values": 1031090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL62",
+    "time": 2007,
+    "values": 966100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL63",
+    "time": 2007,
+    "values": 733560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT11",
+    "time": 2007,
+    "values": 694990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT15",
+    "time": 2007,
+    "values": 102760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT16",
+    "time": 2007,
+    "values": 584290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT17",
+    "time": 2007,
+    "values": 81900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT18",
+    "time": 2007,
+    "values": 1893090
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT20",
+    "time": 2007,
+    "values": 112050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT30",
+    "time": 2007,
+    "values": 3860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO11",
+    "time": 2007,
+    "values": 1962060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO12",
+    "time": 2007,
+    "values": 1762930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO21",
+    "time": 2007,
+    "values": 2087970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO22",
+    "time": 2007,
+    "values": 2187990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO31",
+    "time": 2007,
+    "values": 2255530
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO32",
+    "time": 2007,
+    "values": 187700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO41",
+    "time": 2007,
+    "values": 1629490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO42",
+    "time": 2007,
+    "values": 1679380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE11",
+    "time": 2007,
+    "values": 97470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE12",
+    "time": 2007,
+    "values": 802040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE21",
+    "time": 2007,
+    "values": 518400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE22",
+    "time": 2007,
+    "values": 551140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE23",
+    "time": 2007,
+    "values": 660860
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE31",
+    "time": 2007,
+    "values": 266950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE32",
+    "time": 2007,
+    "values": 110100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE33",
+    "time": 2007,
+    "values": 111050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI01",
+    "time": 2007,
+    "values": 340010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI02",
+    "time": 2007,
+    "values": 148760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK01",
+    "time": 2007,
+    "values": 72990
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK02",
+    "time": 2007,
+    "values": 834950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK03",
+    "time": 2007,
+    "values": 480710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK04",
+    "time": 2007,
+    "values": 547970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC1",
+    "time": 2007,
+    "values": 179840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC2",
+    "time": 2007,
+    "values": 379690
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD1",
+    "time": 2007,
+    "values": 449290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD2",
+    "time": 2007,
+    "values": 164600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD3",
+    "time": 2007,
+    "values": 36970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD4",
+    "time": 2007,
+    "values": 216020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD5",
+    "time": 2007,
+    "values": 16950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD6",
+    "time": 2007,
+    "values": 162740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD7",
+    "time": 2007,
+    "values": 18810
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE1",
+    "time": 2007,
+    "values": 267770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE2",
+    "time": 2007,
+    "values": 604250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE3",
+    "time": 2007,
+    "values": 77640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE4",
+    "time": 2007,
+    "values": 93420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF1",
+    "time": 2007,
+    "values": 317710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF2",
+    "time": 2007,
+    "values": 366470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF3",
+    "time": 2007,
+    "values": 488500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG1",
+    "time": 2007,
+    "values": 429680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG2",
+    "time": 2007,
+    "values": 460580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG3",
+    "time": 2007,
+    "values": 14300
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH1",
+    "time": 2007,
+    "values": 911600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH2",
+    "time": 2007,
+    "values": 168730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH3",
+    "time": 2007,
+    "values": 237450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI1",
+    "time": 2007,
+    "values": 180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI2",
+    "time": 2007,
+    "values": 11240
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ1",
+    "time": 2007,
+    "values": 356870
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ2",
+    "time": 2007,
+    "values": 269670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ3",
+    "time": 2007,
+    "values": 215120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ4",
+    "time": 2007,
+    "values": 221180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK1",
+    "time": 2007,
+    "values": 525370
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK2",
+    "time": 2007,
+    "values": 461760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK3",
+    "time": 2007,
+    "values": 265190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK4",
+    "time": 2007,
+    "values": 487180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL1",
+    "time": 2007,
+    "values": 861380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL2",
+    "time": 2007,
+    "values": 511520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM2",
+    "time": 2007,
+    "values": 1297730
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM3",
+    "time": 2007,
+    "values": 774750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM5",
+    "time": 2007,
+    "values": 465710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM6",
+    "time": 2007,
+    "values": 2429970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKN0",
+    "time": 2007,
+    "values": 1006890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT11",
+    "time": 2005,
+    "values": 189100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT12",
+    "time": 2005,
+    "values": 940940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT13",
+    "time": 2005,
+    "values": 8390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT21",
+    "time": 2005,
+    "values": 305960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT22",
+    "time": 2005,
+    "values": 463930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT31",
+    "time": 2005,
+    "values": 565070
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT32",
+    "time": 2005,
+    "values": 267040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT33",
+    "time": 2005,
+    "values": 419070
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "AT34",
+    "time": 2005,
+    "values": 106750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE10",
+    "time": 2005,
+    "values": 350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE21",
+    "time": 2005,
+    "values": 90530
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE22",
+    "time": 2005,
+    "values": 85520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE23",
+    "time": 2005,
+    "values": 153110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE24",
+    "time": 2005,
+    "values": 88050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE25",
+    "time": 2005,
+    "values": 212480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE31",
+    "time": 2005,
+    "values": 63460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE32",
+    "time": 2005,
+    "values": 220600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE33",
+    "time": 2005,
+    "values": 159190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE34",
+    "time": 2005,
+    "values": 147460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BE35",
+    "time": 2005,
+    "values": 164830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG31",
+    "time": 2005,
+    "values": 535420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG32",
+    "time": 2005,
+    "values": 576710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG33",
+    "time": 2005,
+    "values": 640460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG34",
+    "time": 2005,
+    "values": 537710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG41",
+    "time": 2005,
+    "values": 138270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "BG42",
+    "time": 2005,
+    "values": 300820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH01",
+    "time": 2005,
+    "values": 160110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH02",
+    "time": 2005,
+    "values": 374060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH03",
+    "time": 2005,
+    "values": 83650
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH04",
+    "time": 2005,
+    "values": 74600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH05",
+    "time": 2005,
+    "values": 220220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH06",
+    "time": 2005,
+    "values": 135180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CH07",
+    "time": 2005,
+    "values": 13850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CY00",
+    "time": 2005,
+    "values": 151500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ01",
+    "time": 2005,
+    "values": 34310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ02",
+    "time": 2005,
+    "values": 549880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ03",
+    "time": 2005,
+    "values": 750270
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ04",
+    "time": 2005,
+    "values": 312670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ05",
+    "time": 2005,
+    "values": 558760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ06",
+    "time": 2005,
+    "values": 740060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ07",
+    "time": 2005,
+    "values": 392350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "CZ08",
+    "time": 2005,
+    "values": 219470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DE3_5_6",
+    "time": 2005,
+    "values": 24790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK01",
+    "time": 2005,
+    "values": 101700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK02",
+    "time": 2005,
+    "values": 491480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK03",
+    "time": 2005,
+    "values": 809400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK04",
+    "time": 2005,
+    "values": 821610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "DK05",
+    "time": 2005,
+    "values": 483500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EE00",
+    "time": 2005,
+    "values": 828930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL11",
+    "time": 2005,
+    "values": 397880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL12",
+    "time": 2005,
+    "values": 701280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL13",
+    "time": 2005,
+    "values": 233450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL14",
+    "time": 2005,
+    "values": 440290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL21",
+    "time": 2005,
+    "values": 123380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL22",
+    "time": 2005,
+    "values": 95920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL23",
+    "time": 2005,
+    "values": 371580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL24",
+    "time": 2005,
+    "values": 387110
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL25",
+    "time": 2005,
+    "values": 402400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL30",
+    "time": 2005,
+    "values": 57290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL41",
+    "time": 2005,
+    "values": 192290
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL42",
+    "time": 2005,
+    "values": 128440
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "EL43",
+    "time": 2005,
+    "values": 452490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES11",
+    "time": 2005,
+    "values": 732760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES12",
+    "time": 2005,
+    "values": 393150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES13",
+    "time": 2005,
+    "values": 282680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES21",
+    "time": 2005,
+    "values": 239780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES22",
+    "time": 2005,
+    "values": 588750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES23",
+    "time": 2005,
+    "values": 242230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES24",
+    "time": 2005,
+    "values": 2382550
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES30",
+    "time": 2005,
+    "values": 344740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES41",
+    "time": 2005,
+    "values": 5449900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES42",
+    "time": 2005,
+    "values": 4403180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES43",
+    "time": 2005,
+    "values": 2769380
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES51",
+    "time": 2005,
+    "values": 1162230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES52",
+    "time": 2005,
+    "values": 697800
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES53",
+    "time": 2005,
+    "values": 206020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES61",
+    "time": 2005,
+    "values": 4502640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES62",
+    "time": 2005,
+    "values": 397150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES63",
+    "time": 2005,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES64",
+    "time": 2005,
+    "values": 0
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ES70",
+    "time": 2005,
+    "values": 60160
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI13",
+    "time": 2005,
+    "values": 336450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI18",
+    "time": 2005,
+    "values": 811300
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI19",
+    "time": 2005,
+    "values": 784460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI1A",
+    "time": 2005,
+    "values": 316710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FI20",
+    "time": 2005,
+    "values": 14640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR10",
+    "time": 2005,
+    "values": 568190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR21",
+    "time": 2005,
+    "values": 1560770
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR22",
+    "time": 2005,
+    "values": 1314080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR23",
+    "time": 2005,
+    "values": 786980
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR24",
+    "time": 2005,
+    "values": 2322590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR25",
+    "time": 2005,
+    "values": 1228140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR26",
+    "time": 2005,
+    "values": 1764150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR30",
+    "time": 2005,
+    "values": 818930
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR41",
+    "time": 2005,
+    "values": 1127600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR42",
+    "time": 2005,
+    "values": 330020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR43",
+    "time": 2005,
+    "values": 662360
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR51",
+    "time": 2005,
+    "values": 2168740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR52",
+    "time": 2005,
+    "values": 1668240
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR53",
+    "time": 2005,
+    "values": 1743320
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR61",
+    "time": 2005,
+    "values": 1429360
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR62",
+    "time": 2005,
+    "values": 2340250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR63",
+    "time": 2005,
+    "values": 855500
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR71",
+    "time": 2005,
+    "values": 1497220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR72",
+    "time": 2005,
+    "values": 1496120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR81",
+    "time": 2005,
+    "values": 958640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR82",
+    "time": 2005,
+    "values": 670820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR83",
+    "time": 2005,
+    "values": 157680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR91",
+    "time": 2005,
+    "values": 35530
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR92",
+    "time": 2005,
+    "values": 26030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR93",
+    "time": 2005,
+    "values": 16050
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "FR94",
+    "time": 2005,
+    "values": 43640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU10",
+    "time": 2005,
+    "values": 296670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU21",
+    "time": 2005,
+    "values": 471580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU22",
+    "time": 2005,
+    "values": 514020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU23",
+    "time": 2005,
+    "values": 610210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU31",
+    "time": 2005,
+    "values": 438280
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU32",
+    "time": 2005,
+    "values": 926470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "HU33",
+    "time": 2005,
+    "values": 1009310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE01",
+    "time": 2005,
+    "values": 1868950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "IE02",
+    "time": 2005,
+    "values": 2350430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC1",
+    "time": 2005,
+    "values": 1029190
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC2",
+    "time": 2005,
+    "values": 68390
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC3",
+    "time": 2005,
+    "values": 49080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITC4",
+    "time": 2005,
+    "values": 978670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD1",
+    "time": 2005,
+    "values": 255670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD2",
+    "time": 2005,
+    "values": 145410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD3",
+    "time": 2005,
+    "values": 797570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD4",
+    "time": 2005,
+    "values": 224520
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITD5",
+    "time": 2005,
+    "values": 1029920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE1",
+    "time": 2005,
+    "values": 809490
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE2",
+    "time": 2005,
+    "values": 337920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE3",
+    "time": 2005,
+    "values": 497140
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITE4",
+    "time": 2005,
+    "values": 684940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF1",
+    "time": 2005,
+    "values": 425180
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF2",
+    "time": 2005,
+    "values": 212610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF3",
+    "time": 2005,
+    "values": 563670
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF4",
+    "time": 2005,
+    "values": 1216920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF5",
+    "time": 2005,
+    "values": 553590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITF6",
+    "time": 2005,
+    "values": 514340
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG1",
+    "time": 2005,
+    "values": 1250700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "ITG2",
+    "time": 2005,
+    "values": 1062940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LT00",
+    "time": 2005,
+    "values": 2792040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LU00",
+    "time": 2005,
+    "values": 129130
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "LV00",
+    "time": 2005,
+    "values": 1701680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "MT00",
+    "time": 2005,
+    "values": 10250
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL11",
+    "time": 2005,
+    "values": 167150
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL12",
+    "time": 2005,
+    "values": 239310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL13",
+    "time": 2005,
+    "values": 157450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL21",
+    "time": 2005,
+    "values": 214020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL22",
+    "time": 2005,
+    "values": 246330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL23",
+    "time": 2005,
+    "values": 91360
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL31",
+    "time": 2005,
+    "values": 70570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL32",
+    "time": 2005,
+    "values": 137880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL33",
+    "time": 2005,
+    "values": 143120
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL34",
+    "time": 2005,
+    "values": 121700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL41",
+    "time": 2005,
+    "values": 263540
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NL42",
+    "time": 2005,
+    "values": 105620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO01",
+    "time": 2005,
+    "values": 80230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO02",
+    "time": 2005,
+    "values": 212480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO03",
+    "time": 2005,
+    "values": 197850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO04",
+    "time": 2005,
+    "values": 131640
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO05",
+    "time": 2005,
+    "values": 149780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO06",
+    "time": 2005,
+    "values": 167060
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "NO07",
+    "time": 2005,
+    "values": 96350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL11",
+    "time": 2005,
+    "values": 1031900
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL12",
+    "time": 2005,
+    "values": 1952310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL21",
+    "time": 2005,
+    "values": 648480
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL22",
+    "time": 2005,
+    "values": 413830
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL31",
+    "time": 2005,
+    "values": 1437660
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL32",
+    "time": 2005,
+    "values": 650750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL33",
+    "time": 2005,
+    "values": 525610
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL34",
+    "time": 2005,
+    "values": 1058310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL41",
+    "time": 2005,
+    "values": 1695740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL42",
+    "time": 2005,
+    "values": 861450
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL43",
+    "time": 2005,
+    "values": 414680
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL51",
+    "time": 2005,
+    "values": 905720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL52",
+    "time": 2005,
+    "values": 506880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL61",
+    "time": 2005,
+    "values": 1019310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL62",
+    "time": 2005,
+    "values": 933850
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PL63",
+    "time": 2005,
+    "values": 698400
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT11",
+    "time": 2005,
+    "values": 705790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT15",
+    "time": 2005,
+    "values": 106230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT16",
+    "time": 2005,
+    "values": 658040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT17",
+    "time": 2005,
+    "values": 102590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT18",
+    "time": 2005,
+    "values": 1979700
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT20",
+    "time": 2005,
+    "values": 122780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "PT30",
+    "time": 2005,
+    "values": 4460
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO11",
+    "time": 2005,
+    "values": 1941420
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO12",
+    "time": 2005,
+    "values": 1743230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO21",
+    "time": 2005,
+    "values": 2032950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO22",
+    "time": 2005,
+    "values": 2151210
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO31",
+    "time": 2005,
+    "values": 2325760
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO32",
+    "time": 2005,
+    "values": 177820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO41",
+    "time": 2005,
+    "values": 1782600
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "RO42",
+    "time": 2005,
+    "values": 1751710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE11",
+    "time": 2005,
+    "values": 100580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE12",
+    "time": 2005,
+    "values": 821780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE21",
+    "time": 2005,
+    "values": 529820
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE22",
+    "time": 2005,
+    "values": 558780
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE23",
+    "time": 2005,
+    "values": 675620
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE31",
+    "time": 2005,
+    "values": 275020
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE32",
+    "time": 2005,
+    "values": 114800
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SE33",
+    "time": 2005,
+    "values": 116040
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI01",
+    "time": 2005,
+    "values": 343960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SI02",
+    "time": 2005,
+    "values": 141470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK01",
+    "time": 2005,
+    "values": 77410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK02",
+    "time": 2005,
+    "values": 805560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK03",
+    "time": 2005,
+    "values": 460410
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "SK04",
+    "time": 2005,
+    "values": 536100
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC1",
+    "time": 2005,
+    "values": 179590
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKC2",
+    "time": 2005,
+    "values": 377870
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD1",
+    "time": 2005,
+    "values": 449880
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD2",
+    "time": 2005,
+    "values": 160920
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD3",
+    "time": 2005,
+    "values": 38570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD4",
+    "time": 2005,
+    "values": 213350
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKD5",
+    "time": 2005,
+    "values": 16570
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE1",
+    "time": 2005,
+    "values": 270960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE2",
+    "time": 2005,
+    "values": 609740
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE3",
+    "time": 2005,
+    "values": 83560
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKE4",
+    "time": 2005,
+    "values": 94940
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF1",
+    "time": 2005,
+    "values": 315840
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF2",
+    "time": 2005,
+    "values": 361750
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKF3",
+    "time": 2005,
+    "values": 489970
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG1",
+    "time": 2005,
+    "values": 429980
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG2",
+    "time": 2005,
+    "values": 459230
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKG3",
+    "time": 2005,
+    "values": 14220
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH1",
+    "time": 2005,
+    "values": 935720
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH2",
+    "time": 2005,
+    "values": 176080
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKH3",
+    "time": 2005,
+    "values": 240710
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI1",
+    "time": 2005,
+    "values": 90
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKI2",
+    "time": 2005,
+    "values": 10790
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ1",
+    "time": 2005,
+    "values": 356580
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ2",
+    "time": 2005,
+    "values": 265630
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ3",
+    "time": 2005,
+    "values": 213010
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKJ4",
+    "time": 2005,
+    "values": 220910
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK1",
+    "time": 2005,
+    "values": 521960
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK2",
+    "time": 2005,
+    "values": 453310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK3",
+    "time": 2005,
+    "values": 269890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKK4",
+    "time": 2005,
+    "values": 485330
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL1",
+    "time": 2005,
+    "values": 873310
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKL2",
+    "time": 2005,
+    "values": 515470
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM2",
+    "time": 2005,
+    "values": 1255430
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM3",
+    "time": 2005,
+    "values": 770950
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM5",
+    "time": 2005,
+    "values": 450030
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKM6",
+    "time": 2005,
+    "values": 2360890
+  },
+  {
+    "legtype": "TOTAL",
+    "agrarea": "TOTAL",
+    "indic_ef": "AGRAREA_HA",
+    "geo": "UKN0",
+    "time": 2005,
+    "values": 1013960
+  }
+]

@@ -1,0 +1,3985 @@
+[
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2017,
+    "values": 2.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2017,
+    "values": 7.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2017,
+    "values": 16.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2017,
+    "values": 1.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2017,
+    "values": 88.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2017,
+    "values": 143
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2017,
+    "values": 35.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2017,
+    "values": 55.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2017,
+    "values": 106.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2017,
+    "values": 3.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2017,
+    "values": 54.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2017,
+    "values": 25.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2017,
+    "values": 14.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2016,
+    "values": 2.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2016,
+    "values": 8.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2016,
+    "values": 15.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2016,
+    "values": 1.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2016,
+    "values": 89.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2016,
+    "values": 143.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2016,
+    "values": 35.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2016,
+    "values": 55.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2016,
+    "values": 105.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2016,
+    "values": 3.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2016,
+    "values": 54.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2016,
+    "values": 24.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2016,
+    "values": 14.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2015,
+    "values": 2.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2015,
+    "values": 8.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2015,
+    "values": 16
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2015,
+    "values": 1.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2015,
+    "values": 92.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2015,
+    "values": 157.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2015,
+    "values": 36.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2015,
+    "values": 57.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2015,
+    "values": 101.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2015,
+    "values": 4.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2015,
+    "values": 60.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2015,
+    "values": 26
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2015,
+    "values": 16.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2014,
+    "values": 3.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2014,
+    "values": 8.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2014,
+    "values": 19.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2014,
+    "values": 2.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2014,
+    "values": 104.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2014,
+    "values": 185.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2014,
+    "values": 46
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2014,
+    "values": 59.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2014,
+    "values": 115.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2014,
+    "values": 5.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2014,
+    "values": 56.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2014,
+    "values": 34.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2014,
+    "values": 16.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2013,
+    "values": 105.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2013,
+    "values": 181.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2013,
+    "values": 40.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2013,
+    "values": 113.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2013,
+    "values": 63.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2013,
+    "values": 6.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2013,
+    "values": 63.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2013,
+    "values": 30.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2013,
+    "values": 16.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2013,
+    "values": 3.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2013,
+    "values": 9.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2013,
+    "values": 18.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2013,
+    "values": 2.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2013,
+    "values": 102.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2013,
+    "values": 181.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2013,
+    "values": 41.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2013,
+    "values": 60
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2013,
+    "values": 114.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2013,
+    "values": 6.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2013,
+    "values": 58.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2013,
+    "values": 35.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2013,
+    "values": 16.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2012,
+    "values": 107.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2012,
+    "values": 182.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2012,
+    "values": 42
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2012,
+    "values": 129.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2012,
+    "values": 67.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2012,
+    "values": 5.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2012,
+    "values": 62.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2012,
+    "values": 26.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2012,
+    "values": 22.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2012,
+    "values": 3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2012,
+    "values": 9.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2012,
+    "values": 18
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2012,
+    "values": 2.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2012,
+    "values": 107.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2012,
+    "values": 185.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2012,
+    "values": 39.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2012,
+    "values": 61.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2012,
+    "values": 118.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2012,
+    "values": 6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2012,
+    "values": 59.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2012,
+    "values": 33.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2012,
+    "values": 17.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2011,
+    "values": 113.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2011,
+    "values": 193.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2011,
+    "values": 42.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2011,
+    "values": 115.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2011,
+    "values": 65.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2011,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2011,
+    "values": 63.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2011,
+    "values": 30.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2011,
+    "values": 17.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2011,
+    "values": 4.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2011,
+    "values": 9.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2011,
+    "values": 18.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2011,
+    "values": 2.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2011,
+    "values": 113.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2011,
+    "values": 193.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2011,
+    "values": 42.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2011,
+    "values": 65.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2011,
+    "values": 115.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2011,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2011,
+    "values": 63.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2011,
+    "values": 30.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2011,
+    "values": 17.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2010,
+    "values": 112.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2010,
+    "values": 192.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2010,
+    "values": 42.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2010,
+    "values": 120.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2010,
+    "values": 65.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2010,
+    "values": 5.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2010,
+    "values": 65
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2010,
+    "values": 30.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2010,
+    "values": 17.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2010,
+    "values": 4.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2010,
+    "values": 9.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2010,
+    "values": 16.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2010,
+    "values": 2.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2010,
+    "values": 112.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2010,
+    "values": 192.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2010,
+    "values": 42.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2010,
+    "values": 66.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2010,
+    "values": 120.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2010,
+    "values": 5.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2010,
+    "values": 65
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2010,
+    "values": 30.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2010,
+    "values": 17.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2009,
+    "values": 104.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2009,
+    "values": 176
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2009,
+    "values": 42.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2009,
+    "values": 101.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2009,
+    "values": 55.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2009,
+    "values": 6.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2009,
+    "values": 59.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2009,
+    "values": 21.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2009,
+    "values": 17.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2009,
+    "values": 4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2009,
+    "values": 9.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2009,
+    "values": 21.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2009,
+    "values": 2.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2009,
+    "values": 104.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2009,
+    "values": 176
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2009,
+    "values": 42.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2009,
+    "values": 55.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2009,
+    "values": 101.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2009,
+    "values": 6.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2009,
+    "values": 59.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2009,
+    "values": 21.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2009,
+    "values": 17.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2008,
+    "values": 106.27
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2008,
+    "values": 180.64
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2008,
+    "values": 45.23
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2008,
+    "values": 102.76
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2008,
+    "values": 55.93
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2008,
+    "values": 6.26
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2008,
+    "values": 60.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2008,
+    "values": 23.97
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2008,
+    "values": 16.62
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2008,
+    "values": 4.17
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2008,
+    "values": 10.02
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2008,
+    "values": 20.45
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2008,
+    "values": 1.98
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2008,
+    "values": 106.27
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2008,
+    "values": 180.64
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2008,
+    "values": 45.23
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2008,
+    "values": 55.93
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2008,
+    "values": 102.76
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2008,
+    "values": 6.26
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2008,
+    "values": 60.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2008,
+    "values": 23.97
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2008,
+    "values": 16.62
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2007,
+    "values": 113.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2007,
+    "values": 184.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2007,
+    "values": 52.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2007,
+    "values": 106.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2007,
+    "values": 61.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2007,
+    "values": 6.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2007,
+    "values": 62.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2007,
+    "values": 27
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2007,
+    "values": 18.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2007,
+    "values": 4.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2007,
+    "values": 12.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2007,
+    "values": 19.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2007,
+    "values": 2.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2007,
+    "values": 113.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2007,
+    "values": 184.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2007,
+    "values": 52.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2007,
+    "values": 61.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2007,
+    "values": 106.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2007,
+    "values": 6.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2007,
+    "values": 62.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2007,
+    "values": 27
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2007,
+    "values": 18.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2003,
+    "values": 92.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2003,
+    "values": 220.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2003,
+    "values": 55.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2003,
+    "values": 101.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2003,
+    "values": 50
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2003,
+    "values": 5.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2003,
+    "values": 50.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2003,
+    "values": 23.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2003,
+    "values": 12.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2003,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2003,
+    "values": 11.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2003,
+    "values": 19.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2003,
+    "values": 2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2003,
+    "values": 92.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2003,
+    "values": 220.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2003,
+    "values": 55.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2003,
+    "values": 50
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2003,
+    "values": 101.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2003,
+    "values": 5.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2003,
+    "values": 50.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2003,
+    "values": 23.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2003,
+    "values": 12.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2002,
+    "values": 89.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2002,
+    "values": 195.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2002,
+    "values": 55.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2002,
+    "values": 103.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2002,
+    "values": 48.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2002,
+    "values": 6.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2002,
+    "values": 40.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2002,
+    "values": 25.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2002,
+    "values": 11.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2002,
+    "values": 4.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2002,
+    "values": 11.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2002,
+    "values": 19.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2002,
+    "values": 1.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2002,
+    "values": 89.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2002,
+    "values": 195.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2002,
+    "values": 55.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2002,
+    "values": 48.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2002,
+    "values": 103.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2002,
+    "values": 6.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2002,
+    "values": 40.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2002,
+    "values": 25.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2002,
+    "values": 11.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2001,
+    "values": 81.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2001,
+    "values": 212.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2001,
+    "values": 54.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2001,
+    "values": 67.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2001,
+    "values": 40.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2001,
+    "values": 3.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2001,
+    "values": 32.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2001,
+    "values": 17.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2001,
+    "values": 7.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2001,
+    "values": 7.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2001,
+    "values": 8.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2001,
+    "values": 22.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2001,
+    "values": 2.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2001,
+    "values": 81.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2001,
+    "values": 212.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2001,
+    "values": 54.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2001,
+    "values": 40.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2001,
+    "values": 67.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2001,
+    "values": 3.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2001,
+    "values": 32.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2001,
+    "values": 17.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2001,
+    "values": 7.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 2000,
+    "values": 85.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 2000,
+    "values": 211.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 2000,
+    "values": 53.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 2000,
+    "values": 70.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 2000,
+    "values": 40.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 2000,
+    "values": 5.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 2000,
+    "values": 35.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 2000,
+    "values": 16.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 2000,
+    "values": 7.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 2000,
+    "values": 8.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 2000,
+    "values": 7.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 2000,
+    "values": 20.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 2000,
+    "values": 3.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 2000,
+    "values": 85.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 2000,
+    "values": 211.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 2000,
+    "values": 53.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 2000,
+    "values": 40.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 2000,
+    "values": 70.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 2000,
+    "values": 5.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 2000,
+    "values": 35.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 2000,
+    "values": 16.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 2000,
+    "values": 7.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1999,
+    "values": 102.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1999,
+    "values": 219.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1999,
+    "values": 59.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1999,
+    "values": 88.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1999,
+    "values": 52.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1999,
+    "values": 6.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1999,
+    "values": 46.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1999,
+    "values": 20.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1999,
+    "values": 12.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1999,
+    "values": 6.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1999,
+    "values": 12
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1999,
+    "values": 24.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1999,
+    "values": 2.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1999,
+    "values": 102.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1999,
+    "values": 219.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1999,
+    "values": 59.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1999,
+    "values": 52.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1999,
+    "values": 88.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1999,
+    "values": 6.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1999,
+    "values": 46.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1999,
+    "values": 20.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1999,
+    "values": 12.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1998,
+    "values": 87.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1998,
+    "values": 204.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1998,
+    "values": 53.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1998,
+    "values": 78.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1998,
+    "values": 45.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1998,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1998,
+    "values": 34.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1998,
+    "values": 16.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1998,
+    "values": 10.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1998,
+    "values": 8.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1998,
+    "values": 8.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1998,
+    "values": 21.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1998,
+    "values": 3.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1998,
+    "values": 87.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1998,
+    "values": 204.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1998,
+    "values": 53.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1998,
+    "values": 45.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1998,
+    "values": 78.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1998,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1998,
+    "values": 34.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1998,
+    "values": 16.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1998,
+    "values": 10.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1997,
+    "values": 103.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1997,
+    "values": 210.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1997,
+    "values": 59
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1997,
+    "values": 74.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1997,
+    "values": 41.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1997,
+    "values": 4.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1997,
+    "values": 36.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1997,
+    "values": 13.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1997,
+    "values": 10.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1997,
+    "values": 12
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1997,
+    "values": 7.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1997,
+    "values": 20.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1997,
+    "values": 1.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1997,
+    "values": 103.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1997,
+    "values": 210.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1997,
+    "values": 59
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1997,
+    "values": 41.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1997,
+    "values": 74.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1997,
+    "values": 4.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1997,
+    "values": 36.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1997,
+    "values": 13.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1997,
+    "values": 10.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1996,
+    "values": 105.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1996,
+    "values": 209.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1996,
+    "values": 57.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1996,
+    "values": 73.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1996,
+    "values": 40.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1996,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1996,
+    "values": 35.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1996,
+    "values": 14.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1996,
+    "values": 10.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1996,
+    "values": 10.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1996,
+    "values": 8.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1996,
+    "values": 20.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1996,
+    "values": 2.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1996,
+    "values": 105.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1996,
+    "values": 209.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1996,
+    "values": 57.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1996,
+    "values": 40.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1996,
+    "values": 73.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1996,
+    "values": 5.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1996,
+    "values": 35.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1996,
+    "values": 14.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1996,
+    "values": 10.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1995,
+    "values": 101.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1995,
+    "values": 215.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1995,
+    "values": 53.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1995,
+    "values": 74.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1995,
+    "values": 46
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1995,
+    "values": 5.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1995,
+    "values": 33
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1995,
+    "values": 16.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1995,
+    "values": 11.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1995,
+    "values": 11.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1995,
+    "values": 9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1995,
+    "values": 21.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1995,
+    "values": 2.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1995,
+    "values": 101.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1995,
+    "values": 215.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1995,
+    "values": 53.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1995,
+    "values": 46
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1995,
+    "values": 74.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1995,
+    "values": 5.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1995,
+    "values": 33
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1995,
+    "values": 16.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1995,
+    "values": 11.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1994,
+    "values": 81.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1994,
+    "values": 200.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1994,
+    "values": 38.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1994,
+    "values": 83.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1994,
+    "values": 32
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1994,
+    "values": 4.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1994,
+    "values": 35.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1994,
+    "values": 16.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1994,
+    "values": 10.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1994,
+    "values": 8.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1994,
+    "values": 7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1994,
+    "values": 18.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1994,
+    "values": 2.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1994,
+    "values": 81.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1994,
+    "values": 200.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1994,
+    "values": 38.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1994,
+    "values": 32
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1994,
+    "values": 83.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1994,
+    "values": 4.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1994,
+    "values": 35.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1994,
+    "values": 16.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1994,
+    "values": 10.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1993,
+    "values": 92.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1993,
+    "values": 205.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1993,
+    "values": 64.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1993,
+    "values": 73.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1993,
+    "values": 41.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1993,
+    "values": 4.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1993,
+    "values": 29.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1993,
+    "values": 31
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1993,
+    "values": 12.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1993,
+    "values": 8.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1993,
+    "values": 13.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1993,
+    "values": 26.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1993,
+    "values": 3.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1993,
+    "values": 92.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1993,
+    "values": 205.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1993,
+    "values": 64.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1993,
+    "values": 41.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1993,
+    "values": 73.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1993,
+    "values": 4.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1993,
+    "values": 29.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1993,
+    "values": 31
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1993,
+    "values": 12.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1992,
+    "values": 102.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1992,
+    "values": 210
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1992,
+    "values": 62.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1992,
+    "values": 80.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1992,
+    "values": 46.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1992,
+    "values": 4.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1992,
+    "values": 31
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1992,
+    "values": 20.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1992,
+    "values": 15.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1992,
+    "values": 9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1992,
+    "values": 13.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1992,
+    "values": 27.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1992,
+    "values": 6.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1992,
+    "values": 102.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1992,
+    "values": 210
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1992,
+    "values": 62.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1992,
+    "values": 46.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1992,
+    "values": 80.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1992,
+    "values": 4.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1992,
+    "values": 31
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1992,
+    "values": 20.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1992,
+    "values": 15.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1991,
+    "values": 102.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1991,
+    "values": 209.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1991,
+    "values": 61.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1991,
+    "values": 81.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1991,
+    "values": 50
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1991,
+    "values": 4.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1991,
+    "values": 31.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1991,
+    "values": 16.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1991,
+    "values": 15.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1991,
+    "values": 9.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1991,
+    "values": 13.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1991,
+    "values": 29.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1991,
+    "values": 5.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1991,
+    "values": 102.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1991,
+    "values": 209.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1991,
+    "values": 61.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1991,
+    "values": 50
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1991,
+    "values": 81.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1991,
+    "values": 4.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1991,
+    "values": 31.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1991,
+    "values": 16.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1991,
+    "values": 15.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1990,
+    "values": 120.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1990,
+    "values": 222
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1990,
+    "values": 61
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1990,
+    "values": 88.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1990,
+    "values": 57
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1990,
+    "values": 6.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1990,
+    "values": 33.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1990,
+    "values": 19.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1990,
+    "values": 16
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1990,
+    "values": 12.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1990,
+    "values": 12
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1990,
+    "values": 30.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1990,
+    "values": 6.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1990,
+    "values": 120.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1990,
+    "values": 222
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1990,
+    "values": 61
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1990,
+    "values": 57
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1990,
+    "values": 88.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1990,
+    "values": 6.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1990,
+    "values": 33.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1990,
+    "values": 19.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1990,
+    "values": 16
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1989,
+    "values": 119.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1989,
+    "values": 231.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1989,
+    "values": 57
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1989,
+    "values": 87.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1989,
+    "values": 55.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1989,
+    "values": 7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1989,
+    "values": 33.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1989,
+    "values": 18
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1989,
+    "values": 16.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1989,
+    "values": 13.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1989,
+    "values": 12.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1989,
+    "values": 32.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1989,
+    "values": 6.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1989,
+    "values": 119.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1989,
+    "values": 231.6
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1989,
+    "values": 57
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1989,
+    "values": 55.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1989,
+    "values": 87.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1989,
+    "values": 7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1989,
+    "values": 33.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1989,
+    "values": 18
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1989,
+    "values": 16.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1988,
+    "values": 126.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1988,
+    "values": 234.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1988,
+    "values": 58.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL14",
+    "time": 1988,
+    "values": 94.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1988,
+    "values": 51.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1988,
+    "values": 6.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1988,
+    "values": 31.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1988,
+    "values": 16.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1988,
+    "values": 16.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1988,
+    "values": 13.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1988,
+    "values": 12.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1988,
+    "values": 31.5
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL43",
+    "time": 1988,
+    "values": 3.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL51",
+    "time": 1988,
+    "values": 126.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL52",
+    "time": 1988,
+    "values": 234.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL53",
+    "time": 1988,
+    "values": 58.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL54",
+    "time": 1988,
+    "values": 51.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL61",
+    "time": 1988,
+    "values": 94.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL62",
+    "time": 1988,
+    "values": 6.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL63",
+    "time": 1988,
+    "values": 31.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL64",
+    "time": 1988,
+    "values": 16.4
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL65",
+    "time": 1988,
+    "values": 16.3
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL11",
+    "time": 1984,
+    "values": 155.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL12",
+    "time": 1984,
+    "values": 261.7
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL13",
+    "time": 1984,
+    "values": 57
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL21",
+    "time": 1984,
+    "values": 27.2
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL22",
+    "time": 1984,
+    "values": 9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL23",
+    "time": 1984,
+    "values": 31.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL24",
+    "time": 1984,
+    "values": 16.8
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL25",
+    "time": 1984,
+    "values": 15.1
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL30",
+    "time": 1984,
+    "values": 12.9
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL41",
+    "time": 1984,
+    "values": 13
+  },
+  {
+    "animals": "A2000",
+    "unit": "THS_HD",
+    "geo": "EL42",
+    "time": 1984,
+    "values": 33.8
+  }
+]

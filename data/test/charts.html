@@ -1,0 +1,316 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>AgriStats</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="keywords" content="agristats, agriculture, farming, smart, beekeeping, react native, farmer, farmers, husbandry, apiculture, earth observation, GNSS, IoT, Internet of Things, satellite, SENTINEL, BeeLive, AgriStats, Wine Routes, wine, wine lover, winemaking, wine tasting">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101173631-3"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-101173631-3');
+		</script>
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><img src="favicon.ico"/><a href="index.html"> AgriStats</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="#">Projects</a>
+								<ul>
+									<li><a href="left-sidebar.html">BeeLive</a></li>
+									<li><a href="right-sidebar.html">Wine Routes</a></li>
+									<li><a href="no-sidebar.html">Κουίζ Γεωγραφίας</a></li>
+									<li><a href="webmap.html">Maps</a></li>
+									<li><a href="charts.html">Charts</a></li>
+									<!-- <li>
+									<li>
+										<a href="#">Web Apps</a>
+										<ul>
+											<li><a href="webmap.html">Maps</a></li>
+											<li><a href="charts.html">Charts</a></li>
+											<li><a href="#">EU Funds</a></li>
+											<li><a href="#">Agri Prices</a></li>
+										</ul>
+									</li> -->
+								</ul>
+							</li>
+							<li><a href="#footer">Contact</a></li>
+							<li><a href="#five" class="button primary">Subscribe</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<div id="main" class="wrapper style1">
+					<div class="container">
+						<header class="major">
+							<h2>Charts</h2>
+							<p>Charts on agricultural data</p>
+						</header>
+
+						<!-- Content -->
+							<section id="content">
+								<button id="column" style="margin-left: 2em">Column</button>
+								<button id="line">Line</button>
+								<button id="spline">Spline</button>
+								<button id="area">Area</button>
+								<button id="areaspline">Areaspline</button>
+								<select id="data">
+									<option value="/data/wine_production_eu_country.json">Wine production per EU country (Eurostat)</option>
+									<option value="/data/total_agri_imports_wb_country.json">Imports (World Bank)</option>
+									<option value="/data/total_agri_exports_wb_country.json">Exports (World Bank)</option>
+									<option value="/data/total_agri_exports_wb_country.json">Agricultural land (World Bank)</option>
+									<option value="/data/agri_real_gdp_wb_country.json">Real agricultural GDP (World Bank)</option>
+									<option value="/data/agri_real_gdp_per_capita_wb_country.json">Real agricultural GDP per capita (World Bank)</option>
+									<option value="/data/agri_population_rate_wb_country.json">Agricultural population rate (World Bank)</option>
+									<option value="/data/agri_population_persqkm_wb_country.json">Agricultural population per sq. klm (World Bank)</option>
+									<option value="/data/agri_land_sqkm_wb_country.json">Agricultural land per sq. klm (World Bank)</option>
+									<option value="/data/agri_employment_wb_country.json">Agricultural employment (World Bank)</option>
+									<option value="/data/agri_child_employment_wb_country.json">Child employment in agriculture (World Bank)</option>
+									<option value="/data/agri_added_value_wb_country.json">Agricultural added value (World Bank)</option>
+									<option value="/data/agri_econ_active_population_wb_country.json">Economically active population in agriculture (World Bank)</option>
+									<option value="/data/agri_econ_active_fem_population_wb_country.json">Economically active female population in agriculture (World Bank)</option>
+									<option value="/data/agri_irrigated_land_wb_country.json">Agricultural irrigated land (World Bank)</option>
+									<option value="/data/milk_production_eu_country.json">Milk production per EU country (Eurostat)</option>
+									<option value="/data/workforce_agri_eu_country.json">Workforce in agriculture per EU country (Eurostat)</option>
+									<option value="/data/greenhouse_gas_eu_country.json">Greenhouse gas per EU country (Eurostat)</option>
+									<option value="/data/bio_production_vegetables_eu_country.json">Organic vegetables production per EU country (Eurostat)</option>
+									<option value="/data/bio_production_vegetables_eu_country.json">Organic cereal production per EU country (Eurostat)</option>
+									<option value="/data/area_eu_cultivated_country.json">Cultivated area per EU country (Eurostat)</option>
+									<option value="/data/aquaculture_production_eu_country_8407.json">Aquaculture production per EU country 1984-2007 (Eurostat)</option>
+									<option value="/data/aquaculture_eu_country.json">Aquaculture production per EU country 2007- (Eurostat)</option>
+									<option value="/data/animal_population_eu_country.json">Animal population per EU country (Eurostat)</option>
+								</select>
+								<select id="countries">
+									<option value="AT">Austria</option>
+									<option value="BE">Belgium</option>
+									<option value="BG">Bulgaria</option>
+									<option value="CY">Cyprus</option>
+									<option value="CZ">Czech Republic</option>
+									<option value="DE">Germany</option>
+									<option value="DK">Denmark</option>
+									<option value="EE">Estonia</option>
+									<option value="EL">Greece</option>
+									<option value="ES">Spain</option>
+									<option value="FI">Finland</option>
+									<option value="FR">France</option>
+									<option value="HR">Croatia</option>
+									<option value="HU">Hungary</option>
+									<option value="IE">Ireland</option>
+									<option value="IT">Italy</option>
+									<option value="LT">Lithuania</option>
+									<option value="LU">Luxemburg</option>
+									<option value="LV">Latvia</option>
+									<option value="MT">Malta</option>
+									<option value="NL">Netherlands</option>
+									<option value="NO">Norway</option>
+									<option value="PL">Poland</option>
+									<option value="PT">Portugal</option>
+									<option value="RO">Romania</option>
+									<option value="SE">Sweden</option>
+									<option value="SI">Slovenia</option>
+									<option value="SK">Slovakia</option>
+									<option value="UK">United Kingdom</option>
+									<option value="CH">Switzerland</option>
+									<option value="IS">Iceland</option>
+									<option value="ME">Montenegro</option>
+									<option value="AO">Angola</option>
+									<option value="BF">Burkina Faso</option>
+									<option value="BI">Burundi</option>
+									<option value="BJ">Benin</option>
+									<option value="BW">Botswana</option>
+									<option value="CD">Congo, Dem. Rep.</option>
+									<option value="CF">Central African Republic</option>
+									<option value="CG">Congo, Rep.</option>
+									<option value="CI">Cote d'Ivoire</option>
+									<option value="CM">Cameroon</option>
+									<option value="CV">Cape Verde</option>
+									<option value="DJ">Djibouti</option>
+									<option value="DZ">Algeria</option>
+									<option value="EG">Egypt, Arab Rep.</option>
+									<option value="ER">Eritrea</option>
+									<option value="ET">Ethiopia</option>
+									<option value="GA">Gabon</option>
+									<option value="GH">Ghana</option>
+									<option value="GM">Gambia, The</option>
+									<option value="GN">Guinea</option>
+									<option value="GQ">Equatorial Guinea</option>
+									<option value="GW">Guinea-Bissau</option>
+									<option value="KE">Kenya</option>
+									<option value="KM">Comoros</option>
+									<option value="LR">Liberia</option>
+									<option value="LS">Lesotho</option>
+									<option value="LY">Libya</option>
+									<option value="MA">Morocco</option>
+									<option value="MG">Madagascar</option>
+									<option value="ML">Mali</option>
+									<option value="MR">Mauritania</option>
+									<option value="MU">Mauritius</option>
+									<option value="MW">Malawi</option>
+									<option value="MZ">Mozambique</option>
+									<option value="NA">Namibia</option>
+									<option value="NE">Niger</option>
+									<option value="NG">Nigeria</option>
+									<option value="RW">Rwanda</option>
+									<option value="SC">Seychelles</option>
+									<option value="SD">Sudan</option>
+									<option value="SL">Sierra Leone</option>
+									<option value="SN">Senegal</option>
+									<option value="SO">Somalia</option>
+									<option value="SS">South Sudan</option>
+									<option value="ST">Sao Tome and Principe</option>
+									<option value="SZ">Swaziland</option>
+									<option value="TD">Chad</option>
+									<option value="TG">Togo</option>
+									<option value="TN">Tunisia</option>
+									<option value="TZ">Tanzania</option>
+									<option value="UG">Uganda</option>
+									<option value="ZA">South Africa</option>
+									<option value="ZF">Sub-Saharan Africa (developing only)</option>
+									<option value="ZG">Sub-Saharan Africa (all income levels)</option>
+									<option value="ZM">Zambia</option>
+									<option value="ZW">Zimbabwe</option>
+								</select>
+								<div id="thisismychart"></div>
+								<script>
+									jQuery(document).ready( function() { 
+									var chart;
+									var e = document.getElementById("data");
+									var dataSource = e.options[e.selectedIndex].value;
+									var dataText = e.options[e.selectedIndex].text;
+									loadChart(dataSource,dataText);
+									$("#data").on('change', function() {
+										e = document.getElementById("data");
+										dataSource = e.options[e.selectedIndex].value;
+										dataText = e.options[e.selectedIndex].text;
+										loadChart(dataSource,dataText);
+									});
+									$("#countries").on('change', function() {
+										e = document.getElementById("data");
+										dataSource = e.options[e.selectedIndex].value;
+										var f = document.getElementById("countries");
+										var countrySource = f.options[f.selectedIndex].value;
+										dataText = e.options[e.selectedIndex].text;
+										loadChart(dataSource,dataText);
+									});
+									$.each(['line', 'column', 'spline', 'area', 'areaspline'], function (i, type) {
+										$('#' + type).click(function () {chart.series[0].update({type: type});});
+									});
+									function loadChart(dataSource,dataText){
+										var tabledata=[];
+										$.getJSON(dataSource, function(mydata) {
+											var f = document.getElementById("countries");
+											var countrySource = f.options[f.selectedIndex].value;
+											mydata = mydata.filter(d => d.country==countrySource);
+											mydata.forEach(function(val) { 
+												var itemdata=[];
+												itemdata.push(val.year);
+												itemdata.push(Number(val.value)); 
+												tabledata.push(itemdata);
+											}); 
+											chart = Highcharts.chart('thisismychart', {
+												title: {text: dataText},
+												xAxis: {showEmpty: true},
+												yAxis: { showEmpty: false},
+												series: [{
+													name: countrySource,
+													allowPointSelect: true,
+													data: tabledata,
+													marker: {enabled: false},
+													showInLegend: true
+												}]
+											});
+										})
+									};
+								})
+								</script>
+							</section>
+
+					</div>
+				</div>
+			
+			<!-- Five -->
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2>Subscribe</h2>
+							<p>Join our community by subscribing to our newsletter</p>
+						</header>
+						<!-- Begin Mailchimp Signup Form -->
+						<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+						<style type="text/css">
+							#mc_embed_signup{background:#fff;clear:left;font:14px Helvetica,Arial,sans-serif;}
+						</style>
+						<div id="mc_embed_signup">
+						<form action="https://agristats.us17.list-manage.com/subscribe/post?u=fd2590e4dff83e84068e1cbf9&amp;id=bec57b688f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+							<div id="mc_embed_signup_scroll">
+							
+						<div class="mc-field-group">
+							<label style="color:black" for="mce-EMAIL">Email Address </label>
+							<input style="color:black" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+						</div>
+							<div id="mce-responses" class="clear">
+								<div class="response" id="mce-error-response" style="display:none"></div>
+								<div class="response" id="mce-success-response" style="display:none"></div>
+							</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+							<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fd2590e4dff83e84068e1cbf9_bec57b688f" tabindex="-1" value=""></div>
+							<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+							</div>
+						</form>
+						</div>
+						<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+						<!--End mc_embed_signup-->
+					</div>
+				</section>
+			
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+		<script src="https://code.highcharts.com/highcharts.js"></script>
+		<script src="https://code.highcharts.com/modules/exporting.js"></script>
+		<script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+
+	</body>
+</html>

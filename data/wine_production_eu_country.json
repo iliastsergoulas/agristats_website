@@ -1,0 +1,5679 @@
+﻿[
+  {
+    
+    
+    "country": "AT",
+    "year": 2016,
+    "value": 2268.4
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2016,
+    "value": 10.3
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2016,
+    "value": 1568
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2016,
+    "value": 79.3
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2016,
+    "value": 783
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2016,
+    "value": 8907
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2016,
+    "value": 2501.1
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2016,
+    "value": 43284
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2016,
+    "value": 47857
+  },
+  {
+    
+    
+    "country": "HR",
+    "year": 2016,
+    "value": 992
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2016,
+    "value": 50700
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2016,
+    "value": 111
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2016,
+    "value": 7045
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2016,
+    "value": 823.102
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2016,
+    "value": 342.96
+  },
+  {
+    
+    
+    "country": "TR",
+    "year": 2016,
+    "value": 561.948
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2016,
+    "value": 38
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2015,
+    "value": 1998.7
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2015,
+    "value": 7
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2015,
+    "value": 881
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2015,
+    "value": 93.6
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2015,
+    "value": 536
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2015,
+    "value": 9294
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2015,
+    "value": 2800
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2015,
+    "value": 45015
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2015,
+    "value": 47423
+  },
+  {
+    
+    
+    "country": "HR",
+    "year": 2015,
+    "value": 842
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2015,
+    "value": 42088
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2015,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2015,
+    "value": 125
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2015,
+    "value": 21.4
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2015,
+    "value": 6206
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2015,
+    "value": 659.463
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2015,
+    "value": 286.15
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2015,
+    "value": 27
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2014,
+    "value": 2392
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2014,
+    "value": 5.5
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2014,
+    "value": 1913
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2014,
+    "value": 108.1
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2014,
+    "value": 520.11
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2014,
+    "value": 8493
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2014,
+    "value": 3343
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2014,
+    "value": 53550
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2014,
+    "value": 42316
+  },
+  {
+    
+    
+    "country": "HR",
+    "year": 2014,
+    "value": 1249
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2014,
+    "value": 47966
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2014,
+    "value": 101
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2014,
+    "value": 26.4
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2014,
+    "value": 21.2
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2014,
+    "value": 6231
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2014,
+    "value": 373.49
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2014,
+    "value": 33
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2013,
+    "value": 2154.8
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2013,
+    "value": 2.9
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2013,
+    "value": 1442
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2013,
+    "value": 111.83
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2013,
+    "value": 487
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2013,
+    "value": 9102
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2013,
+    "value": 3115.3
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2013,
+    "value": 35778
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2013,
+    "value": 41363
+  },
+  {
+    
+    
+    "country": "HR",
+    "year": 2013,
+    "value": 1249
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2013,
+    "value": 41074
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2013,
+    "value": 85
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2013,
+    "value": 21.9
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2013,
+    "value": 6308
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2013,
+    "value": 646.26
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2013,
+    "value": 325.27
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2013,
+    "value": 8
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2012,
+    "value": 2814.8
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2012,
+    "value": 5.4
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2012,
+    "value": 1236
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2012,
+    "value": 84.3
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2012,
+    "value": 650
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2012,
+    "value": 9223
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2012,
+    "value": 2750
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2012,
+    "value": 38633
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2012,
+    "value": 51086
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2012,
+    "value": 42705
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2012,
+    "value": 132
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2012,
+    "value": 40
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2012,
+    "value": 5622
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 2012,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2012,
+    "value": 849.779
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2012,
+    "value": 369.29
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2012,
+    "value": 23
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2011,
+    "value": 1737.4
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2011,
+    "value": 4.7
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2011,
+    "value": 1224
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2011,
+    "value": 114.3
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2011,
+    "value": 390
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2011,
+    "value": 6976
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2011,
+    "value": 2950
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2011,
+    "value": 40892
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2011,
+    "value": 45373
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2011,
+    "value": 46734
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2011,
+    "value": 110
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2011,
+    "value": 40
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2011,
+    "value": 7148
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 2011,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2011,
+    "value": 759.787
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2011,
+    "value": 207.15
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2011,
+    "value": 30
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2010,
+    "value": 2351.9
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2010,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2010,
+    "value": 1426
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2010,
+    "value": 146.52
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2010,
+    "value": 570
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2010,
+    "value": 9320
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2010,
+    "value": 3365.6
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2010,
+    "value": 39259
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2010,
+    "value": 46743
+  },
+  {
+    
+    
+    "country": "HU",
+    "year": 2010,
+    "value": 3343.7
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2010,
+    "value": 45800
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2010,
+    "value": 135
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2010,
+    "value": 40
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2010,
+    "value": 5894
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2010,
+    "value": 789.985
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2010,
+    "value": 346.33
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2010,
+    "value": 24
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2009,
+    "value": 2993.7
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2009,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2009,
+    "value": 1617
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2009,
+    "value": 154.36
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2009,
+    "value": 840.3
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2009,
+    "value": 10089
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2009,
+    "value": 3869.1
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2009,
+    "value": 41583
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2009,
+    "value": 42806
+  },
+  {
+    
+    
+    "country": "HU",
+    "year": 2009,
+    "value": 3448.8
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2009,
+    "value": 46245
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2009,
+    "value": 130
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2009,
+    "value": 60.5
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2009,
+    "value": 32.1
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2009,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2009,
+    "value": 5620
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2009,
+    "value": 740
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2009,
+    "value": 433.02
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2009,
+    "value": 10
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2008,
+    "value": 2628
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2008,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2008,
+    "value": 1796
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2008,
+    "value": 217
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2008,
+    "value": 434
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2008,
+    "value": 10363
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2008,
+    "value": 3511
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2008,
+    "value": 42140
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2008,
+    "value": 46547
+  },
+  {
+    
+    
+    "country": "HU",
+    "year": 2008,
+    "value": 3221.7
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2008,
+    "value": 42514
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2008,
+    "value": 142
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2008,
+    "value": 66.8
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2008,
+    "value": 37.9
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PL",
+    "year": 2008,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2008,
+    "value": 6073
+  },
+  {
+    
+    
+    "country": "RO",
+    "year": 2008,
+    "value": 5288.8
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2008,
+    "value": 857.8
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2008,
+    "value": 357.61
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2008,
+    "value": 10
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2007,
+    "value": 2256.3
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2007,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2007,
+    "value": 1757
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2007,
+    "value": 218
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2007,
+    "value": 434
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2007,
+    "value": 9000
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2007,
+    "value": 3937.4
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2007,
+    "value": 43676
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2007,
+    "value": 53025
+  },
+  {
+    
+    
+    "country": "HU",
+    "year": 2007,
+    "value": 3144.3
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2007,
+    "value": 49631
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2007,
+    "value": 130
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2007,
+    "value": 47.9
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PL",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2007,
+    "value": 7542
+  },
+  {
+    
+    
+    "country": "RO",
+    "year": 2007,
+    "value": 5015
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2007,
+    "value": 738.4
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2007,
+    "value": 328.1
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2007,
+    "value": 25
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2006,
+    "value": 2264
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2006,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2006,
+    "value": 1708
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2006,
+    "value": 241.155
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2006,
+    "value": 438
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2006,
+    "value": 9256
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2006,
+    "value": 4027
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2006,
+    "value": 41119
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2006,
+    "value": 53314
+  },
+  {
+    
+    
+    "country": "HU",
+    "year": 2006,
+    "value": 3103.3
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2006,
+    "value": 50566
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2006,
+    "value": 135
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2006,
+    "value": 60
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PL",
+    "year": 2006,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2006,
+    "value": 7267
+  },
+  {
+    
+    
+    "country": "RO",
+    "year": 2006,
+    "value": 2602.2
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2006,
+    "value": 846
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2006,
+    "value": 302.22
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2006,
+    "value": 13
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2005,
+    "value": 2734.5
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2005,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2005,
+    "value": 1961
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2005,
+    "value": 331.79
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2005,
+    "value": 580
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2005,
+    "value": 10107
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2005,
+    "value": 4295
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2005,
+    "value": 50062
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2005,
+    "value": 58845
+  },
+  {
+    
+    
+    "country": "HU",
+    "year": 2005,
+    "value": 5271.8
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2005,
+    "value": 53135
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2005,
+    "value": 156
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2005,
+    "value": 70
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PL",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2005,
+    "value": 7481
+  },
+  {
+    
+    
+    "country": "RO",
+    "year": 2005,
+    "value": 6166.1
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2005,
+    "value": 944
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2005,
+    "value": 409.58
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2005,
+    "value": 19
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2004,
+    "value": 2529.8
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2004,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2004,
+    "value": 2327
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2004,
+    "value": 366.795
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2004,
+    "value": 560
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2004,
+    "value": 8191
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2004,
+    "value": 3804
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2004,
+    "value": 48620
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2004,
+    "value": 47519
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2004,
+    "value": 44086
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2004,
+    "value": 123
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2004,
+    "value": 59.7
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PL",
+    "year": 2004,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2004,
+    "value": 7340
+  },
+  {
+    
+    
+    "country": "SI",
+    "year": 2004,
+    "value": 731
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2004,
+    "value": 515.49
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2004,
+    "value": 14.5
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2003,
+    "value": 2599.4
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2003,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2003,
+    "value": 2065
+  },
+  {
+    
+    
+    "country": "CY",
+    "year": 2003,
+    "value": 375.304
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2003,
+    "value": 495
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2003,
+    "value": 9984
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2003,
+    "value": 3098
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2003,
+    "value": 39419
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2003,
+    "value": 51966
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2003,
+    "value": 44604
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2003,
+    "value": 154
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2003,
+    "value": 62.2
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2003,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2003,
+    "value": 6677
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2003,
+    "value": 340.43
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2003,
+    "value": 9.4
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2002,
+    "value": 2530.6
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2002,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2002,
+    "value": 1910
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2002,
+    "value": 545
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2002,
+    "value": 8980
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2002,
+    "value": 3475
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2002,
+    "value": 33937
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2002,
+    "value": 55339
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2002,
+    "value": 52293
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2002,
+    "value": 135
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2002,
+    "value": 66.6
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2002,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2002,
+    "value": 7790
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2002,
+    "value": 531.78
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2002,
+    "value": 16
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2001,
+    "value": 2338
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2001,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2001,
+    "value": 3549
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2001,
+    "value": 520
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2001,
+    "value": 9950
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2001,
+    "value": 3558
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2001,
+    "value": 45572
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2001,
+    "value": 59740
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2001,
+    "value": 54088
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2001,
+    "value": 132
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2001,
+    "value": 60.6
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2001,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2001,
+    "value": 6709
+  },
+  {
+    
+    
+    "country": "RO",
+    "year": 2001,
+    "value": 5090
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2001,
+    "value": 531.78
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2001,
+    "value": 14
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 2000,
+    "value": 2803
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 2000,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BG",
+    "year": 2000,
+    "value": 1714
+  },
+  {
+    
+    
+    "country": "CZ",
+    "year": 2000,
+    "value": 540
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 2000,
+    "value": 12244
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EE",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 2000,
+    "value": 3680
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 2000,
+    "value": 37908
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 2000,
+    "value": 186582
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 2000,
+    "value": 62935
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 2000,
+    "value": 58954
+  },
+  {
+    
+    
+    "country": "LT",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 2000,
+    "value": 184
+  },
+  {
+    
+    
+    "country": "LV",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "MT",
+    "year": 2000,
+    "value": 65.2
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 2000,
+    "value": 7859
+  },
+  {
+    
+    
+    "country": "RO",
+    "year": 2000,
+    "value": 6054
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 2000,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "SK",
+    "year": 2000,
+    "value": 489
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 2000,
+    "value": 13
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1999,
+    "value": 2703
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1999,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1999,
+    "value": 10727
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1999,
+    "value": 3826
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1999,
+    "value": 34714
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1999,
+    "value": 168076
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1999,
+    "value": 54271
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1999,
+    "value": 57913
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1999,
+    "value": 159
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1999,
+    "value": 3750
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1999,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1999,
+    "value": 11
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1998,
+    "value": 1802
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1998,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1998,
+    "value": 8394
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1998,
+    "value": 3980
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1998,
+    "value": 37720
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1998,
+    "value": 164110
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1998,
+    "value": 55112
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1998,
+    "value": 50894
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1998,
+    "value": 75
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1998,
+    "value": 6124
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1998,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1998,
+    "value": 7
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1997,
+    "value": 2110
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1997,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1997,
+    "value": 8678
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1997,
+    "value": 4105
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1997,
+    "value": 32729
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1997,
+    "value": 174206
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1997,
+    "value": 59650
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1997,
+    "value": 57065
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1997,
+    "value": 128
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1997,
+    "value": 9712
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1997,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1997,
+    "value": 27
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1996,
+    "value": 2229
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1996,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1996,
+    "value": 8361
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1996,
+    "value": 3875
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1996,
+    "value": 22381
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1996,
+    "value": 156078
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1996,
+    "value": 55610
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1996,
+    "value": 56202
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1996,
+    "value": 150
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1996,
+    "value": 7255
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1996,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1996,
+    "value": 13
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1995,
+    "value": 2647
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1995,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1995,
+    "value": 10406
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1995,
+    "value": 3051
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1995,
+    "value": 21954
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1995,
+    "value": 158690
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1995,
+    "value": 54640
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1995,
+    "value": 59276
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1995,
+    "value": 175
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1995,
+    "value": 6521
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1995,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1995,
+    "value": 18
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1994,
+    "value": 1866
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1994,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1994,
+    "value": 9970
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1994,
+    "value": 3378
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1994,
+    "value": 29602
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1994,
+    "value": 165779
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1994,
+    "value": 53284
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1994,
+    "value": 62618
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1994,
+    "value": 170
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1994,
+    "value": 4871
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1994,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1994,
+    "value": 18
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1993,
+    "value": 2590
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1993,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1993,
+    "value": 13487
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1993,
+    "value": 4050
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1993,
+    "value": 37981
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1993,
+    "value": 200265
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1993,
+    "value": 65401
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1993,
+    "value": 68686
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1993,
+    "value": 271
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1993,
+    "value": 7771
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1993,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1993,
+    "value": 26
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1992,
+    "value": 3093
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1992,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1992,
+    "value": 10704
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1992,
+    "value": 4022
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1992,
+    "value": 33324
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1992,
+    "value": 163743
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1992,
+    "value": 42689
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1992,
+    "value": 59788
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1992,
+    "value": 86
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1992,
+    "value": 10021
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1992,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1992,
+    "value": 15
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1991,
+    "value": 3166
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1991,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DE",
+    "year": 1991,
+    "value": 9510
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1991,
+    "value": 3526
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1991,
+    "value": 42231
+  },
+  {
+    
+    
+    "country": "EU15",
+    "year": 1991,
+    "value": 190348
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1991,
+    "value": 65530
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1991,
+    "value": 54866
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1991,
+    "value": 151
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1991,
+    "value": 11351
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1991,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1991,
+    "value": 15
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1990,
+    "value": 2581
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1990,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1990,
+    "value": 14491
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1990,
+    "value": 4532
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1990,
+    "value": 32444
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1990,
+    "value": 61058
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1990,
+    "value": 60327
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1990,
+    "value": 232
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1990,
+    "value": 7901
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1990,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1990,
+    "value": 21
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1989,
+    "value": 3502
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1989,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1989,
+    "value": 9981
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1989,
+    "value": 4345
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1989,
+    "value": 23249
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1989,
+    "value": 57620
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1989,
+    "value": 61010
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1989,
+    "value": 142
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1989,
+    "value": 3938
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1989,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1989,
+    "value": 6
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1988,
+    "value": 2184
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1988,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1988,
+    "value": 9713
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1988,
+    "value": 4467
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1988,
+    "value": 41481
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1988,
+    "value": 69340
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1988,
+    "value": 75822
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1988,
+    "value": 142
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1988,
+    "value": 11047
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1988,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1988,
+    "value": 5
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1987,
+    "value": 2230
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1987,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1987,
+    "value": 10921
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1987,
+    "value": 4334
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1987,
+    "value": 37042
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1987,
+    "value": 73974
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1987,
+    "value": 76962
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1987,
+    "value": 160
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1987,
+    "value": 8017
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1987,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1987,
+    "value": 8
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1986,
+    "value": 1126
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1986,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1986,
+    "value": 6102
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1986,
+    "value": 4782
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1986,
+    "value": 34511
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1986,
+    "value": 71297
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1986,
+    "value": 62340
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1986,
+    "value": 107
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1986,
+    "value": 9893
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1986,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1986,
+    "value": 6
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1985,
+    "value": 2519
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1985,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1985,
+    "value": 8887
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1985,
+    "value": 5025
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1985,
+    "value": 36249
+  },
+  {
+    
+    
+    "country": "FI",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1985,
+    "value": 64360
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1985,
+    "value": 70900
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1985,
+    "value": 152
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1985,
+    "value": 8655
+  },
+  {
+    
+    
+    "country": "SE",
+    "year": 1985,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1985,
+    "value": 15
+  },
+  {
+    
+    
+    "country": "AT",
+    "year": 1984,
+    "value": 3698
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1984,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1984,
+    "value": 13397
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1984,
+    "value": 5250
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1984,
+    "value": 32465
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1984,
+    "value": 68547
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1984,
+    "value": 82200
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1984,
+    "value": 185
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1984,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1984,
+    "value": 8483
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1984,
+    "value": 20
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1983,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1983,
+    "value": 16133
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1983,
+    "value": 4500
+  },
+  {
+    
+    
+    "country": "ES",
+    "year": 1983,
+    "value": 39219
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1983,
+    "value": 79953
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1983,
+    "value": 72648
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1983,
+    "value": 256
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1983,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1983,
+    "value": 8489
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1983,
+    "value": 7
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1982,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1982,
+    "value": 7485
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1982,
+    "value": 5470
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1982,
+    "value": 57702
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1982,
+    "value": 70500
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1982,
+    "value": 97
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1982,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1982,
+    "value": 10290
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1982,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1981,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1981,
+    "value": 4872
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1981,
+    "value": 5395
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1981,
+    "value": 69984
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1981,
+    "value": 84750
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1981,
+    "value": 50
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1981,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1981,
+    "value": 9095
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1981,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1980,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1980,
+    "value": 8667
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1980,
+    "value": 5243
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1980,
+    "value": 84490
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1980,
+    "value": 84837
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1980,
+    "value": 62
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1980,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "PT",
+    "year": 1980,
+    "value": 10290
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1980,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1979,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1979,
+    "value": 7847
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1979,
+    "value": 5606
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1979,
+    "value": 58589
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1979,
+    "value": 72439
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1979,
+    "value": 72
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1979,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1979,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1978,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1978,
+    "value": 11283
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1978,
+    "value": 5183
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1978,
+    "value": 52870
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1978,
+    "value": 64482
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1978,
+    "value": 155
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1978,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1978,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1977,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1977,
+    "value": 8936
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1977,
+    "value": 5637
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1977,
+    "value": 73729
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1977,
+    "value": 66050
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1977,
+    "value": 128
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1977,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1977,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1976,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1976,
+    "value": 9108
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1976,
+    "value": 4747
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1976,
+    "value": 66354
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1976,
+    "value": 70134
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1976,
+    "value": 157
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1976,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1976,
+    "value": 2
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1975,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1975,
+    "value": 6969
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1975,
+    "value": 5698
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1975,
+    "value": 76338
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1975,
+    "value": 77167
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1975,
+    "value": 138
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1975,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1975,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1974,
+    "value": 5
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1974,
+    "value": 10756
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1974,
+    "value": 5079
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1974,
+    "value": 83056
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1974,
+    "value": 77046
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1974,
+    "value": 186
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1974,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1974,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1973,
+    "value": 5
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1973,
+    "value": 7938
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1973,
+    "value": 5820
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1973,
+    "value": 59110
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1973,
+    "value": 60524
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1973,
+    "value": 140
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1973,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1973,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1972,
+    "value": 10
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1972,
+    "value": 6361
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1972,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "EL",
+    "year": 1972,
+    "value": 4771
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1972,
+    "value": 61937
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1972,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1972,
+    "value": 64540
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1972,
+    "value": 104
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1972,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1972,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1971,
+    "value": 10
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1971,
+    "value": 10117
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1971,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1971,
+    "value": 74637
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1971,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1971,
+    "value": 69176
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1971,
+    "value": 242
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1971,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1971,
+    "value": 1
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1970,
+    "value": 10
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1970,
+    "value": 6151
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1970,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1970,
+    "value": 50019
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1970,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1970,
+    "value": 71958
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1970,
+    "value": 122
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1970,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1970,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1969,
+    "value": 13
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1969,
+    "value": 6294
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1969,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1969,
+    "value": 65630
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1969,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "IT",
+    "year": 1969,
+    "value": 65621
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1969,
+    "value": 117
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1969,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1969,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1968,
+    "value": 5
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1968,
+    "value": 6300
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1968,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1968,
+    "value": 61233
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1968,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1968,
+    "value": 124
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1968,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1968,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1967,
+    "value": 4
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1967,
+    "value": 5235
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1967,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1967,
+    "value": 61303
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1967,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1967,
+    "value": 130
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1967,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1967,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1966,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1966,
+    "value": 5200
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1966,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1966,
+    "value": 66967
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1966,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1966,
+    "value": 113
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1966,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1966,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "BE",
+    "year": 1965,
+    "value": 3
+  },
+  {
+    
+    
+    "country": "DEW",
+    "year": 1965,
+    "value": 7185
+  },
+  {
+    
+    
+    "country": "DK",
+    "year": 1965,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "FR",
+    "year": 1965,
+    "value": 61033
+  },
+  {
+    
+    
+    "country": "IE",
+    "year": 1965,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "LU",
+    "year": 1965,
+    "value": 165
+  },
+  {
+    
+    
+    "country": "NL",
+    "year": 1965,
+    "value": 0
+  },
+  {
+    
+    
+    "country": "UK",
+    "year": 1965,
+    "value": 0
+  }
+]

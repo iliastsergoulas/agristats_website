@@ -1,0 +1,2522 @@
+[
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 3.34483830921124,
+    "year": 2011
+  },
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 3.1808819728592,
+    "year": 2010
+  },
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 6.08982200711501,
+    "year": 2009
+  },
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 3.94054527783994,
+    "year": 2008
+  },
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 1.28318178327034,
+    "year": 2007
+  },
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 5.04053894628991,
+    "year": 2006
+  },
+  {
+    "country": "",
+    "countryname": "Africa",
+    "value": 1.83345389534382,
+    "year": 2005
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": 3.29999999999999,
+    "year": 2010
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": 2.67156440269809,
+    "year": 2009
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": -5.3,
+    "year": 2008
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": 5,
+    "year": 2007
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": 4.89999999999999,
+    "year": 2006
+  },
+  {
+    "country": "DZ",
+    "countryname": "Algeria",
+    "value": 1.89999796210691,
+    "year": 2005
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 9.35282881968062,
+    "year": 2011
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 5.88846095413555,
+    "year": 2010
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 27.7466614282844,
+    "year": 2009
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 1.71140757061399,
+    "year": 2008
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 26.6823968989452,
+    "year": 2007
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 9.79999999955885,
+    "year": 2006
+  },
+  {
+    "country": "AO",
+    "countryname": "Angola",
+    "value": 16.9999999996999,
+    "year": 2005
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": 5.55212671955696,
+    "year": 2006
+  },
+  {
+    "country": "BJ",
+    "countryname": "Benin",
+    "value": -0.825465475421727,
+    "year": 2005
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": 7.79965589753393,
+    "year": 2011
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": 3.91338895510529,
+    "year": 2010
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": 10.056843025798,
+    "year": 2009
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": 5.68837647993172,
+    "year": 2008
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": 8.91297386727126,
+    "year": 2007
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": -0.955812594736882,
+    "year": 2006
+  },
+  {
+    "country": "BW",
+    "countryname": "Botswana",
+    "value": -4.60415758548524,
+    "year": 2005
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "BF",
+    "countryname": "Burkina Faso",
+    "value": 10.5213313808792,
+    "year": 2005
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": 4.38840702041612,
+    "year": 2011
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": 3.91191121223893,
+    "year": 2010
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": 3.01038260003499,
+    "year": 2009
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": -2.10157529916896,
+    "year": 2008
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": -8.81110235778165,
+    "year": 2007
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": 3.14821717990275,
+    "year": 2006
+  },
+  {
+    "country": "BI",
+    "countryname": "Burundi",
+    "value": -6.56040697732763,
+    "year": 2005
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": 3.90362597714973,
+    "year": 2007
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": 3.01040634291379,
+    "year": 2006
+  },
+  {
+    "country": "CM",
+    "countryname": "Cameroon",
+    "value": 2.55703572992103,
+    "year": 2005
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": 18.8263497682943,
+    "year": 2010
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": 45.9223384214436,
+    "year": 2009
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": -2.26693636063333,
+    "year": 2008
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": 0.00453819975034797,
+    "year": 2007
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": 0.262025168048452,
+    "year": 2006
+  },
+  {
+    "country": "CV",
+    "countryname": "Cape Verde",
+    "value": -5.6564425373456,
+    "year": 2005
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": 3.071564646665,
+    "year": 2006
+  },
+  {
+    "country": "CF",
+    "countryname": "Central African Republic",
+    "value": -0.162625563997421,
+    "year": 2005
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "TD",
+    "countryname": "Chad",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": 4.49999999999997,
+    "year": 2009
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": 4.49999999999995,
+    "year": 2008
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": 3,
+    "year": 2007
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": -10.3443995333544,
+    "year": 2006
+  },
+  {
+    "country": "KM",
+    "countryname": "Comoros",
+    "value": 4.39321788581086,
+    "year": 2005
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 3.00999999834095,
+    "year": 2011
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 3.01000000107556,
+    "year": 2010
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 3.01000000126692,
+    "year": 2009
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 3.00999999949985,
+    "year": 2008
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 3.24999999735598,
+    "year": 2007
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 3.24677649845253,
+    "year": 2006
+  },
+  {
+    "country": "CD",
+    "countryname": "Congo, Dem. Rep.",
+    "value": 2.87000000062543,
+    "year": 2005
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": 8.38998169638614,
+    "year": 2011
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": 6.25617331024211,
+    "year": 2010
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": -3.18641478525477,
+    "year": 2009
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": 5.57955393897285,
+    "year": 2008
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": 5.00015723270439,
+    "year": 2007
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": 5.38525269262635,
+    "year": 2006
+  },
+  {
+    "country": "CG",
+    "countryname": "Congo, Rep.",
+    "value": 4.41176470588236,
+    "year": 2005
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 4.4141740392267,
+    "year": 2011
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 4.65389702640475,
+    "year": 2010
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 3.99938862848992,
+    "year": 2009
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 0.537827178200079,
+    "year": 2008
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 1.79362844778144,
+    "year": 2007
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 1.25118783655369,
+    "year": 2006
+  },
+  {
+    "country": "CI",
+    "countryname": "Cote d'Ivoire",
+    "value": 1.48949849978568,
+    "year": 2005
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": 4.30000000000006,
+    "year": 2006
+  },
+  {
+    "country": "DJ",
+    "countryname": "Djibouti",
+    "value": 2.99999999999976,
+    "year": 2005
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 2.69999999999999,
+    "year": 2011
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 3.47448069044853,
+    "year": 2010
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 3.17050196952344,
+    "year": 2009
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 3.34757001033485,
+    "year": 2008
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 3.6803687471664,
+    "year": 2007
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 3.24865809511923,
+    "year": 2006
+  },
+  {
+    "country": "EG",
+    "countryname": "Egypt, Arab Rep.",
+    "value": 3.25615866724669,
+    "year": 2005
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": -1.29636422531155,
+    "year": 2008
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": 9.99149979683875,
+    "year": 2007
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": 3.70328780962579,
+    "year": 2006
+  },
+  {
+    "country": "GQ",
+    "countryname": "Equatorial Guinea",
+    "value": 10.2902667673812,
+    "year": 2005
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": 3.60000000000011,
+    "year": 2009
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": -43.487360263181,
+    "year": 2008
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": 1.29259694477086,
+    "year": 2007
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": 8.8235294117647,
+    "year": 2006
+  },
+  {
+    "country": "ER",
+    "countryname": "Eritrea",
+    "value": 69.6312364425163,
+    "year": 2005
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 5.21120885822286,
+    "year": 2011
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 5.13031542374152,
+    "year": 2010
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 6.3608825872459,
+    "year": 2009
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 7.50153476484157,
+    "year": 2008
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 9.44831460472708,
+    "year": 2007
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 10.9085206336178,
+    "year": 2006
+  },
+  {
+    "country": "ET",
+    "countryname": "Ethiopia",
+    "value": 13.5427765618488,
+    "year": 2005
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": 5.15694768112116,
+    "year": 2011
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": -7.7575319365409,
+    "year": 2010
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": 2.95056531619233,
+    "year": 2009
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": -0.198186831528302,
+    "year": 2008
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": 5.30019670803397,
+    "year": 2007
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": 2.13475650433623,
+    "year": 2006
+  },
+  {
+    "country": "GA",
+    "countryname": "Gabon",
+    "value": 3.30806340454859,
+    "year": 2005
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": -36.5847363208661,
+    "year": 2011
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": 11.1855469318403,
+    "year": 2010
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": 11.7310194424727,
+    "year": 2009
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": 26.0157312594645,
+    "year": 2008
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": -1.81045414125697,
+    "year": 2007
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": -14.5727101857824,
+    "year": 2006
+  },
+  {
+    "country": "GM",
+    "countryname": "Gambia, The",
+    "value": -2.26287366062881,
+    "year": 2005
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "GH",
+    "countryname": "Ghana",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 4.65662143818697,
+    "year": 2011
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 3.19081449537943,
+    "year": 2010
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 3.22895881545162,
+    "year": 2009
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 3.5992972475229,
+    "year": 2008
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 2.80052211624602,
+    "year": 2007
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 3.90764081370427,
+    "year": 2006
+  },
+  {
+    "country": "GN",
+    "countryname": "Guinea",
+    "value": 1.33977536941452,
+    "year": 2005
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "GW",
+    "countryname": "Guinea-Bissau",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": 1.55936342696092,
+    "year": 2011
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": 6.32928408662436,
+    "year": 2010
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": -2.46932530051134,
+    "year": 2009
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": -4.25193812690597,
+    "year": 2008
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": 2.32756324900134,
+    "year": 2007
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": 4.47626841243862,
+    "year": 2006
+  },
+  {
+    "country": "KE",
+    "countryname": "Kenya",
+    "value": 6.90639828669812,
+    "year": 2005
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": -5.84934079519392,
+    "year": 2011
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": 10.9225782588195,
+    "year": 2010
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": -5.04659389873113,
+    "year": 2009
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": 16.1947783292889,
+    "year": 2008
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": -0.920339763621092,
+    "year": 2007
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": -10.3105986221848,
+    "year": 2006
+  },
+  {
+    "country": "LS",
+    "countryname": "Lesotho",
+    "value": 1.40640453703704,
+    "year": 2005
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 8.99149255364979,
+    "year": 2011
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 10.4733181316844,
+    "year": 2010
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 13.725504834009,
+    "year": 2009
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 14.040325482496,
+    "year": 2008
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 13.304861915195,
+    "year": 2007
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 5.74035787718952,
+    "year": 2006
+  },
+  {
+    "country": "LR",
+    "countryname": "Liberia",
+    "value": 7.35474246467522,
+    "year": 2005
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "LY",
+    "countryname": "Libya",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": 8.53589750122843,
+    "year": 2009
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": 2.94621251015021,
+    "year": 2008
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": 2.24251314524773,
+    "year": 2007
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": 2.14509838977086,
+    "year": 2006
+  },
+  {
+    "country": "MG",
+    "countryname": "Madagascar",
+    "value": 2.49844608042871,
+    "year": 2005
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": 6.89536708553018,
+    "year": 2011
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": 1.96640854335992,
+    "year": 2010
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": 13.0688914021998,
+    "year": 2009
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": 4.18463946791781,
+    "year": 2008
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": 11.1180733255268,
+    "year": 2007
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": -0.389891159589939,
+    "year": 2006
+  },
+  {
+    "country": "MW",
+    "countryname": "Malawi",
+    "value": -7.59589272373711,
+    "year": 2005
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": 13.2000000005911,
+    "year": 2008
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": 2.44006145833531,
+    "year": 2007
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": 5.69137521765894,
+    "year": 2006
+  },
+  {
+    "country": "ML",
+    "countryname": "Mali",
+    "value": 7.59999999978884,
+    "year": 2005
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": -2.62323386607036,
+    "year": 2011
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": 7.04416512581774,
+    "year": 2010
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": 0.417193889675938,
+    "year": 2009
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": 8.1154211824362,
+    "year": 2008
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": 9.68680402513964,
+    "year": 2007
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": -0.0116589523265431,
+    "year": 2006
+  },
+  {
+    "country": "MR",
+    "countryname": "Mauritania",
+    "value": 8.21883240597046,
+    "year": 2005
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": 3.44412500579991,
+    "year": 2011
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": -1.34871256655114,
+    "year": 2010
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": 8.84425257797625,
+    "year": 2009
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": 3.02123583448157,
+    "year": 2008
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": -5.38124008669026,
+    "year": 2007
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": 0.560515085659219,
+    "year": 2006
+  },
+  {
+    "country": "MU",
+    "countryname": "Mauritius",
+    "value": -5.43474865979949,
+    "year": 2005
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": 2.83165337619962,
+    "year": 2011
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": -1.90325138778747,
+    "year": 2010
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": 29.6916971178278,
+    "year": 2009
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": 16.4323349581584,
+    "year": 2008
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": -20.4210903954169,
+    "year": 2007
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": 22.9489441473232,
+    "year": 2006
+  },
+  {
+    "country": "MA",
+    "countryname": "Morocco",
+    "value": -12.1492837335465,
+    "year": 2005
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 8.72869739828881,
+    "year": 2011
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 5.93049871679268,
+    "year": 2010
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 5.94762756289346,
+    "year": 2009
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 9.08648784424386,
+    "year": 2008
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 8.22692794452735,
+    "year": 2007
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 10.2010698821411,
+    "year": 2006
+  },
+  {
+    "country": "MZ",
+    "countryname": "Mozambique",
+    "value": 6.46952376104919,
+    "year": 2005
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": 7.70706747681484,
+    "year": 2011
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": -1.07560898449858,
+    "year": 2010
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": 1.83634020618557,
+    "year": 2009
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": -14.3251449075352,
+    "year": 2008
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": -9.3116395494368,
+    "year": 2007
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": -0.720675944333993,
+    "year": 2006
+  },
+  {
+    "country": "NA",
+    "countryname": "Namibia",
+    "value": 5.45073375262055,
+    "year": 2005
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "NE",
+    "countryname": "Niger",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "NG",
+    "countryname": "Nigeria",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": 2.8323360217104,
+    "year": 2011
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": 1.35357816391637,
+    "year": 2010
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": 8.83819366559264,
+    "year": 2009
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": 3.79883177406628,
+    "year": 2008
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": -1.83503559656208,
+    "year": 2007
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": 7.87149402052993,
+    "year": 2006
+  },
+  {
+    "country": "",
+    "countryname": "North Africa",
+    "value": -1.30827527173211,
+    "year": 2005
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 4.68386459533194,
+    "year": 2011
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 4.98473365696335,
+    "year": 2010
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 7.72474180702283,
+    "year": 2009
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 6.44858562837585,
+    "year": 2008
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 2.60355444904075,
+    "year": 2007
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 2.98603473501151,
+    "year": 2006
+  },
+  {
+    "country": "RW",
+    "countryname": "Rwanda",
+    "value": 6.50041562759767,
+    "year": 2005
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "ST",
+    "countryname": "Sao Tome and Principe",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": -11.1362059063446,
+    "year": 2011
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": 4.98714895327412,
+    "year": 2010
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": 11.6167446139184,
+    "year": 2009
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": 19.9318164025132,
+    "year": 2008
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": -5.9915136667374,
+    "year": 2007
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": -7.88901000781962,
+    "year": 2006
+  },
+  {
+    "country": "SN",
+    "countryname": "Senegal",
+    "value": 11.1183875555846,
+    "year": 2005
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": 3.5088588149488,
+    "year": 2011
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": -6.21467244327731,
+    "year": 2010
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": -16.4918243847825,
+    "year": 2009
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": 4.64460070953749,
+    "year": 2008
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": 0.824266297718412,
+    "year": 2007
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": -5.35189791758582,
+    "year": 2006
+  },
+  {
+    "country": "SC",
+    "countryname": "Seychelles",
+    "value": 7.69708330439043,
+    "year": 2005
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "SL",
+    "countryname": "Sierra Leone",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "SO",
+    "countryname": "Somalia",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": 0.741872136155353,
+    "year": 2011
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": 4.98091117332655,
+    "year": 2010
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": -3.20275930032027,
+    "year": 2009
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": 10.8713466266048,
+    "year": 2008
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": 3.53799598404931,
+    "year": 2007
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": -5.46227474466606,
+    "year": 2006
+  },
+  {
+    "country": "ZA",
+    "countryname": "South Africa",
+    "value": 1.55308172685311,
+    "year": 2005
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2011
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2010
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2009
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2008
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2007
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2006
+  },
+  {
+    "country": "SS",
+    "countryname": "South Sudan",
+    "value": "",
+    "year": 2005
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 3.71037157338732,
+    "year": 2011
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 4.80828215731954,
+    "year": 2010
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 3.83066979516364,
+    "year": 2009
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 4.05321795230895,
+    "year": 2008
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 3.77058050610593,
+    "year": 2007
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 2.95343466026334,
+    "year": 2006
+  },
+  {
+    "country": "ZG",
+    "countryname": "Sub-Saharan Africa (all income levels)",
+    "value": 4.22526902630624,
+    "year": 2005
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 3.71037157338732,
+    "year": 2011
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 4.80828215731954,
+    "year": 2010
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 3.83066979516364,
+    "year": 2009
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 4.07315535393946,
+    "year": 2008
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 3.74982835732283,
+    "year": 2007
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 2.95103159045669,
+    "year": 2006
+  },
+  {
+    "country": "ZF",
+    "countryname": "Sub-Saharan Africa (developing only)",
+    "value": 4.20731316061906,
+    "year": 2005
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 4.03410443766601,
+    "year": 2011
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 4.78953671030897,
+    "year": 2010
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 4.62653437693916,
+    "year": 2009
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 3.36197508037339,
+    "year": 2008
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 3.79290044039808,
+    "year": 2007
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 3.80905981759316,
+    "year": 2006
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa",
+    "value": 4.49801065840507,
+    "year": 2005
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 4.03410443766601,
+    "year": 2011
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 4.78953671030897,
+    "year": 2010
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 4.62653437693916,
+    "year": 2009
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 3.36197508037339,
+    "year": 2008
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 3.79290044039808,
+    "year": 2007
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 3.80905981759316,
+    "year": 2006
+  },
+  {
+    "country": "",
+    "countryname": "Sub-Saharan Africa excluding South Africa and Nigeria",
+    "value": 4.49801065840507,
+    "year": 2005
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 5.76901016985383,
+    "year": 2011
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 6.22616201913011,
+    "year": 2010
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 5.92125195517408,
+    "year": 2009
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 4.95266531001779,
+    "year": 2008
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 3.11828884169638,
+    "year": 2007
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 4.37393347639126,
+    "year": 2006
+  },
+  {
+    "country": "SD",
+    "countryname": "Sudan",
+    "value": 0.313853423655686,
+    "year": 2005
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": 2.57025969405906,
+    "year": 2011
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": 3.30760749724366,
+    "year": 2010
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": -0.946487076811064,
+    "year": 2009
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": -0.072753728628594,
+    "year": 2008
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": 2.63207018853837,
+    "year": 2007
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": -2.4314725434842,
+    "year": 2006
+  },
+  {
+    "country": "SZ",
+    "countryname": "Swaziland",
+    "value": 5.37376451396219,
+    "year": 2005
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 3.42512730908975,
+    "year": 2011
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 4.05587297729288,
+    "year": 2010
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 3.20744043820596,
+    "year": 2009
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 4.58116967996636,
+    "year": 2008
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 4.04731370447584,
+    "year": 2007
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 3.87700071149695,
+    "year": 2006
+  },
+  {
+    "country": "TZ",
+    "countryname": "Tanzania",
+    "value": 4.41790636644377,
+    "year": 2005
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": 4.99519728008315,
+    "year": 2011
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": 1.42757636572697,
+    "year": 2010
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": -26.4026189463755,
+    "year": 2009
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": 16.3387731993481,
+    "year": 2008
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": 2.11891474872836,
+    "year": 2007
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": -5.25443527126543,
+    "year": 2006
+  },
+  {
+    "country": "TG",
+    "countryname": "Togo",
+    "value": 10.0471881379013,
+    "year": 2005
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": 4.00000000059539,
+    "year": 2011
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": -7.89999999888958,
+    "year": 2010
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": 6.00000000014531,
+    "year": 2009
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": -0.700809877085584,
+    "year": 2008
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": 0.821853291078489,
+    "year": 2007
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": 7.92551113276536,
+    "year": 2006
+  },
+  {
+    "country": "TN",
+    "countryname": "Tunisia",
+    "value": -7.81071242661647,
+    "year": 2005
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 2.70700324610915,
+    "year": 2011
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 0.325979503851692,
+    "year": 2010
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 3.49253939255676,
+    "year": 2009
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 1.34584248371312,
+    "year": 2008
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 0.119237784517923,
+    "year": 2007
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 0.458586003556549,
+    "year": 2006
+  },
+  {
+    "country": "UG",
+    "countryname": "Uganda",
+    "value": 2.04935439783545,
+    "year": 2005
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": 7.65576185053951,
+    "year": 2011
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": 6.59699724140437,
+    "year": 2010
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": 7.2304421434763,
+    "year": 2009
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": 2.55872315118302,
+    "year": 2008
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": 0.430315333412223,
+    "year": 2007
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": 2.21144586120336,
+    "year": 2006
+  },
+  {
+    "country": "ZM",
+    "countryname": "Zambia",
+    "value": -0.564544524736188,
+    "year": 2005
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": 11.2,
+    "year": 2011
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": 7.22031193505208,
+    "year": 2010
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": 22.0089370298341,
+    "year": 2009
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": -39.3,
+    "year": 2008
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": -7.00000000000001,
+    "year": 2007
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": -3.99999999999999,
+    "year": 2006
+  },
+  {
+    "country": "ZW",
+    "countryname": "Zimbabwe",
+    "value": -5.00000000000002,
+    "year": 2005
+  }
+]

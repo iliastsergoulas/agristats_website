@@ -1,0 +1,8276 @@
+[
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT",
+    "year": 2013,
+    "value": 2726890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT11",
+    "year": 2013,
+    "value": 181970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT12",
+    "year": 2013,
+    "value": 908850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT13",
+    "year": 2013,
+    "value": 8020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT21",
+    "year": 2013,
+    "value": 220340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT22",
+    "year": 2013,
+    "value": 375180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT31",
+    "year": 2013,
+    "value": 517350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT32",
+    "year": 2013,
+    "value": 178390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT33",
+    "year": 2013,
+    "value": 259010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT34",
+    "year": 2013,
+    "value": 77780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE",
+    "year": 2013,
+    "value": 1307900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE10",
+    "year": 2013,
+    "value": 2150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE21",
+    "year": 2013,
+    "value": 92510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE22",
+    "year": 2013,
+    "value": 83320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE23",
+    "year": 2013,
+    "value": 148700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE24",
+    "year": 2013,
+    "value": 85170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE25",
+    "year": 2013,
+    "value": 203490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE31",
+    "year": 2013,
+    "value": 59480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE32",
+    "year": 2013,
+    "value": 203180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE33",
+    "year": 2013,
+    "value": 151280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE34",
+    "year": 2013,
+    "value": 134020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE35",
+    "year": 2013,
+    "value": 144610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG",
+    "year": 2013,
+    "value": 4650940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG31",
+    "year": 2013,
+    "value": 936770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG32",
+    "year": 2013,
+    "value": 793430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG33",
+    "year": 2013,
+    "value": 822230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG34",
+    "year": 2013,
+    "value": 845160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG41",
+    "year": 2013,
+    "value": 554470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG42",
+    "year": 2013,
+    "value": 698880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY",
+    "year": 2013,
+    "value": 109330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY00",
+    "year": 2013,
+    "value": 109330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ",
+    "year": 2013,
+    "value": 3491470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ01",
+    "year": 2013,
+    "value": 13270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ02",
+    "year": 2013,
+    "value": 553240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ03",
+    "year": 2013,
+    "value": 731710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ04",
+    "year": 2013,
+    "value": 312350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ05",
+    "year": 2013,
+    "value": 560550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ06",
+    "year": 2013,
+    "value": 719260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ07",
+    "year": 2013,
+    "value": 393960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ08",
+    "year": 2013,
+    "value": 207130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE",
+    "year": 2013,
+    "value": 16699580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE1",
+    "year": 2013,
+    "value": 1422460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE2",
+    "year": 2013,
+    "value": 3136230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE3",
+    "year": 2013,
+    "value": 1980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE4",
+    "year": 2013,
+    "value": 1313810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE5",
+    "year": 2013,
+    "value": 8450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE6",
+    "year": 2013,
+    "value": 14440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE7",
+    "year": 2013,
+    "value": 771890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE8",
+    "year": 2013,
+    "value": 1340960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE9",
+    "year": 2013,
+    "value": 2590900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEA",
+    "year": 2013,
+    "value": 1463030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEB",
+    "year": 2013,
+    "value": 706950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEC",
+    "year": 2013,
+    "value": 77920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DED",
+    "year": 2013,
+    "value": 906640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEE",
+    "year": 2013,
+    "value": 1172780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEF",
+    "year": 2013,
+    "value": 990450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEG",
+    "year": 2013,
+    "value": 780670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK",
+    "year": 2013,
+    "value": 2619340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK01",
+    "year": 2013,
+    "value": 98480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK02",
+    "year": 2013,
+    "value": 470050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK03",
+    "year": 2013,
+    "value": 773600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK04",
+    "year": 2013,
+    "value": 791690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK05",
+    "year": 2013,
+    "value": 485520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE",
+    "year": 2013,
+    "value": 957510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE00",
+    "year": 2013,
+    "value": 957510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL",
+    "year": 2013,
+    "value": 4856780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL11",
+    "year": 2013,
+    "value": 432360
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL12",
+    "year": 2013,
+    "value": 783560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL13",
+    "year": 2013,
+    "value": 402840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL14",
+    "year": 2013,
+    "value": 587180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL21",
+    "year": 2013,
+    "value": 177220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL22",
+    "year": 2013,
+    "value": 94570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL23",
+    "year": 2013,
+    "value": 385620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL24",
+    "year": 2013,
+    "value": 401810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL25",
+    "year": 2013,
+    "value": 471700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL30",
+    "year": 2013,
+    "value": 54330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL41",
+    "year": 2013,
+    "value": 245760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL42",
+    "year": 2013,
+    "value": 214010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL43",
+    "year": 2013,
+    "value": 605820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES",
+    "year": 2013,
+    "value": 23300220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES11",
+    "year": 2013,
+    "value": 655520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES12",
+    "year": 2013,
+    "value": 336310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES13",
+    "year": 2013,
+    "value": 222950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES21",
+    "year": 2013,
+    "value": 187250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES22",
+    "year": 2013,
+    "value": 546890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES23",
+    "year": 2013,
+    "value": 215840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES24",
+    "year": 2013,
+    "value": 2261690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES30",
+    "year": 2013,
+    "value": 304150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES41",
+    "year": 2013,
+    "value": 5295680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES42",
+    "year": 2013,
+    "value": 4045810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES43",
+    "year": 2013,
+    "value": 2491730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES51",
+    "year": 2013,
+    "value": 1125270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES52",
+    "year": 2013,
+    "value": 637750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES53",
+    "year": 2013,
+    "value": 176280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES61",
+    "year": 2013,
+    "value": 4369000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES62",
+    "year": 2013,
+    "value": 375860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES63",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES64",
+    "year": 2013,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES70",
+    "year": 2013,
+    "value": 52210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI",
+    "year": 2013,
+    "value": 2257630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI19",
+    "year": 2013,
+    "value": 780380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1B",
+    "year": 2013,
+    "value": 180520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1C",
+    "year": 2013,
+    "value": 616350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1D",
+    "year": 2013,
+    "value": 661430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI20",
+    "year": 2013,
+    "value": 18960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR",
+    "year": 2013,
+    "value": 27739430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR10",
+    "year": 2013,
+    "value": 571640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR21",
+    "year": 2013,
+    "value": 1532170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR22",
+    "year": 2013,
+    "value": 1316620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR23",
+    "year": 2013,
+    "value": 764380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR24",
+    "year": 2013,
+    "value": 2302910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR25",
+    "year": 2013,
+    "value": 1229760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR26",
+    "year": 2013,
+    "value": 1745500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR30",
+    "year": 2013,
+    "value": 813380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR41",
+    "year": 2013,
+    "value": 1130340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR42",
+    "year": 2013,
+    "value": 341790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR43",
+    "year": 2013,
+    "value": 669860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR51",
+    "year": 2013,
+    "value": 2092730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR52",
+    "year": 2013,
+    "value": 1643670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR53",
+    "year": 2013,
+    "value": 1721090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR61",
+    "year": 2013,
+    "value": 1454170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR62",
+    "year": 2013,
+    "value": 2543910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR63",
+    "year": 2013,
+    "value": 850390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR71",
+    "year": 2013,
+    "value": 1507770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR72",
+    "year": 2013,
+    "value": 1426760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR81",
+    "year": 2013,
+    "value": 1002670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR82",
+    "year": 2013,
+    "value": 802030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR83",
+    "year": 2013,
+    "value": 159000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR91",
+    "year": 2013,
+    "value": 30960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR92",
+    "year": 2013,
+    "value": 24170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR93",
+    "year": 2013,
+    "value": 19570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR94",
+    "year": 2013,
+    "value": 42200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR",
+    "year": 2013,
+    "value": 1571200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR03",
+    "year": 2013,
+    "value": 467420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR04",
+    "year": 2013,
+    "value": 1103790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU",
+    "year": 2013,
+    "value": 4656520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU10",
+    "year": 2013,
+    "value": 269810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU21",
+    "year": 2013,
+    "value": 522280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU22",
+    "year": 2013,
+    "value": 512230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU23",
+    "year": 2013,
+    "value": 679470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU31",
+    "year": 2013,
+    "value": 544330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU32",
+    "year": 2013,
+    "value": 1023560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU33",
+    "year": 2013,
+    "value": 1104840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE",
+    "year": 2013,
+    "value": 4959450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE01",
+    "year": 2013,
+    "value": 2269920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE02",
+    "year": 2013,
+    "value": 2689540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IT",
+    "year": 2013,
+    "value": 12098890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC1",
+    "year": 2013,
+    "value": 948580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC2",
+    "year": 2013,
+    "value": 52490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC3",
+    "year": 2013,
+    "value": 37330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC4",
+    "year": 2013,
+    "value": 922320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF1",
+    "year": 2013,
+    "value": 424160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF2",
+    "year": 2013,
+    "value": 174200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF3",
+    "year": 2013,
+    "value": 509000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF4",
+    "year": 2013,
+    "value": 1184540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF5",
+    "year": 2013,
+    "value": 484630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF6",
+    "year": 2013,
+    "value": 498400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG1",
+    "year": 2013,
+    "value": 1326110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG2",
+    "year": 2013,
+    "value": 1134540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH1",
+    "year": 2013,
+    "value": 227900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH2",
+    "year": 2013,
+    "value": 131410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH3",
+    "year": 2013,
+    "value": 796250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH4",
+    "year": 2013,
+    "value": 211130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH5",
+    "year": 2013,
+    "value": 1034350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI1",
+    "year": 2013,
+    "value": 691340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI2",
+    "year": 2013,
+    "value": 300000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI3",
+    "year": 2013,
+    "value": 442620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI4",
+    "year": 2013,
+    "value": 567590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT",
+    "year": 2013,
+    "value": 2861250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT00",
+    "year": 2013,
+    "value": 2861250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU",
+    "year": 2013,
+    "value": 131040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU00",
+    "year": 2013,
+    "value": 131040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV",
+    "year": 2013,
+    "value": 1877720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV00",
+    "year": 2013,
+    "value": 1877720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT",
+    "year": 2013,
+    "value": 10880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT00",
+    "year": 2013,
+    "value": 10880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL",
+    "year": 2013,
+    "value": 1847570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL11",
+    "year": 2013,
+    "value": 162960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL12",
+    "year": 2013,
+    "value": 226440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL13",
+    "year": 2013,
+    "value": 150220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL21",
+    "year": 2013,
+    "value": 198730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL22",
+    "year": 2013,
+    "value": 232440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL23",
+    "year": 2013,
+    "value": 88600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL31",
+    "year": 2013,
+    "value": 64470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL32",
+    "year": 2013,
+    "value": 128040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL33",
+    "year": 2013,
+    "value": 128640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL34",
+    "year": 2013,
+    "value": 122180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL41",
+    "year": 2013,
+    "value": 246900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL42",
+    "year": 2013,
+    "value": 97940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO",
+    "year": 2013,
+    "value": 987120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO01",
+    "year": 2013,
+    "value": 77320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO02",
+    "year": 2013,
+    "value": 204030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO03",
+    "year": 2013,
+    "value": 189030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO04",
+    "year": 2013,
+    "value": 129260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO05",
+    "year": 2013,
+    "value": 137700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO06",
+    "year": 2013,
+    "value": 160560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO07",
+    "year": 2013,
+    "value": 89210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL",
+    "year": 2013,
+    "value": 14409870
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL11",
+    "year": 2013,
+    "value": 968400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL12",
+    "year": 2013,
+    "value": 1842830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL21",
+    "year": 2013,
+    "value": 543640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL22",
+    "year": 2013,
+    "value": 357630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL31",
+    "year": 2013,
+    "value": 1363140
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL32",
+    "year": 2013,
+    "value": 561220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL33",
+    "year": 2013,
+    "value": 491470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL34",
+    "year": 2013,
+    "value": 1058850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL41",
+    "year": 2013,
+    "value": 1722960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL42",
+    "year": 2013,
+    "value": 839070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL43",
+    "year": 2013,
+    "value": 413890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL51",
+    "year": 2013,
+    "value": 910730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL52",
+    "year": 2013,
+    "value": 520990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL61",
+    "year": 2013,
+    "value": 1039610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL62",
+    "year": 2013,
+    "value": 1048740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL63",
+    "year": 2013,
+    "value": 726690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT",
+    "year": 2013,
+    "value": 3641590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT11",
+    "year": 2013,
+    "value": 646610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT15",
+    "year": 2013,
+    "value": 92230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT16",
+    "year": 2013,
+    "value": 558020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT17",
+    "year": 2013,
+    "value": 74370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT18",
+    "year": 2013,
+    "value": 2146510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT20",
+    "year": 2013,
+    "value": 118590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT30",
+    "year": 2013,
+    "value": 5260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO",
+    "year": 2013,
+    "value": 13055850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO11",
+    "year": 2013,
+    "value": 1783180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO12",
+    "year": 2013,
+    "value": 1693990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO21",
+    "year": 2013,
+    "value": 1937080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO22",
+    "year": 2013,
+    "value": 2092500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO31",
+    "year": 2013,
+    "value": 2250950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO32",
+    "year": 2013,
+    "value": 75570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO41",
+    "year": 2013,
+    "value": 1574200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO42",
+    "year": 2013,
+    "value": 1648380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE",
+    "year": 2013,
+    "value": 3035920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE11",
+    "year": 2013,
+    "value": 92000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE12",
+    "year": 2013,
+    "value": 786510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE21",
+    "year": 2013,
+    "value": 502900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE22",
+    "year": 2013,
+    "value": 535970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE23",
+    "year": 2013,
+    "value": 652920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE31",
+    "year": 2013,
+    "value": 254480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE32",
+    "year": 2013,
+    "value": 104450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE33",
+    "year": 2013,
+    "value": 106680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI",
+    "year": 2013,
+    "value": 485760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI01",
+    "year": 2013,
+    "value": 342480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI02",
+    "year": 2013,
+    "value": 143270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK",
+    "year": 2013,
+    "value": 1901610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK01",
+    "year": 2013,
+    "value": 78640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK02",
+    "year": 2013,
+    "value": 817390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK03",
+    "year": 2013,
+    "value": 465740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK04",
+    "year": 2013,
+    "value": 539840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UK",
+    "year": 2013,
+    "value": 17096170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC1",
+    "year": 2013,
+    "value": 208350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC2",
+    "year": 2013,
+    "value": 392980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD1",
+    "year": 2013,
+    "value": 570830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD3",
+    "year": 2013,
+    "value": 37130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD4",
+    "year": 2013,
+    "value": 218720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD6",
+    "year": 2013,
+    "value": 162980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD7",
+    "year": 2013,
+    "value": 19880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE1",
+    "year": 2013,
+    "value": 265560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE2",
+    "year": 2013,
+    "value": 693220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE3",
+    "year": 2013,
+    "value": 81260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE4",
+    "year": 2013,
+    "value": 104780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF1",
+    "year": 2013,
+    "value": 314890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF2",
+    "year": 2013,
+    "value": 355550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF3",
+    "year": 2013,
+    "value": 465820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG1",
+    "year": 2013,
+    "value": 438370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG2",
+    "year": 2013,
+    "value": 465360
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG3",
+    "year": 2013,
+    "value": 14160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH1",
+    "year": 2013,
+    "value": 898170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH2",
+    "year": 2013,
+    "value": 165930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH3",
+    "year": 2013,
+    "value": 235540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI1",
+    "year": 2013,
+    "value": ""
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI2",
+    "year": 2013,
+    "value": 11420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ1",
+    "year": 2013,
+    "value": 361510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ2",
+    "year": 2013,
+    "value": 274410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ3",
+    "year": 2013,
+    "value": 241810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ4",
+    "year": 2013,
+    "value": 212210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK1",
+    "year": 2013,
+    "value": 537850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK2",
+    "year": 2013,
+    "value": 465600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK3",
+    "year": 2013,
+    "value": 275310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK4",
+    "year": 2013,
+    "value": 525800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL1",
+    "year": 2013,
+    "value": 1094040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL2",
+    "year": 2013,
+    "value": 651500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM2",
+    "year": 2013,
+    "value": 1247660
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM3",
+    "year": 2013,
+    "value": 798340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM5",
+    "year": 2013,
+    "value": 478770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM6",
+    "year": 2013,
+    "value": 2763560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKN0",
+    "year": 2013,
+    "value": 1046140
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT",
+    "year": 2010,
+    "value": 2878170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT11",
+    "year": 2010,
+    "value": 187890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT12",
+    "year": 2010,
+    "value": 911680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT13",
+    "year": 2010,
+    "value": 7410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT21",
+    "year": 2010,
+    "value": 253570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT22",
+    "year": 2010,
+    "value": 407260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT31",
+    "year": 2010,
+    "value": 529460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT32",
+    "year": 2010,
+    "value": 195110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT33",
+    "year": 2010,
+    "value": 290720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT34",
+    "year": 2010,
+    "value": 95070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE",
+    "year": 2010,
+    "value": 1358020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE10",
+    "year": 2010,
+    "value": 270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE21",
+    "year": 2010,
+    "value": 89150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE22",
+    "year": 2010,
+    "value": 83170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE23",
+    "year": 2010,
+    "value": 149050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE24",
+    "year": 2010,
+    "value": 87580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE25",
+    "year": 2010,
+    "value": 207910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE31",
+    "year": 2010,
+    "value": 62970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE32",
+    "year": 2010,
+    "value": 217210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE33",
+    "year": 2010,
+    "value": 159160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE34",
+    "year": 2010,
+    "value": 143830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE35",
+    "year": 2010,
+    "value": 157720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG",
+    "year": 2010,
+    "value": 4475530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG31",
+    "year": 2010,
+    "value": 881670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG32",
+    "year": 2010,
+    "value": 806130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG33",
+    "year": 2010,
+    "value": 804550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG34",
+    "year": 2010,
+    "value": 874260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG41",
+    "year": 2010,
+    "value": 480870
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG42",
+    "year": 2010,
+    "value": 628040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH",
+    "year": 2010,
+    "value": 1047800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH01",
+    "year": 2010,
+    "value": 157670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH02",
+    "year": 2010,
+    "value": 369650
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH03",
+    "year": 2010,
+    "value": 83120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH04",
+    "year": 2010,
+    "value": 73470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH05",
+    "year": 2010,
+    "value": 216820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH06",
+    "year": 2010,
+    "value": 132860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH07",
+    "year": 2010,
+    "value": 14220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY",
+    "year": 2010,
+    "value": 118400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY00",
+    "year": 2010,
+    "value": 118400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ",
+    "year": 2010,
+    "value": 3483500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ01",
+    "year": 2010,
+    "value": 11100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ02",
+    "year": 2010,
+    "value": 554520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ03",
+    "year": 2010,
+    "value": 732170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ04",
+    "year": 2010,
+    "value": 318850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ05",
+    "year": 2010,
+    "value": 559120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ06",
+    "year": 2010,
+    "value": 714590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ07",
+    "year": 2010,
+    "value": 384990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ08",
+    "year": 2010,
+    "value": 208150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE",
+    "year": 2010,
+    "value": 16704040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE1",
+    "year": 2010,
+    "value": 1409990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE2",
+    "year": 2010,
+    "value": 3136840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE3",
+    "year": 2010,
+    "value": 2180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE4",
+    "year": 2010,
+    "value": 1323690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE5",
+    "year": 2010,
+    "value": 8250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE6",
+    "year": 2010,
+    "value": 14330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE7",
+    "year": 2010,
+    "value": 766440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE8",
+    "year": 2010,
+    "value": 1350880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE9",
+    "year": 2010,
+    "value": 2577020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEA",
+    "year": 2010,
+    "value": 1463090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEB",
+    "year": 2010,
+    "value": 705220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEC",
+    "year": 2010,
+    "value": 77880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DED",
+    "year": 2010,
+    "value": 912740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEE",
+    "year": 2010,
+    "value": 1173090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEF",
+    "year": 2010,
+    "value": 995640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEG",
+    "year": 2010,
+    "value": 786760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK",
+    "year": 2010,
+    "value": 2646860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK01",
+    "year": 2010,
+    "value": 98560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK02",
+    "year": 2010,
+    "value": 477770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK03",
+    "year": 2010,
+    "value": 787860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK04",
+    "year": 2010,
+    "value": 791780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK05",
+    "year": 2010,
+    "value": 490900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE",
+    "year": 2010,
+    "value": 940930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE00",
+    "year": 2010,
+    "value": 940930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL",
+    "year": 2010,
+    "value": 5177510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL11",
+    "year": 2010,
+    "value": 636450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL12",
+    "year": 2010,
+    "value": 966770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL13",
+    "year": 2010,
+    "value": 307890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL14",
+    "year": 2010,
+    "value": 730080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL21",
+    "year": 2010,
+    "value": 207290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL22",
+    "year": 2010,
+    "value": 88450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL23",
+    "year": 2010,
+    "value": 400290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL24",
+    "year": 2010,
+    "value": 565740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL25",
+    "year": 2010,
+    "value": 502470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL30",
+    "year": 2010,
+    "value": 50910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL41",
+    "year": 2010,
+    "value": 168610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL42",
+    "year": 2010,
+    "value": 106080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL43",
+    "year": 2010,
+    "value": 446490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES",
+    "year": 2010,
+    "value": 23752690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES11",
+    "year": 2010,
+    "value": 647600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES12",
+    "year": 2010,
+    "value": 363180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES13",
+    "year": 2010,
+    "value": 235240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES21",
+    "year": 2010,
+    "value": 190390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES22",
+    "year": 2010,
+    "value": 545520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES23",
+    "year": 2010,
+    "value": 230220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES24",
+    "year": 2010,
+    "value": 2345700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES30",
+    "year": 2010,
+    "value": 315260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES41",
+    "year": 2010,
+    "value": 5362470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES42",
+    "year": 2010,
+    "value": 4091440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES43",
+    "year": 2010,
+    "value": 2585900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES51",
+    "year": 2010,
+    "value": 1147530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES52",
+    "year": 2010,
+    "value": 657470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES53",
+    "year": 2010,
+    "value": 182320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES61",
+    "year": 2010,
+    "value": 4402760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES62",
+    "year": 2010,
+    "value": 394540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES63",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES64",
+    "year": 2010,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES70",
+    "year": 2010,
+    "value": 55070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI",
+    "year": 2010,
+    "value": 2290980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI19",
+    "year": 2010,
+    "value": 793380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1B",
+    "year": 2010,
+    "value": 184760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1C",
+    "year": 2010,
+    "value": 627220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1D",
+    "year": 2010,
+    "value": 665990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI20",
+    "year": 2010,
+    "value": 19620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR",
+    "year": 2010,
+    "value": 27837290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR10",
+    "year": 2010,
+    "value": 568840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR21",
+    "year": 2010,
+    "value": 1536950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR22",
+    "year": 2010,
+    "value": 1328370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR23",
+    "year": 2010,
+    "value": 774550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR24",
+    "year": 2010,
+    "value": 2311400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR25",
+    "year": 2010,
+    "value": 1210810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR26",
+    "year": 2010,
+    "value": 1762610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR30",
+    "year": 2010,
+    "value": 817990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR41",
+    "year": 2010,
+    "value": 1138400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR42",
+    "year": 2010,
+    "value": 336770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR43",
+    "year": 2010,
+    "value": 667190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR51",
+    "year": 2010,
+    "value": 2103390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR52",
+    "year": 2010,
+    "value": 1639840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR53",
+    "year": 2010,
+    "value": 1721280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR61",
+    "year": 2010,
+    "value": 1477320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR62",
+    "year": 2010,
+    "value": 2540090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR63",
+    "year": 2010,
+    "value": 838760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR71",
+    "year": 2010,
+    "value": 1516680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR72",
+    "year": 2010,
+    "value": 1469490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR81",
+    "year": 2010,
+    "value": 956590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR82",
+    "year": 2010,
+    "value": 815450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR83",
+    "year": 2010,
+    "value": 179940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR91",
+    "year": 2010,
+    "value": 31420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR92",
+    "year": 2010,
+    "value": 24980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR93",
+    "year": 2010,
+    "value": 25350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR94",
+    "year": 2010,
+    "value": 42810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR",
+    "year": 2010,
+    "value": 1316010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR03",
+    "year": 2010,
+    "value": 220380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR04",
+    "year": 2010,
+    "value": 1095630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU",
+    "year": 2010,
+    "value": 4686340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU10",
+    "year": 2010,
+    "value": 259570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU21",
+    "year": 2010,
+    "value": 531170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU22",
+    "year": 2010,
+    "value": 524370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU23",
+    "year": 2010,
+    "value": 689440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU31",
+    "year": 2010,
+    "value": 523270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU32",
+    "year": 2010,
+    "value": 1051090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU33",
+    "year": 2010,
+    "value": 1107420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE",
+    "year": 2010,
+    "value": 4991350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE01",
+    "year": 2010,
+    "value": 2297670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE02",
+    "year": 2010,
+    "value": 2693680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IS",
+    "year": 2010,
+    "value": 1595670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IS00",
+    "year": 2010,
+    "value": 1595670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IT",
+    "year": 2010,
+    "value": 12856050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC1",
+    "year": 2010,
+    "value": 1010780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC2",
+    "year": 2010,
+    "value": 55600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC3",
+    "year": 2010,
+    "value": 43780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC4",
+    "year": 2010,
+    "value": 986830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF1",
+    "year": 2010,
+    "value": 453630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF2",
+    "year": 2010,
+    "value": 197520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF3",
+    "year": 2010,
+    "value": 549530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF4",
+    "year": 2010,
+    "value": 1285290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF5",
+    "year": 2010,
+    "value": 519130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF6",
+    "year": 2010,
+    "value": 549250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG1",
+    "year": 2010,
+    "value": 1387520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG2",
+    "year": 2010,
+    "value": 1153690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH1",
+    "year": 2010,
+    "value": 240540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH2",
+    "year": 2010,
+    "value": 137220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH3",
+    "year": 2010,
+    "value": 811440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH4",
+    "year": 2010,
+    "value": 218440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH5",
+    "year": 2010,
+    "value": 1064210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI1",
+    "year": 2010,
+    "value": 754340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI2",
+    "year": 2010,
+    "value": 326880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI3",
+    "year": 2010,
+    "value": 471830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI4",
+    "year": 2010,
+    "value": 638600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT",
+    "year": 2010,
+    "value": 2742560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT00",
+    "year": 2010,
+    "value": 2742560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU",
+    "year": 2010,
+    "value": 131110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU00",
+    "year": 2010,
+    "value": 131110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV",
+    "year": 2010,
+    "value": 1796290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV00",
+    "year": 2010,
+    "value": 1796290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ME",
+    "year": 2010,
+    "value": 221300
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ME00",
+    "year": 2010,
+    "value": 221300
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT",
+    "year": 2010,
+    "value": 11450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT00",
+    "year": 2010,
+    "value": 11450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL",
+    "year": 2010,
+    "value": 1872350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL11",
+    "year": 2010,
+    "value": 162190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL12",
+    "year": 2010,
+    "value": 229080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL13",
+    "year": 2010,
+    "value": 149940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL21",
+    "year": 2010,
+    "value": 202620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL22",
+    "year": 2010,
+    "value": 238200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL23",
+    "year": 2010,
+    "value": 89310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL31",
+    "year": 2010,
+    "value": 66630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL32",
+    "year": 2010,
+    "value": 130690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL33",
+    "year": 2010,
+    "value": 134190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL34",
+    "year": 2010,
+    "value": 117990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL41",
+    "year": 2010,
+    "value": 251400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL42",
+    "year": 2010,
+    "value": 100100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO",
+    "year": 2010,
+    "value": 1005940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO01",
+    "year": 2010,
+    "value": 78210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO02",
+    "year": 2010,
+    "value": 208120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO03",
+    "year": 2010,
+    "value": 192310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO04",
+    "year": 2010,
+    "value": 130100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO05",
+    "year": 2010,
+    "value": 143330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO06",
+    "year": 2010,
+    "value": 161960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO07",
+    "year": 2010,
+    "value": 91910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL",
+    "year": 2010,
+    "value": 14447290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL11",
+    "year": 2010,
+    "value": 957060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL12",
+    "year": 2010,
+    "value": 1834790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL21",
+    "year": 2010,
+    "value": 565200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL22",
+    "year": 2010,
+    "value": 357310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL31",
+    "year": 2010,
+    "value": 1356740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL32",
+    "year": 2010,
+    "value": 569520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL33",
+    "year": 2010,
+    "value": 503000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL34",
+    "year": 2010,
+    "value": 1031750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL41",
+    "year": 2010,
+    "value": 1722000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL42",
+    "year": 2010,
+    "value": 897290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL43",
+    "year": 2010,
+    "value": 417700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL51",
+    "year": 2010,
+    "value": 909470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL52",
+    "year": 2010,
+    "value": 509060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL61",
+    "year": 2010,
+    "value": 1055670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL62",
+    "year": 2010,
+    "value": 1028820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL63",
+    "year": 2010,
+    "value": 731930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT",
+    "year": 2010,
+    "value": 3668150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT11",
+    "year": 2010,
+    "value": 644030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT15",
+    "year": 2010,
+    "value": 88300
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT16",
+    "year": 2010,
+    "value": 570000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT17",
+    "year": 2010,
+    "value": 87590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT18",
+    "year": 2010,
+    "value": 2152390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT20",
+    "year": 2010,
+    "value": 120410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT30",
+    "year": 2010,
+    "value": 5430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO",
+    "year": 2010,
+    "value": 13306130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO11",
+    "year": 2010,
+    "value": 1808350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO12",
+    "year": 2010,
+    "value": 1627290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO21",
+    "year": 2010,
+    "value": 1940160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO22",
+    "year": 2010,
+    "value": 2194370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO31",
+    "year": 2010,
+    "value": 2333680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO32",
+    "year": 2010,
+    "value": 62450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO41",
+    "year": 2010,
+    "value": 1608410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO42",
+    "year": 2010,
+    "value": 1731410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE",
+    "year": 2010,
+    "value": 3066320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE11",
+    "year": 2010,
+    "value": 94840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE12",
+    "year": 2010,
+    "value": 789860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE21",
+    "year": 2010,
+    "value": 502800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE22",
+    "year": 2010,
+    "value": 545800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE23",
+    "year": 2010,
+    "value": 655380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE31",
+    "year": 2010,
+    "value": 261230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE32",
+    "year": 2010,
+    "value": 106400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE33",
+    "year": 2010,
+    "value": 110000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI",
+    "year": 2010,
+    "value": 482650
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI01",
+    "year": 2010,
+    "value": 343520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI02",
+    "year": 2010,
+    "value": 139130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK",
+    "year": 2010,
+    "value": 1895500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK01",
+    "year": 2010,
+    "value": 75810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK02",
+    "year": 2010,
+    "value": 812180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK03",
+    "year": 2010,
+    "value": 466030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK04",
+    "year": 2010,
+    "value": 541480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UK",
+    "year": 2010,
+    "value": 16881690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC1",
+    "year": 2010,
+    "value": 205130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC2",
+    "year": 2010,
+    "value": 382920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD1",
+    "year": 2010,
+    "value": 554930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD3",
+    "year": 2010,
+    "value": 40720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD4",
+    "year": 2010,
+    "value": 210630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD6",
+    "year": 2010,
+    "value": 158500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD7",
+    "year": 2010,
+    "value": 17970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE1",
+    "year": 2010,
+    "value": 263640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE2",
+    "year": 2010,
+    "value": 674350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE3",
+    "year": 2010,
+    "value": 78930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE4",
+    "year": 2010,
+    "value": 101890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF1",
+    "year": 2010,
+    "value": 309770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF2",
+    "year": 2010,
+    "value": 357990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF3",
+    "year": 2010,
+    "value": 466680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG1",
+    "year": 2010,
+    "value": 421480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG2",
+    "year": 2010,
+    "value": 449120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG3",
+    "year": 2010,
+    "value": 14330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH1",
+    "year": 2010,
+    "value": 894570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH2",
+    "year": 2010,
+    "value": 169330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH3",
+    "year": 2010,
+    "value": 241880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI1",
+    "year": 2010,
+    "value": ""
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI2",
+    "year": 2010,
+    "value": 11270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ1",
+    "year": 2010,
+    "value": 354640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ2",
+    "year": 2010,
+    "value": 273590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ3",
+    "year": 2010,
+    "value": 231000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ4",
+    "year": 2010,
+    "value": 215050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK1",
+    "year": 2010,
+    "value": 516110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK2",
+    "year": 2010,
+    "value": 448790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK3",
+    "year": 2010,
+    "value": 260970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK4",
+    "year": 2010,
+    "value": 504410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL1",
+    "year": 2010,
+    "value": 990050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL2",
+    "year": 2010,
+    "value": 609600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM2",
+    "year": 2010,
+    "value": 1288230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM3",
+    "year": 2010,
+    "value": 813210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM5",
+    "year": 2010,
+    "value": 454640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM6",
+    "year": 2010,
+    "value": 2880860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKN0",
+    "year": 2010,
+    "value": 1013650
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT",
+    "year": 2007,
+    "value": 3189110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT11",
+    "year": 2007,
+    "value": 188430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT12",
+    "year": 2007,
+    "value": 918360
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT13",
+    "year": 2007,
+    "value": 7990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT21",
+    "year": 2007,
+    "value": 290370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT22",
+    "year": 2007,
+    "value": 457020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT31",
+    "year": 2007,
+    "value": 556720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT32",
+    "year": 2007,
+    "value": 236520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT33",
+    "year": 2007,
+    "value": 435380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT34",
+    "year": 2007,
+    "value": 98330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE",
+    "year": 2007,
+    "value": 1374430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE10",
+    "year": 2007,
+    "value": 310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE21",
+    "year": 2007,
+    "value": 89880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE22",
+    "year": 2007,
+    "value": 84590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE23",
+    "year": 2007,
+    "value": 151550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE24",
+    "year": 2007,
+    "value": 87680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE25",
+    "year": 2007,
+    "value": 210100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE31",
+    "year": 2007,
+    "value": 64690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE32",
+    "year": 2007,
+    "value": 219070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE33",
+    "year": 2007,
+    "value": 159820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE34",
+    "year": 2007,
+    "value": 146200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE35",
+    "year": 2007,
+    "value": 160560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG",
+    "year": 2007,
+    "value": 3050740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG31",
+    "year": 2007,
+    "value": 614290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG32",
+    "year": 2007,
+    "value": 661130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG33",
+    "year": 2007,
+    "value": 655260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG34",
+    "year": 2007,
+    "value": 561280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG41",
+    "year": 2007,
+    "value": 193350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG42",
+    "year": 2007,
+    "value": 365420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH",
+    "year": 2007,
+    "value": 1056700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH01",
+    "year": 2007,
+    "value": 158500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH02",
+    "year": 2007,
+    "value": 372930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH03",
+    "year": 2007,
+    "value": 83800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH04",
+    "year": 2007,
+    "value": 74180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH05",
+    "year": 2007,
+    "value": 218960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH06",
+    "year": 2007,
+    "value": 134330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH07",
+    "year": 2007,
+    "value": 13990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY",
+    "year": 2007,
+    "value": 146000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY00",
+    "year": 2007,
+    "value": 146000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ",
+    "year": 2007,
+    "value": 3518070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ01",
+    "year": 2007,
+    "value": 32140
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ02",
+    "year": 2007,
+    "value": 547530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ03",
+    "year": 2007,
+    "value": 734840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ04",
+    "year": 2007,
+    "value": 309750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ05",
+    "year": 2007,
+    "value": 554610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ06",
+    "year": 2007,
+    "value": 735350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ07",
+    "year": 2007,
+    "value": 393040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ08",
+    "year": 2007,
+    "value": 210810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE",
+    "year": 2007,
+    "value": 16931900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE1",
+    "year": 2007,
+    "value": 1436690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE2",
+    "year": 2007,
+    "value": 3211950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE3",
+    "year": 2007,
+    "value": 2250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE3_5_6",
+    "year": 2007,
+    "value": 24760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE4",
+    "year": 2007,
+    "value": 1334630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE5",
+    "year": 2007,
+    "value": 8470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE6",
+    "year": 2007,
+    "value": 14030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE7",
+    "year": 2007,
+    "value": 778040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE8",
+    "year": 2007,
+    "value": 1348800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE9",
+    "year": 2007,
+    "value": 2620130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEA",
+    "year": 2007,
+    "value": 1508960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEB",
+    "year": 2007,
+    "value": 716860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEC",
+    "year": 2007,
+    "value": 76540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DED",
+    "year": 2007,
+    "value": 917200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEE",
+    "year": 2007,
+    "value": 1172920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEF",
+    "year": 2007,
+    "value": 990720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEG",
+    "year": 2007,
+    "value": 793710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK",
+    "year": 2007,
+    "value": 2662590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK01",
+    "year": 2007,
+    "value": 98570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK02",
+    "year": 2007,
+    "value": 480810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK03",
+    "year": 2007,
+    "value": 792320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK04",
+    "year": 2007,
+    "value": 801190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK05",
+    "year": 2007,
+    "value": 489700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE",
+    "year": 2007,
+    "value": 906830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE00",
+    "year": 2007,
+    "value": 906830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL",
+    "year": 2007,
+    "value": 4076230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL11",
+    "year": 2007,
+    "value": 408870
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL12",
+    "year": 2007,
+    "value": 732960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL13",
+    "year": 2007,
+    "value": 261050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL14",
+    "year": 2007,
+    "value": 456300
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL21",
+    "year": 2007,
+    "value": 143600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL22",
+    "year": 2007,
+    "value": 94230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL23",
+    "year": 2007,
+    "value": 370580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL24",
+    "year": 2007,
+    "value": 377180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL25",
+    "year": 2007,
+    "value": 409670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL30",
+    "year": 2007,
+    "value": 51260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL41",
+    "year": 2007,
+    "value": 200120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL42",
+    "year": 2007,
+    "value": 120990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL43",
+    "year": 2007,
+    "value": 449410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES",
+    "year": 2007,
+    "value": 24892520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES11",
+    "year": 2007,
+    "value": 748660
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES12",
+    "year": 2007,
+    "value": 385060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES13",
+    "year": 2007,
+    "value": 285730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES21",
+    "year": 2007,
+    "value": 242780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES22",
+    "year": 2007,
+    "value": 588350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES23",
+    "year": 2007,
+    "value": 244760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES24",
+    "year": 2007,
+    "value": 2398270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES30",
+    "year": 2007,
+    "value": 343190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES41",
+    "year": 2007,
+    "value": 5471310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES42",
+    "year": 2007,
+    "value": 4468990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES43",
+    "year": 2007,
+    "value": 2700730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES51",
+    "year": 2007,
+    "value": 1166540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES52",
+    "year": 2007,
+    "value": 686570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES53",
+    "year": 2007,
+    "value": 194260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES61",
+    "year": 2007,
+    "value": 4508820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES62",
+    "year": 2007,
+    "value": 400220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES63",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES64",
+    "year": 2007,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES70",
+    "year": 2007,
+    "value": 58240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI",
+    "year": 2007,
+    "value": 2292290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI13",
+    "year": 2007,
+    "value": 339500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI18",
+    "year": 2007,
+    "value": 813740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI19",
+    "year": 2007,
+    "value": 793230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1A",
+    "year": 2007,
+    "value": 325880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1B",
+    "year": 2007,
+    "value": 186810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1C",
+    "year": 2007,
+    "value": 626930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1D",
+    "year": 2007,
+    "value": 665380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI20",
+    "year": 2007,
+    "value": 19930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR",
+    "year": 2007,
+    "value": 27476930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR10",
+    "year": 2007,
+    "value": 562470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR21",
+    "year": 2007,
+    "value": 1569030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR22",
+    "year": 2007,
+    "value": 1318030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR23",
+    "year": 2007,
+    "value": 787990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR24",
+    "year": 2007,
+    "value": 2296180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR25",
+    "year": 2007,
+    "value": 1224990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR26",
+    "year": 2007,
+    "value": 1758210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR30",
+    "year": 2007,
+    "value": 818700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR41",
+    "year": 2007,
+    "value": 1128060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR42",
+    "year": 2007,
+    "value": 332540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR43",
+    "year": 2007,
+    "value": 663440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR51",
+    "year": 2007,
+    "value": 2174460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR52",
+    "year": 2007,
+    "value": 1658100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR53",
+    "year": 2007,
+    "value": 1722340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR61",
+    "year": 2007,
+    "value": 1411170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR62",
+    "year": 2007,
+    "value": 2343860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR63",
+    "year": 2007,
+    "value": 856230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR71",
+    "year": 2007,
+    "value": 1482890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR72",
+    "year": 2007,
+    "value": 1499120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR81",
+    "year": 2007,
+    "value": 942970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR82",
+    "year": 2007,
+    "value": 656020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR83",
+    "year": 2007,
+    "value": 149030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR91",
+    "year": 2007,
+    "value": 34790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR92",
+    "year": 2007,
+    "value": 25330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR93",
+    "year": 2007,
+    "value": 16940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR94",
+    "year": 2007,
+    "value": 44030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR",
+    "year": 2007,
+    "value": 978670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR03",
+    "year": 2007,
+    "value": 114720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HR04",
+    "year": 2007,
+    "value": 863960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU",
+    "year": 2007,
+    "value": 4228580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU10",
+    "year": 2007,
+    "value": 303010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU21",
+    "year": 2007,
+    "value": 491960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU22",
+    "year": 2007,
+    "value": 472210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU23",
+    "year": 2007,
+    "value": 623570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU31",
+    "year": 2007,
+    "value": 433590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU32",
+    "year": 2007,
+    "value": 946620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU33",
+    "year": 2007,
+    "value": 957620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE",
+    "year": 2007,
+    "value": 4139240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE01",
+    "year": 2007,
+    "value": 1819440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE02",
+    "year": 2007,
+    "value": 2319800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IT",
+    "year": 2007,
+    "value": 12744200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC1",
+    "year": 2007,
+    "value": 1040180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC2",
+    "year": 2007,
+    "value": 67880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC3",
+    "year": 2007,
+    "value": 49410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC4",
+    "year": 2007,
+    "value": 995320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD1",
+    "year": 2007,
+    "value": 258010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD2",
+    "year": 2007,
+    "value": 141130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD3",
+    "year": 2007,
+    "value": 820200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD4",
+    "year": 2007,
+    "value": 228060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD5",
+    "year": 2007,
+    "value": 1052590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE1",
+    "year": 2007,
+    "value": 806430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE2",
+    "year": 2007,
+    "value": 339400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE3",
+    "year": 2007,
+    "value": 496420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE4",
+    "year": 2007,
+    "value": 674010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF1",
+    "year": 2007,
+    "value": 434010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF2",
+    "year": 2007,
+    "value": 200260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF3",
+    "year": 2007,
+    "value": 562880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF4",
+    "year": 2007,
+    "value": 1197380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF5",
+    "year": 2007,
+    "value": 542260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF6",
+    "year": 2007,
+    "value": 514050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG1",
+    "year": 2007,
+    "value": 1251850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG2",
+    "year": 2007,
+    "value": 1072470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH1",
+    "year": 2007,
+    "value": 258010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH2",
+    "year": 2007,
+    "value": 141130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH3",
+    "year": 2007,
+    "value": 820200
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH4",
+    "year": 2007,
+    "value": 228060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITH5",
+    "year": 2007,
+    "value": 1065170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI1",
+    "year": 2007,
+    "value": 806430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI2",
+    "year": 2007,
+    "value": 339400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI3",
+    "year": 2007,
+    "value": 483830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITI4",
+    "year": 2007,
+    "value": 674010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT",
+    "year": 2007,
+    "value": 2648950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT00",
+    "year": 2007,
+    "value": 2648950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU",
+    "year": 2007,
+    "value": 130880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU00",
+    "year": 2007,
+    "value": 130880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV",
+    "year": 2007,
+    "value": 1773840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV00",
+    "year": 2007,
+    "value": 1773840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT",
+    "year": 2007,
+    "value": 10330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT00",
+    "year": 2007,
+    "value": 10330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL",
+    "year": 2007,
+    "value": 1914330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL11",
+    "year": 2007,
+    "value": 162180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL12",
+    "year": 2007,
+    "value": 234180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL13",
+    "year": 2007,
+    "value": 152170
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL21",
+    "year": 2007,
+    "value": 209660
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL22",
+    "year": 2007,
+    "value": 242940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL23",
+    "year": 2007,
+    "value": 90820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL31",
+    "year": 2007,
+    "value": 69950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL32",
+    "year": 2007,
+    "value": 132160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL33",
+    "year": 2007,
+    "value": 140880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL34",
+    "year": 2007,
+    "value": 120020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL41",
+    "year": 2007,
+    "value": 256850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL42",
+    "year": 2007,
+    "value": 102510
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO",
+    "year": 2007,
+    "value": 1031990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO01",
+    "year": 2007,
+    "value": 79620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO02",
+    "year": 2007,
+    "value": 212190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO03",
+    "year": 2007,
+    "value": 196940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO04",
+    "year": 2007,
+    "value": 132180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO05",
+    "year": 2007,
+    "value": 147940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO06",
+    "year": 2007,
+    "value": 165910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO07",
+    "year": 2007,
+    "value": 97210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL",
+    "year": 2007,
+    "value": 15477190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL11",
+    "year": 2007,
+    "value": 1075090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL12",
+    "year": 2007,
+    "value": 2029600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL21",
+    "year": 2007,
+    "value": 661730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL22",
+    "year": 2007,
+    "value": 404260
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL31",
+    "year": 2007,
+    "value": 1530840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL32",
+    "year": 2007,
+    "value": 712630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL33",
+    "year": 2007,
+    "value": 558980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL34",
+    "year": 2007,
+    "value": 1093270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL41",
+    "year": 2007,
+    "value": 1746110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL42",
+    "year": 2007,
+    "value": 916010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL43",
+    "year": 2007,
+    "value": 457290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL51",
+    "year": 2007,
+    "value": 1007900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL52",
+    "year": 2007,
+    "value": 552730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL61",
+    "year": 2007,
+    "value": 1031090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL62",
+    "year": 2007,
+    "value": 966100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL63",
+    "year": 2007,
+    "value": 733560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT",
+    "year": 2007,
+    "value": 3472940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT11",
+    "year": 2007,
+    "value": 694990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT15",
+    "year": 2007,
+    "value": 102760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT16",
+    "year": 2007,
+    "value": 584290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT17",
+    "year": 2007,
+    "value": 81900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT18",
+    "year": 2007,
+    "value": 1893090
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT20",
+    "year": 2007,
+    "value": 112050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT30",
+    "year": 2007,
+    "value": 3860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO",
+    "year": 2007,
+    "value": 13753050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO11",
+    "year": 2007,
+    "value": 1962060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO12",
+    "year": 2007,
+    "value": 1762930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO21",
+    "year": 2007,
+    "value": 2087970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO22",
+    "year": 2007,
+    "value": 2187990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO31",
+    "year": 2007,
+    "value": 2255530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO32",
+    "year": 2007,
+    "value": 187700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO41",
+    "year": 2007,
+    "value": 1629490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO42",
+    "year": 2007,
+    "value": 1679380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE",
+    "year": 2007,
+    "value": 3118000
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE11",
+    "year": 2007,
+    "value": 97470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE12",
+    "year": 2007,
+    "value": 802040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE21",
+    "year": 2007,
+    "value": 518400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE22",
+    "year": 2007,
+    "value": 551140
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE23",
+    "year": 2007,
+    "value": 660860
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE31",
+    "year": 2007,
+    "value": 266950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE32",
+    "year": 2007,
+    "value": 110100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE33",
+    "year": 2007,
+    "value": 111050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI",
+    "year": 2007,
+    "value": 488770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI01",
+    "year": 2007,
+    "value": 340010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI02",
+    "year": 2007,
+    "value": 148760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK",
+    "year": 2007,
+    "value": 1936620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK01",
+    "year": 2007,
+    "value": 72990
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK02",
+    "year": 2007,
+    "value": 834950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK03",
+    "year": 2007,
+    "value": 480710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK04",
+    "year": 2007,
+    "value": 547970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UK",
+    "year": 2007,
+    "value": 16043160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC1",
+    "year": 2007,
+    "value": 179840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC2",
+    "year": 2007,
+    "value": 379690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD1",
+    "year": 2007,
+    "value": 449290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD2",
+    "year": 2007,
+    "value": 164600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD3",
+    "year": 2007,
+    "value": 36970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD4",
+    "year": 2007,
+    "value": 216020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD5",
+    "year": 2007,
+    "value": 16950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD6",
+    "year": 2007,
+    "value": 162740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD7",
+    "year": 2007,
+    "value": 18810
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE1",
+    "year": 2007,
+    "value": 267770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE2",
+    "year": 2007,
+    "value": 604250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE3",
+    "year": 2007,
+    "value": 77640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE4",
+    "year": 2007,
+    "value": 93420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF1",
+    "year": 2007,
+    "value": 317710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF2",
+    "year": 2007,
+    "value": 366470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF3",
+    "year": 2007,
+    "value": 488500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG1",
+    "year": 2007,
+    "value": 429680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG2",
+    "year": 2007,
+    "value": 460580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG3",
+    "year": 2007,
+    "value": 14300
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH1",
+    "year": 2007,
+    "value": 911600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH2",
+    "year": 2007,
+    "value": 168730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH3",
+    "year": 2007,
+    "value": 237450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI1",
+    "year": 2007,
+    "value": 180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI2",
+    "year": 2007,
+    "value": 11240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ1",
+    "year": 2007,
+    "value": 356870
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ2",
+    "year": 2007,
+    "value": 269670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ3",
+    "year": 2007,
+    "value": 215120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ4",
+    "year": 2007,
+    "value": 221180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK1",
+    "year": 2007,
+    "value": 525370
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK2",
+    "year": 2007,
+    "value": 461760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK3",
+    "year": 2007,
+    "value": 265190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK4",
+    "year": 2007,
+    "value": 487180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL1",
+    "year": 2007,
+    "value": 861380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL2",
+    "year": 2007,
+    "value": 511520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM2",
+    "year": 2007,
+    "value": 1297730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM3",
+    "year": 2007,
+    "value": 774750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM5",
+    "year": 2007,
+    "value": 465710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM6",
+    "year": 2007,
+    "value": 2429970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKN0",
+    "year": 2007,
+    "value": 1006890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT",
+    "year": 2005,
+    "value": 3266240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT11",
+    "year": 2005,
+    "value": 189100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT12",
+    "year": 2005,
+    "value": 940940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT13",
+    "year": 2005,
+    "value": 8390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT21",
+    "year": 2005,
+    "value": 305960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT22",
+    "year": 2005,
+    "value": 463930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT31",
+    "year": 2005,
+    "value": 565070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT32",
+    "year": 2005,
+    "value": 267040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT33",
+    "year": 2005,
+    "value": 419070
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "AT34",
+    "year": 2005,
+    "value": 106750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE",
+    "year": 2005,
+    "value": 1385580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE10",
+    "year": 2005,
+    "value": 350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE21",
+    "year": 2005,
+    "value": 90530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE22",
+    "year": 2005,
+    "value": 85520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE23",
+    "year": 2005,
+    "value": 153110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE24",
+    "year": 2005,
+    "value": 88050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE25",
+    "year": 2005,
+    "value": 212480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE31",
+    "year": 2005,
+    "value": 63460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE32",
+    "year": 2005,
+    "value": 220600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE33",
+    "year": 2005,
+    "value": 159190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE34",
+    "year": 2005,
+    "value": 147460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BE35",
+    "year": 2005,
+    "value": 164830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG",
+    "year": 2005,
+    "value": 2729390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG31",
+    "year": 2005,
+    "value": 535420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG32",
+    "year": 2005,
+    "value": 576710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG33",
+    "year": 2005,
+    "value": 640460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG34",
+    "year": 2005,
+    "value": 537710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG41",
+    "year": 2005,
+    "value": 138270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "BG42",
+    "year": 2005,
+    "value": 300820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH",
+    "year": 2005,
+    "value": 1061670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH01",
+    "year": 2005,
+    "value": 160110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH02",
+    "year": 2005,
+    "value": 374060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH03",
+    "year": 2005,
+    "value": 83650
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH04",
+    "year": 2005,
+    "value": 74600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH05",
+    "year": 2005,
+    "value": 220220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH06",
+    "year": 2005,
+    "value": 135180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CH07",
+    "year": 2005,
+    "value": 13850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY",
+    "year": 2005,
+    "value": 151500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CY00",
+    "year": 2005,
+    "value": 151500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ",
+    "year": 2005,
+    "value": 3557790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ01",
+    "year": 2005,
+    "value": 34310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ02",
+    "year": 2005,
+    "value": 549880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ03",
+    "year": 2005,
+    "value": 750270
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ04",
+    "year": 2005,
+    "value": 312670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ05",
+    "year": 2005,
+    "value": 558760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ06",
+    "year": 2005,
+    "value": 740060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ07",
+    "year": 2005,
+    "value": 392350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "CZ08",
+    "year": 2005,
+    "value": 219470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE",
+    "year": 2005,
+    "value": 17035220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE1",
+    "year": 2005,
+    "value": 1446650
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE2",
+    "year": 2005,
+    "value": 3264730
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE3_5_6",
+    "year": 2005,
+    "value": 24790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE4",
+    "year": 2005,
+    "value": 1346820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE7",
+    "year": 2005,
+    "value": 769080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE8",
+    "year": 2005,
+    "value": 1349210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DE9",
+    "year": 2005,
+    "value": 2626470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEA",
+    "year": 2005,
+    "value": 1523750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEB",
+    "year": 2005,
+    "value": 713760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEC",
+    "year": 2005,
+    "value": 77450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DED",
+    "year": 2005,
+    "value": 912520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEE",
+    "year": 2005,
+    "value": 1171970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEF",
+    "year": 2005,
+    "value": 1008600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DEG",
+    "year": 2005,
+    "value": 799440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK",
+    "year": 2005,
+    "value": 2707690
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK01",
+    "year": 2005,
+    "value": 101700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK02",
+    "year": 2005,
+    "value": 491480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK03",
+    "year": 2005,
+    "value": 809400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK04",
+    "year": 2005,
+    "value": 821610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "DK05",
+    "year": 2005,
+    "value": 483500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE",
+    "year": 2005,
+    "value": 828930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EE00",
+    "year": 2005,
+    "value": 828930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL",
+    "year": 2005,
+    "value": 3983790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL11",
+    "year": 2005,
+    "value": 397880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL12",
+    "year": 2005,
+    "value": 701280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL13",
+    "year": 2005,
+    "value": 233450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL14",
+    "year": 2005,
+    "value": 440290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL21",
+    "year": 2005,
+    "value": 123380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL22",
+    "year": 2005,
+    "value": 95920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL23",
+    "year": 2005,
+    "value": 371580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL24",
+    "year": 2005,
+    "value": 387110
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL25",
+    "year": 2005,
+    "value": 402400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL30",
+    "year": 2005,
+    "value": 57290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL41",
+    "year": 2005,
+    "value": 192290
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL42",
+    "year": 2005,
+    "value": 128440
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "EL43",
+    "year": 2005,
+    "value": 452490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES",
+    "year": 2005,
+    "value": 24855130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES11",
+    "year": 2005,
+    "value": 732760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES12",
+    "year": 2005,
+    "value": 393150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES13",
+    "year": 2005,
+    "value": 282680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES21",
+    "year": 2005,
+    "value": 239780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES22",
+    "year": 2005,
+    "value": 588750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES23",
+    "year": 2005,
+    "value": 242230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES24",
+    "year": 2005,
+    "value": 2382550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES30",
+    "year": 2005,
+    "value": 344740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES41",
+    "year": 2005,
+    "value": 5449900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES42",
+    "year": 2005,
+    "value": 4403180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES43",
+    "year": 2005,
+    "value": 2769380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES51",
+    "year": 2005,
+    "value": 1162230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES52",
+    "year": 2005,
+    "value": 697800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES53",
+    "year": 2005,
+    "value": 206020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES61",
+    "year": 2005,
+    "value": 4502640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES62",
+    "year": 2005,
+    "value": 397150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES63",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES64",
+    "year": 2005,
+    "value": 0
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ES70",
+    "year": 2005,
+    "value": 60160
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI",
+    "year": 2005,
+    "value": 2263560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI13",
+    "year": 2005,
+    "value": 336450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI18",
+    "year": 2005,
+    "value": 811300
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI19",
+    "year": 2005,
+    "value": 784460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI1A",
+    "year": 2005,
+    "value": 316710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FI20",
+    "year": 2005,
+    "value": 14640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR",
+    "year": 2005,
+    "value": 27590940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR10",
+    "year": 2005,
+    "value": 568190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR21",
+    "year": 2005,
+    "value": 1560770
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR22",
+    "year": 2005,
+    "value": 1314080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR23",
+    "year": 2005,
+    "value": 786980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR24",
+    "year": 2005,
+    "value": 2322590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR25",
+    "year": 2005,
+    "value": 1228140
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR26",
+    "year": 2005,
+    "value": 1764150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR30",
+    "year": 2005,
+    "value": 818930
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR41",
+    "year": 2005,
+    "value": 1127600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR42",
+    "year": 2005,
+    "value": 330020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR43",
+    "year": 2005,
+    "value": 662360
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR51",
+    "year": 2005,
+    "value": 2168740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR52",
+    "year": 2005,
+    "value": 1668240
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR53",
+    "year": 2005,
+    "value": 1743320
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR61",
+    "year": 2005,
+    "value": 1429360
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR62",
+    "year": 2005,
+    "value": 2340250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR63",
+    "year": 2005,
+    "value": 855500
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR71",
+    "year": 2005,
+    "value": 1497220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR72",
+    "year": 2005,
+    "value": 1496120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR81",
+    "year": 2005,
+    "value": 958640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR82",
+    "year": 2005,
+    "value": 670820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR83",
+    "year": 2005,
+    "value": 157680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR91",
+    "year": 2005,
+    "value": 35530
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR92",
+    "year": 2005,
+    "value": 26030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR93",
+    "year": 2005,
+    "value": 16050
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "FR94",
+    "year": 2005,
+    "value": 43640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU",
+    "year": 2005,
+    "value": 4266550
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU10",
+    "year": 2005,
+    "value": 296670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU21",
+    "year": 2005,
+    "value": 471580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU22",
+    "year": 2005,
+    "value": 514020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU23",
+    "year": 2005,
+    "value": 610210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU31",
+    "year": 2005,
+    "value": 438280
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU32",
+    "year": 2005,
+    "value": 926470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "HU33",
+    "year": 2005,
+    "value": 1009310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE",
+    "year": 2005,
+    "value": 4219380
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE01",
+    "year": 2005,
+    "value": 1868950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IE02",
+    "year": 2005,
+    "value": 2350430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "IT",
+    "year": 2005,
+    "value": 12707850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC1",
+    "year": 2005,
+    "value": 1029190
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC2",
+    "year": 2005,
+    "value": 68390
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC3",
+    "year": 2005,
+    "value": 49080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITC4",
+    "year": 2005,
+    "value": 978670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD1",
+    "year": 2005,
+    "value": 255670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD2",
+    "year": 2005,
+    "value": 145410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD3",
+    "year": 2005,
+    "value": 797570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD4",
+    "year": 2005,
+    "value": 224520
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITD5",
+    "year": 2005,
+    "value": 1029920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE1",
+    "year": 2005,
+    "value": 809490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE2",
+    "year": 2005,
+    "value": 337920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE3",
+    "year": 2005,
+    "value": 497140
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITE4",
+    "year": 2005,
+    "value": 684940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF1",
+    "year": 2005,
+    "value": 425180
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF2",
+    "year": 2005,
+    "value": 212610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF3",
+    "year": 2005,
+    "value": 563670
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF4",
+    "year": 2005,
+    "value": 1216920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF5",
+    "year": 2005,
+    "value": 553590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITF6",
+    "year": 2005,
+    "value": 514340
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG1",
+    "year": 2005,
+    "value": 1250700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "ITG2",
+    "year": 2005,
+    "value": 1062940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT",
+    "year": 2005,
+    "value": 2792040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LT00",
+    "year": 2005,
+    "value": 2792040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU",
+    "year": 2005,
+    "value": 129130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LU00",
+    "year": 2005,
+    "value": 129130
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV",
+    "year": 2005,
+    "value": 1701680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "LV00",
+    "year": 2005,
+    "value": 1701680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT",
+    "year": 2005,
+    "value": 10250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "MT00",
+    "year": 2005,
+    "value": 10250
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL",
+    "year": 2005,
+    "value": 1958060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL11",
+    "year": 2005,
+    "value": 167150
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL12",
+    "year": 2005,
+    "value": 239310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL13",
+    "year": 2005,
+    "value": 157450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL21",
+    "year": 2005,
+    "value": 214020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL22",
+    "year": 2005,
+    "value": 246330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL23",
+    "year": 2005,
+    "value": 91360
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL31",
+    "year": 2005,
+    "value": 70570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL32",
+    "year": 2005,
+    "value": 137880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL33",
+    "year": 2005,
+    "value": 143120
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL34",
+    "year": 2005,
+    "value": 121700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL41",
+    "year": 2005,
+    "value": 263540
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NL42",
+    "year": 2005,
+    "value": 105620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO",
+    "year": 2005,
+    "value": 1035400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO01",
+    "year": 2005,
+    "value": 80230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO02",
+    "year": 2005,
+    "value": 212480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO03",
+    "year": 2005,
+    "value": 197850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO04",
+    "year": 2005,
+    "value": 131640
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO05",
+    "year": 2005,
+    "value": 149780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO06",
+    "year": 2005,
+    "value": 167060
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "NO07",
+    "year": 2005,
+    "value": 96350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL",
+    "year": 2005,
+    "value": 14754880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL11",
+    "year": 2005,
+    "value": 1031900
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL12",
+    "year": 2005,
+    "value": 1952310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL21",
+    "year": 2005,
+    "value": 648480
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL22",
+    "year": 2005,
+    "value": 413830
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL31",
+    "year": 2005,
+    "value": 1437660
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL32",
+    "year": 2005,
+    "value": 650750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL33",
+    "year": 2005,
+    "value": 525610
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL34",
+    "year": 2005,
+    "value": 1058310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL41",
+    "year": 2005,
+    "value": 1695740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL42",
+    "year": 2005,
+    "value": 861450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL43",
+    "year": 2005,
+    "value": 414680
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL51",
+    "year": 2005,
+    "value": 905720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL52",
+    "year": 2005,
+    "value": 506880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL61",
+    "year": 2005,
+    "value": 1019310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL62",
+    "year": 2005,
+    "value": 933850
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PL63",
+    "year": 2005,
+    "value": 698400
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT",
+    "year": 2005,
+    "value": 3679590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT11",
+    "year": 2005,
+    "value": 705790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT15",
+    "year": 2005,
+    "value": 106230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT16",
+    "year": 2005,
+    "value": 658040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT17",
+    "year": 2005,
+    "value": 102590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT18",
+    "year": 2005,
+    "value": 1979700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT20",
+    "year": 2005,
+    "value": 122780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "PT30",
+    "year": 2005,
+    "value": 4460
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO",
+    "year": 2005,
+    "value": 13906700
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO11",
+    "year": 2005,
+    "value": 1941420
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO12",
+    "year": 2005,
+    "value": 1743230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO21",
+    "year": 2005,
+    "value": 2032950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO22",
+    "year": 2005,
+    "value": 2151210
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO31",
+    "year": 2005,
+    "value": 2325760
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO32",
+    "year": 2005,
+    "value": 177820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO41",
+    "year": 2005,
+    "value": 1782600
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "RO42",
+    "year": 2005,
+    "value": 1751710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE",
+    "year": 2005,
+    "value": 3192450
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE11",
+    "year": 2005,
+    "value": 100580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE12",
+    "year": 2005,
+    "value": 821780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE21",
+    "year": 2005,
+    "value": 529820
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE22",
+    "year": 2005,
+    "value": 558780
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE23",
+    "year": 2005,
+    "value": 675620
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE31",
+    "year": 2005,
+    "value": 275020
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE32",
+    "year": 2005,
+    "value": 114800
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SE33",
+    "year": 2005,
+    "value": 116040
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI",
+    "year": 2005,
+    "value": 485430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI01",
+    "year": 2005,
+    "value": 343960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SI02",
+    "year": 2005,
+    "value": 141470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK",
+    "year": 2005,
+    "value": 1879490
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK01",
+    "year": 2005,
+    "value": 77410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK02",
+    "year": 2005,
+    "value": 805560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK03",
+    "year": 2005,
+    "value": 460410
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "SK04",
+    "year": 2005,
+    "value": 536100
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UK",
+    "year": 2005,
+    "value": 15956960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC1",
+    "year": 2005,
+    "value": 179590
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKC2",
+    "year": 2005,
+    "value": 377870
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD1",
+    "year": 2005,
+    "value": 449880
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD2",
+    "year": 2005,
+    "value": 160920
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD3",
+    "year": 2005,
+    "value": 38570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD4",
+    "year": 2005,
+    "value": 213350
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKD5",
+    "year": 2005,
+    "value": 16570
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE1",
+    "year": 2005,
+    "value": 270960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE2",
+    "year": 2005,
+    "value": 609740
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE3",
+    "year": 2005,
+    "value": 83560
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKE4",
+    "year": 2005,
+    "value": 94940
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF1",
+    "year": 2005,
+    "value": 315840
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF2",
+    "year": 2005,
+    "value": 361750
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKF3",
+    "year": 2005,
+    "value": 489970
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG1",
+    "year": 2005,
+    "value": 429980
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG2",
+    "year": 2005,
+    "value": 459230
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKG3",
+    "year": 2005,
+    "value": 14220
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH1",
+    "year": 2005,
+    "value": 935720
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH2",
+    "year": 2005,
+    "value": 176080
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKH3",
+    "year": 2005,
+    "value": 240710
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI1",
+    "year": 2005,
+    "value": 90
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKI2",
+    "year": 2005,
+    "value": 10790
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ1",
+    "year": 2005,
+    "value": 356580
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ2",
+    "year": 2005,
+    "value": 265630
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ3",
+    "year": 2005,
+    "value": 213010
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKJ4",
+    "year": 2005,
+    "value": 220910
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK1",
+    "year": 2005,
+    "value": 521960
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK2",
+    "year": 2005,
+    "value": 453310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK3",
+    "year": 2005,
+    "value": 269890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKK4",
+    "year": 2005,
+    "value": 485330
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL1",
+    "year": 2005,
+    "value": 873310
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKL2",
+    "year": 2005,
+    "value": 515470
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM2",
+    "year": 2005,
+    "value": 1255430
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM3",
+    "year": 2005,
+    "value": 770950
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM5",
+    "year": 2005,
+    "value": 450030
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKM6",
+    "year": 2005,
+    "value": 2360890
+  },
+  {
+    "indic_ef": "AGRAREA_HA",
+    "agrarea": "TOTAL",
+    "country": "UKN0",
+    "year": 2005,
+    "value": 1013960
+  }
+]

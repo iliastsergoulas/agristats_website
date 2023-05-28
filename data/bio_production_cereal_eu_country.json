@@ -1,0 +1,863 @@
+[
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BE",
+    "year": 2017,
+    "value": 43500
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BG",
+    "year": 2017,
+    "value": 16152
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CY",
+    "year": 2017,
+    "value": 718
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CZ",
+    "year": 2017,
+    "value": 70209
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EE",
+    "year": 2017,
+    "value": 60147
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EL",
+    "year": 2017,
+    "value": 113773
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "ES",
+    "year": 2017,
+    "value": 206309
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "FI",
+    "year": 2017,
+    "value": 90800
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HR",
+    "year": 2017,
+    "value": 45292
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HU",
+    "year": 2017,
+    "value": 69616
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LT",
+    "year": 2017,
+    "value": 172934
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LU",
+    "year": 2017,
+    "value": 3050
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LV",
+    "year": 2017,
+    "value": 68115
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "MT",
+    "year": 2017,
+    "value": 2
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "NL",
+    "year": 2017,
+    "value": 12746
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "PL",
+    "year": 2017,
+    "value": 175963
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RS",
+    "year": 2017,
+    "value": 19914
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SE",
+    "year": 2017,
+    "value": 323200
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SK",
+    "year": 2017,
+    "value": 44963
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "UK",
+    "year": 2017,
+    "value": 104348
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BE",
+    "year": 2016,
+    "value": 32001
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BG",
+    "year": 2016,
+    "value": 5943
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CY",
+    "year": 2016,
+    "value": 183
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CZ",
+    "year": 2016,
+    "value": 64898
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EE",
+    "year": 2016,
+    "value": 45867
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EL",
+    "year": 2016,
+    "value": 113685
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "ES",
+    "year": 2016,
+    "value": 163834
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "FI",
+    "year": 2016,
+    "value": 74600
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HR",
+    "year": 2016,
+    "value": 47524
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HU",
+    "year": 2016,
+    "value": 64297
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "IE",
+    "year": 2016,
+    "value": 4368
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "IT",
+    "year": 2016,
+    "value": 800385
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LT",
+    "year": 2016,
+    "value": 121986
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LU",
+    "year": 2016,
+    "value": 1943
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LV",
+    "year": 2016,
+    "value": 58074
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "MT",
+    "year": 2016,
+    "value": 0
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "NL",
+    "year": 2016,
+    "value": 16198
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "PL",
+    "year": 2016,
+    "value": 151311
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RO",
+    "year": 2016,
+    "value": 218318
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RS",
+    "year": 2016,
+    "value": 8373
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SE",
+    "year": 2016,
+    "value": 280000
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SI",
+    "year": 2016,
+    "value": 4725
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SK",
+    "year": 2016,
+    "value": 48558
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "TR",
+    "year": 2016,
+    "value": 363513
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "UK",
+    "year": 2016,
+    "value": 136394
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BG",
+    "year": 2015,
+    "value": 5619
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CY",
+    "year": 2015,
+    "value": 596
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CZ",
+    "year": 2015,
+    "value": 65846
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EE",
+    "year": 2015,
+    "value": 47858
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EL",
+    "year": 2015,
+    "value": 97565
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "ES",
+    "year": 2015,
+    "value": 179616
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "FI",
+    "year": 2015,
+    "value": 82900
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HR",
+    "year": 2015,
+    "value": 31066
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HU",
+    "year": 2015,
+    "value": 57625
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "IE",
+    "year": 2015,
+    "value": 5111
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "IT",
+    "year": 2015,
+    "value": 519897
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LT",
+    "year": 2015,
+    "value": 123320
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LU",
+    "year": 2015,
+    "value": 2788
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LV",
+    "year": 2015,
+    "value": 56986
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "MT",
+    "year": 2015,
+    "value": 5
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "NL",
+    "year": 2015,
+    "value": 20157
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "PL",
+    "year": 2015,
+    "value": 135237
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RO",
+    "year": 2015,
+    "value": 254867
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RS",
+    "year": 2015,
+    "value": 17582
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SE",
+    "year": 2015,
+    "value": 271200
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SI",
+    "year": 2015,
+    "value": 3386
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SK",
+    "year": 2015,
+    "value": 41791
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "TR",
+    "year": 2015,
+    "value": 328632
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "UK",
+    "year": 2015,
+    "value": 131483
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BG",
+    "year": 2014,
+    "value": 7671
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CY",
+    "year": 2014,
+    "value": 234
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CZ",
+    "year": 2014,
+    "value": 63888
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EE",
+    "year": 2014,
+    "value": 37271
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EL",
+    "year": 2014,
+    "value": 101051
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "ES",
+    "year": 2014,
+    "value": 177670
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "FI",
+    "year": 2014,
+    "value": 78200
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HR",
+    "year": 2014,
+    "value": 15375
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HU",
+    "year": 2014,
+    "value": 66737
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "IT",
+    "year": 2014,
+    "value": 443008
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LT",
+    "year": 2014,
+    "value": 101408
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LU",
+    "year": 2014,
+    "value": 2294
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LV",
+    "year": 2014,
+    "value": 51371
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "MT",
+    "year": 2014,
+    "value": 0
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "PL",
+    "year": 2014,
+    "value": 131863
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RO",
+    "year": 2014,
+    "value": 290081
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RS",
+    "year": 2014,
+    "value": 20683
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SE",
+    "year": 2014,
+    "value": 253000
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SI",
+    "year": 2014,
+    "value": 3929
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SK",
+    "year": 2014,
+    "value": 40478
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "TR",
+    "year": 2014,
+    "value": 274647
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "UK",
+    "year": 2014,
+    "value": 129671
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "BG",
+    "year": 2013,
+    "value": 3548
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CY",
+    "year": 2013,
+    "value": 1656
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CZ",
+    "year": 2013,
+    "value": 62210
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EE",
+    "year": 2013,
+    "value": 32720
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EL",
+    "year": 2013,
+    "value": 66130
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "ES",
+    "year": 2013,
+    "value": 181875
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "FI",
+    "year": 2013,
+    "value": 75700
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HR",
+    "year": 2013,
+    "value": 13564
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HU",
+    "year": 2013,
+    "value": 66888
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LT",
+    "year": 2013,
+    "value": 99566
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LU",
+    "year": 2013,
+    "value": 2429
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LV",
+    "year": 2013,
+    "value": 46331
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "PL",
+    "year": 2013,
+    "value": 117501
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RO",
+    "year": 2013,
+    "value": 153989
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "RS",
+    "year": 2013,
+    "value": 16441
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SE",
+    "year": 2013,
+    "value": 235600
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SI",
+    "year": 2013,
+    "value": 2943
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SK",
+    "year": 2013,
+    "value": 43871
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "TR",
+    "year": 2013,
+    "value": 229327
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "UK",
+    "year": 2013,
+    "value": 146578
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "CZ",
+    "year": 2012,
+    "value": 58975
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "EE",
+    "year": 2012,
+    "value": 40224
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "ES",
+    "year": 2012,
+    "value": 160721
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "FI",
+    "year": 2012,
+    "value": 65620
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "HU",
+    "year": 2012,
+    "value": 54338
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "IT",
+    "year": 2012,
+    "value": 863298
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LT",
+    "year": 2012,
+    "value": 93550
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LU",
+    "year": 2012,
+    "value": 2116
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "LV",
+    "year": 2012,
+    "value": 47255
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "PL",
+    "year": 2012,
+    "value": 102455
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SE",
+    "year": 2012,
+    "value": 194000
+  },
+  {
+    "crops": "C0000",
+    "unit": "T",
+    "country": "SI",
+    "year": 2012,
+    "value": 2862
+  }
+]

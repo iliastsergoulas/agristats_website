@@ -1,0 +1,365 @@
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>AgriStats</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="keywords" content="agristats, agriculture, farming, smart, beekeeping, react native, farmer, farmers, husbandry, apiculture, earth observation, GNSS, IoT, Internet of Things, satellite, SENTINEL, BeeLive, AgriStats, Wine Routes, wine, wine lover, winemaking, wine tasting">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.6.5/ol.css" />
+		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" href="https://cdn.datatables.net/select/1.3.1/css/select.dataTables.min.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-101173631-3"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-101173631-3');
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/reqwest/2.0.5/reqwest.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.6.5/ol.js"></script>
+		<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdn.datatables.net/select/1.3.1/js/dataTables.select.min.js"></script>
+	</head>
+	<style>
+		.mytable {
+			color:black !important;
+		}
+		.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate{
+			color:white !important;
+		}
+	</style>
+	<body class="is-preload">
+		<div id="page-wrapper">
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><img src="favicon.ico"/><a href="index.html"> AgriStats</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="#">Projects</a>
+								<ul>
+									<li><a href="left-sidebar.html">BeeLive</a></li>
+									<li><a href="right-sidebar.html">Wine Routes</a></li>
+									<!-- <li><a href="greekgeography.html">Κουίζ Γεωγραφίας</a></li> -->
+									<li><a href="webmap.html">Maps</a></li>
+									<li><a href="charts.html">Charts</a></li>
+									<!-- <li>
+									<li>
+										<a href="#">Web Apps</a>
+										<ul>
+											<li><a href="webmap.html">Maps</a></li>
+											<li><a href="charts.html">Charts</a></li>
+											<li><a href="#">EU Funds</a></li>
+											<li><a href="#">Agri Prices</a></li>
+										</ul>
+									</li> -->
+								</ul>
+							</li>
+							<li><a href="#footer">Contact</a></li>
+							<li><a href="#five" class="button primary">Subscribe</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<div id="main" class="wrapper style1">
+					<div class="container">
+						<header class="major">
+							<h2>Web Map</h2>
+							<p>A map displaying spatial data about agriculture and environment</p>
+						</header>
+
+						<!-- Content -->
+							<section id="content">
+								<div id="mymap" style="position:relative;height:600px;"></div>
+								<!--<div><p style="color:white;text-align:center;font-size:40px">Temporarily unavailable</p></div>-->
+								<table id="layerselection" class="display" style="width:100%">
+									<thead class="mytable">
+										<tr>
+											<th>Layer</th>
+											<th>Area</th>
+											<th>layername</th>
+										</tr>
+									</thead>
+									<tbody class="mytable">
+										<tr>
+											<td>Forest Villages</td>
+											<td>Greece</td>
+											<td>layer3</td>
+										</tr>
+										<tr>
+											<td>Cooperative unions</td>
+											<td>Greece</td>
+											<td>layer2</td>
+										</tr>
+										<tr>
+											<td>Reforestable areas</td>
+											<td>Greece</td>
+											<td>layer1</td>
+										</tr>
+										<tr>
+											<td>Apiculture centers</td>
+											<td>Greece</td>
+											<td>layer4</td>
+										</tr>
+										<tr>
+											<td>Snails plants</td>
+											<td>Greece</td>
+											<td>layer5</td>
+										</tr>
+										<tr>
+											<td>Eggs plants</td>
+											<td>Greece</td>
+											<td>layer6</td>
+										</tr>
+										<tr>
+											<td>Aromatic plants</td>
+											<td>Greece</td>
+											<td>layer7</td>
+										</tr>
+										<tr>
+											<td>Milk collection centres</td>
+											<td>Greece</td>
+											<td>layer8</td>
+										</tr>
+										<tr>
+											<td>Vineyards</td>
+											<td>Europe</td>
+											<td>layer9</td>
+										</tr>
+										<tr>
+											<td>Fruits and Berries</td>
+											<td>Europe</td>
+											<td>layer10</td>
+										</tr>
+										<tr>
+											<td>Olive groves</td>
+											<td>Europe</td>
+											<td>layer11</td>
+										</tr>
+										<tr>
+											<td>Rice fields</td>
+											<td>Europe</td>
+											<td>layer12</td>
+										</tr>
+									</tbody>
+									<tfoot>
+										<tr>
+											<th>Layer</th>
+											<th>Area</th>
+											<th>layername</th>
+										</tr>
+									</tfoot>
+								</table>
+								<script>
+									var map,table,baselayer;
+									jQuery(document).ready( function() { 
+										table=$('#layerselection').DataTable( {
+											select: {style: 'multi', selector: 'td:first-child'},
+											order: [[ 1, 'asc' ]],
+											"columnDefs": [
+												{ "visible": false, "targets": 2 },
+												{ 'checkboxes': {'selectRow': true}}
+											  ]
+										} );
+										baselayer = new ol.layer.Tile({ source: new ol.source.OSM(),name:"BaseMap",zIndex:1 });
+										layer1 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:reforestable','STYLES':'polygon','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Reforestable Areas of Greece", zIndex:2
+										});
+										layer2 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:cooperatives','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Cooperative Unions", zIndex:3
+										});
+										layer3 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:forest_villages','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Forest Villages", zIndex:4
+										});
+										layer4 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:apiculture_centres','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Apiculture centers", zIndex:5
+										});
+										layer5 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:snails_plants','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Snails plants", zIndex:6
+										});
+										layer6 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:apiculture_centres','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Eggs plants", zIndex:7
+										});
+										layer7 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:aromatic','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Aromatic plants", zIndex:8
+										});
+										layer8 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:milk_collection_centres','STYLES':'point','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Milk collection centres", zIndex:9
+										});
+										layer9 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:vineyards','STYLES':'vineyards','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Vineyards", zIndex:10
+										});
+										layer10 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:fruits','STYLES':'fruits','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Fruits and Berries", zIndex:11
+										});
+										layer11 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:olivegroves','STYLES':'olivegroves','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Olive groves", zIndex:12
+										});
+										layer12 = new ol.layer.Tile({
+											source: new ol.source.TileWMS({
+												url: 'https://map.agristats.eu/geoserver/agristats/wms',
+												params: {'LAYERS': 'agristats:rice','STYLES':'polygon','TILED': true},
+												serverType: 'geoserver'
+											}),name:"Rice fields", zIndex:13
+										});
+										map = new ol.Map({
+											layers: [baselayer],
+											controls: ol.control.defaults({
+												attributionOptions: ({
+													collapsible: true
+												})
+											}).extend([
+												new ol.control.ZoomSlider(),
+												new ol.control.ZoomToExtent({
+													extent: [
+														2287148, 4156999,
+														3087148, 4956999
+													]
+												}),
+												new ol.control.Rotate(),
+												new ol.control.OverviewMap(),
+												new ol.control.FullScreen()
+											]),
+											target: 'mymap',
+											view: new ol.View({
+											  center: [2687148, 4556999],
+											  zoom: 6.5
+											})
+										});
+										map.updateSize();
+										table.on( 'click', 'tbody tr', function () {
+											var data = table.row( this ).data();
+											if ($(this).hasClass('selected')) {
+												  $(this).removeClass('selected');
+												  map.removeLayer(window[data[2]]);
+											 } else {
+												  $(this).addClass('selected');
+												  map.addLayer(window[data[2]])
+											 };
+										});
+									})
+								</script>
+							</section>
+
+					</div>
+				</div>
+			
+			<!-- Five -->
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2>Subscribe</h2>
+							<p>Join our community by subscribing to our newsletter</p>
+						</header>
+						<!-- Begin Mailchimp Signup Form -->
+						<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+						<style type="text/css">
+							#mc_embed_signup{background:#fff;clear:left;font:14px Helvetica,Arial,sans-serif;}
+						</style>
+						<div id="mc_embed_signup">
+						<form action="https://agristats.us17.list-manage.com/subscribe/post?u=fd2590e4dff83e84068e1cbf9&amp;id=bec57b688f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+							<div id="mc_embed_signup_scroll">
+							
+						<div class="mc-field-group">
+							<label style="color:black" for="mce-EMAIL">Email Address </label>
+							<input style="color:black" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+						</div>
+							<div id="mce-responses" class="clear">
+								<div class="response" id="mce-error-response" style="display:none"></div>
+								<div class="response" id="mce-success-response" style="display:none"></div>
+							</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+							<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fd2590e4dff83e84068e1cbf9_bec57b688f" tabindex="-1" value=""></div>
+							<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+							</div>
+						</form>
+						</div>
+						<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+						<!--End mc_embed_signup-->
+					</div>
+				</section>
+			
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
